@@ -41,7 +41,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-> 🌱 First drops landing soon — [watch this org](https://github.com/Cenius-ai) or [build your own now](https://cenius.ai).
+- [Drift](https://github.com/Cenius-ai/drift-phoenix) — open-source log monitoring dashboard in Elixir/Phoenix
 
 ### Finance
 
@@ -53,13 +53,13 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-> 🌱 First drops landing soon — [watch this org](https://github.com/Cenius-ai) or [build your own now](https://cenius.ai).
+- [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) — open-source blog platform in Astro
 
 ### Social & Community
 
 _Social feeds, forums, chat and community platforms._
 
-> 🌱 First drops landing soon — [watch this org](https://github.com/Cenius-ai) or [build your own now](https://cenius.ai).
+- [Lumen](https://github.com/Cenius-ai/lumen-crystal) — open-source social network app in Crystal
 
 ### Education & Learning
 
