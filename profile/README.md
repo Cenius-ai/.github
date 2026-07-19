@@ -35,6 +35,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Nook](https://github.com/Cenius-ai/nook-vlang) — open-source knowledge base app in V · [remix](https://cenius.ai/marketplace/p/nook)
 - [LinkVault](https://github.com/Cenius-ai/linkvault-clojure) — open-source bookmark knowledge base app in Clojure · [remix](https://cenius.ai/marketplace/p/linkvault)
 
 ### Data & Dashboards
