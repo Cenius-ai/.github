@@ -47,7 +47,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-> 🌱 First drops landing soon — [watch this org](https://github.com/Cenius-ai) or [build your own now](https://cenius.ai).
+- [Haven](https://github.com/Cenius-ai/haven-golang) — open-source personal finance tracker in Go · [remix](https://cenius.ai/marketplace/p/haven)
 
 ### Content & Media
 
