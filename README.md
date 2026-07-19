@@ -1,2 +1,3 @@
-# .github
-Org profile for cenius.ai — the open-source app catalog.
+# cenius.ai
+
+Org profile lives in [`profile/README.md`](profile/README.md).
