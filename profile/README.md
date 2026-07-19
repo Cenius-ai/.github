@@ -41,7 +41,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-- [Drift](https://github.com/Cenius-ai/drift-phoenix) — open-source log monitoring dashboard in Elixir/Phoenix
+- [Drift](https://github.com/Cenius-ai/drift-phoenix) — open-source log monitoring dashboard in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/drift)
 
 ### Finance
 
@@ -53,13 +53,13 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-- [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) — open-source blog platform in Astro
+- [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) — open-source blog platform in Astro · [remix](https://cenius.ai/marketplace/p/orbit-cms)
 
 ### Social & Community
 
 _Social feeds, forums, chat and community platforms._
 
-- [Lumen](https://github.com/Cenius-ai/lumen-crystal) — open-source social network app in Crystal
+- [Lumen](https://github.com/Cenius-ai/lumen-crystal) — open-source social network app in Crystal · [remix](https://cenius.ai/marketplace/p/lumen)
 
 ### Education & Learning
 
