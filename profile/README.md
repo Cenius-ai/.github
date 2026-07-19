@@ -35,7 +35,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-- [LinkVault](https://github.com/Cenius-ai/linkvault-clojure) — open-source book knowledge base app in Clojure · [remix](https://cenius.ai/marketplace/p/linkvault)
+- [LinkVault](https://github.com/Cenius-ai/linkvault-clojure) — open-source bookmark knowledge base app in Clojure · [remix](https://cenius.ai/marketplace/p/linkvault)
 
 ### Data & Dashboards
 
