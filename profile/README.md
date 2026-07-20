@@ -12,7 +12,7 @@
 
 ## How this catalog works
 
-- **MIT licensed** — clone it, run it, ship it.
+- **Apache-2.0 licensed** — clone it, run it, ship it.
 - **Complete presentations** — every repo has a README with a live demo GIF, screenshots and a quickstart.
 - **Remixable** — open any app on [cenius.ai](https://cenius.ai/marketplace), prompt for changes, and get **full rebrand + relicense rights** over your derivative.
 - **Curated cadence** — a steady stream of hand-picked builds, not a dump.
