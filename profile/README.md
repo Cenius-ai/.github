@@ -35,32 +35,32 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-- [Nook](https://github.com/Cenius-ai/nook-vlang) — open-source knowledge base app in V · [remix](https://cenius.ai/marketplace/p/nook)
-- [LinkVault](https://github.com/Cenius-ai/linkvault-clojure) — open-source bookmark knowledge base app in Clojure · [remix](https://cenius.ai/marketplace/p/linkvault)
+- [Nook](https://github.com/Cenius-ai/nook-vlang) — open-source knowledge base app in V · [remix](https://cenius.ai/marketplace/p/nook?ref=gh&utm_campaign=nook-vlang)
+- [LinkVault](https://github.com/Cenius-ai/linkvault-clojure) — open-source bookmark knowledge base app in Clojure · [remix](https://cenius.ai/marketplace/p/linkvault?ref=gh&utm_campaign=linkvault-clojure)
 
 ### Data & Dashboards
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-- [Drift](https://github.com/Cenius-ai/drift-phoenix) — open-source log monitoring dashboard in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/drift)
+- [Drift](https://github.com/Cenius-ai/drift-phoenix) — open-source log monitoring dashboard in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/drift?ref=gh&utm_campaign=drift-phoenix)
 
 ### Finance
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-- [Haven](https://github.com/Cenius-ai/haven-golang) — open-source personal finance tracker in Go · [remix](https://cenius.ai/marketplace/p/haven)
+- [Haven](https://github.com/Cenius-ai/haven-golang) — open-source personal finance tracker in Go · [remix](https://cenius.ai/marketplace/p/haven?ref=gh&utm_campaign=haven-golang)
 
 ### Content & Media
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-- [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) — open-source blog platform in Astro · [remix](https://cenius.ai/marketplace/p/orbit-cms)
+- [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) — open-source blog platform in Astro · [remix](https://cenius.ai/marketplace/p/orbit-cms?ref=gh&utm_campaign=orbit-cms-astro)
 
 ### Social & Community
 
 _Social feeds, forums, chat and community platforms._
 
-- [Lumen](https://github.com/Cenius-ai/lumen-crystal) — open-source social network app in Crystal · [remix](https://cenius.ai/marketplace/p/lumen)
+- [Lumen](https://github.com/Cenius-ai/lumen-crystal) — open-source social network app in Crystal · [remix](https://cenius.ai/marketplace/p/lumen?ref=gh&utm_campaign=lumen-crystal)
 
 ### Education & Learning
 
