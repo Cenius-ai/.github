@@ -29,7 +29,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-> 🌱 First drops landing soon — [watch this org](https://github.com/Cenius-ai) or [build your own now](https://cenius.ai).
+- [Nimbus – Local Services Marketplace](https://github.com/Cenius-ai/nimbus-local-services-marketplace-crystal) — open-source marketplace platform in Crystal · [remix](https://cenius.ai/marketplace/p/nimbus-local-services-marketplace?ref=gh&utm_campaign=nimbus-local-services-marketplace-crystal)
 
 ### Productivity & Organization
 
@@ -54,6 +54,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Next.js Markdown Blog](https://github.com/Cenius-ai/next-js-markdown-blog-vlang) — open-source blog platform in V · [remix](https://cenius.ai/marketplace/p/next-js-markdown-blog?ref=gh&utm_campaign=next-js-markdown-blog-vlang)
 - [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) — open-source blog platform in Astro · [remix](https://cenius.ai/marketplace/p/orbit-cms?ref=gh&utm_campaign=orbit-cms-astro)
 
 ### Social & Community
