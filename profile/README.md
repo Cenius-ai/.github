@@ -23,7 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-> 🌱 First drops landing soon — [watch this org](https://github.com/Cenius-ai) or [build your own now](https://cenius.ai).
+- [Book Library](https://github.com/Cenius-ai/book-library-flask) — open-source book web application in Flask · [remix](https://cenius.ai/marketplace/p/book-library?ref=gh&utm_campaign=book-library-flask)
 
 ### E-commerce & Marketplaces
 
