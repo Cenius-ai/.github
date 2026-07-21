@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Book Catalog Web App](https://github.com/Cenius-ai/book-catalog-web-app-scala) — open-source book web application in Scala · [remix](https://cenius.ai/marketplace/p/book-catalog-web-app?ref=gh&utm_campaign=book-catalog-web-app-scala)
 - [Book Library](https://github.com/Cenius-ai/book-library-flask) — open-source book web application in Flask · [remix](https://cenius.ai/marketplace/p/book-library?ref=gh&utm_campaign=book-library-flask)
 
 ### E-commerce & Marketplaces
