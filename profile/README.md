@@ -81,7 +81,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-> 🌱 First drops landing soon — [watch this org](https://github.com/Cenius-ai) or [build your own now](https://cenius.ai).
+- [Library Catalog Web App](https://github.com/Cenius-ai/library-catalog-web-app-spring-boot) — open-source book software library in Spring Boot · [remix](https://cenius.ai/marketplace/p/library-catalog-web-app?ref=gh&utm_campaign=library-catalog-web-app-spring-boot)
 
 ### AI-powered Apps
 
