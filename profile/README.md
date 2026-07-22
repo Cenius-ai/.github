@@ -31,6 +31,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Larch – Design Job Board](https://github.com/Cenius-ai/larch-design-job-board-spring-boot) — open-source marketplace platform in Spring Boot · [remix](https://cenius.ai/marketplace/p/larch-design-job-board?ref=gh&utm_campaign=larch-design-job-board-spring-boot)
 - [Ceramics Studio Online Store](https://github.com/Cenius-ai/ceramics-studio-online-store-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/ceramics-studio-online-store?ref=gh&utm_campaign=ceramics-studio-online-store-vlang)
 - [Nimbus – Local Services Marketplace](https://github.com/Cenius-ai/nimbus-local-services-marketplace-crystal) — open-source marketplace platform in Crystal · [remix](https://cenius.ai/marketplace/p/nimbus-local-services-marketplace?ref=gh&utm_campaign=nimbus-local-services-marketplace-crystal)
 
