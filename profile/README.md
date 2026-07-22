@@ -49,6 +49,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Warehouse Inventory Manager](https://github.com/Cenius-ai/warehouse-inventory-manager-fastapi) — open-source monitoring dashboard in FastAPI · [remix](https://cenius.ai/marketplace/p/warehouse-inventory-manager?ref=gh&utm_campaign=warehouse-inventory-manager-fastapi)
 - [Inventory Web App](https://github.com/Cenius-ai/inventory-web-app-spring-boot) — open-source monitoring dashboard in Spring Boot · [remix](https://cenius.ai/marketplace/p/inventory-web-app?ref=gh&utm_campaign=inventory-web-app-spring-boot)
 - [Reef](https://github.com/Cenius-ai/reef-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/reef?ref=gh&utm_campaign=reef-webapp)
 - [Drift](https://github.com/Cenius-ai/drift-phoenix) — open-source log monitoring dashboard in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/drift?ref=gh&utm_campaign=drift-phoenix)
