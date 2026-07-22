@@ -63,6 +63,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Recipe Site](https://github.com/Cenius-ai/recipe-site-django) — open-source recipe manager in Django · [remix](https://cenius.ai/marketplace/p/recipe-site?ref=gh&utm_campaign=recipe-site-django)
 - [Next.js Markdown Blog](https://github.com/Cenius-ai/next-js-markdown-blog-vlang) — open-source blog platform in V · [remix](https://cenius.ai/marketplace/p/next-js-markdown-blog?ref=gh&utm_campaign=next-js-markdown-blog-vlang)
 - [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) — open-source blog platform in Astro · [remix](https://cenius.ai/marketplace/p/orbit-cms?ref=gh&utm_campaign=orbit-cms-astro)
 
