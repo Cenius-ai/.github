@@ -57,6 +57,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Opal](https://github.com/Cenius-ai/opal-phoenix) — open-source personal finance tracker in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/opal-2?ref=gh&utm_campaign=opal-phoenix)
 - [Haven](https://github.com/Cenius-ai/haven-golang) — open-source personal finance tracker in Go · [remix](https://cenius.ai/marketplace/p/haven?ref=gh&utm_campaign=haven-golang)
 
 ### Content & Media
