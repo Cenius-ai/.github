@@ -72,6 +72,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [Beacon](https://github.com/Cenius-ai/beacon-fastapi) — open-source photography social network app in FastAPI · [remix](https://cenius.ai/marketplace/p/beacon?ref=gh&utm_campaign=beacon-fastapi)
 - [Lumen](https://github.com/Cenius-ai/lumen-crystal) — open-source social network app in Crystal · [remix](https://cenius.ai/marketplace/p/lumen?ref=gh&utm_campaign=lumen-crystal)
 
 ### Education & Learning
