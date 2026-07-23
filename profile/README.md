@@ -99,6 +99,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Flask Books Catalog](https://github.com/Cenius-ai/flask-books-catalog) — open-source book software library in Flask · [remix](https://cenius.ai/marketplace/p/flask-books-catalog?ref=gh&utm_campaign=flask-books-catalog)
 - [Library Catalog Web App](https://github.com/Cenius-ai/library-catalog-web-app-spring-boot) — open-source book software library in Spring Boot · [remix](https://cenius.ai/marketplace/p/library-catalog-web-app?ref=gh&utm_campaign=library-catalog-web-app-spring-boot)
 
 ### AI-powered Apps
