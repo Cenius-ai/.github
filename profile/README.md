@@ -71,6 +71,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Recipe Docs Site](https://github.com/Cenius-ai/recipe-docs-site-vlang) — open-source recipe manager in V · [remix](https://cenius.ai/marketplace/p/recipe-docs-site?ref=gh&utm_campaign=recipe-docs-site-vlang)
 - [Recipe Book](https://github.com/Cenius-ai/recipe-book-flask) — open-source recipe manager in Flask · [remix](https://cenius.ai/marketplace/p/recipe-book?ref=gh&utm_campaign=recipe-book-flask)
 - [Slate](https://github.com/Cenius-ai/slate-nodejs) — open-source recipe manager in Node.js · [remix](https://cenius.ai/marketplace/p/slate?ref=gh&utm_campaign=slate-nodejs)
 - [Recipe Site](https://github.com/Cenius-ai/recipe-site-django) — open-source recipe manager in Django · [remix](https://cenius.ai/marketplace/p/recipe-site?ref=gh&utm_campaign=recipe-site-django)
