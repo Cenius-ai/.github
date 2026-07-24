@@ -83,6 +83,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [Aster - Photographer's Social Network](https://github.com/Cenius-ai/aster-photographer-s-social-network-kotlin) — open-source photography social network app in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/aster---photographer-s-social-network?ref=gh&utm_campaign=aster-photographer-s-social-network-kotlin)
 - [Jade Forum — Production MVP Implementation Plan](https://github.com/Cenius-ai/jade-forum-production-mvp-implementation-plan-fastapi) — open-source social network app in FastAPI · [remix](https://cenius.ai/marketplace/p/jade-forum-production-mvp-implementation-plan?ref=gh&utm_campaign=jade-forum-production-mvp-implementation-plan-fastapi)
 - [Beacon](https://github.com/Cenius-ai/beacon-fastapi) — open-source photography social network app in FastAPI · [remix](https://cenius.ai/marketplace/p/beacon?ref=gh&utm_campaign=beacon-fastapi)
 - [Lumen](https://github.com/Cenius-ai/lumen-crystal) — open-source social network app in Crystal · [remix](https://cenius.ai/marketplace/p/lumen?ref=gh&utm_campaign=lumen-crystal)
