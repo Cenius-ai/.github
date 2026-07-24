@@ -43,6 +43,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Django Knowledge Base CMS](https://github.com/Cenius-ai/django-knowledge-base-cms) — open-source knowledge base app in Django · [remix](https://cenius.ai/marketplace/p/django-knowledge-base-cms?ref=gh&utm_campaign=django-knowledge-base-cms)
 - [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-nodejs) — open-source bookmark knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/bookmarks-manager-2?ref=gh&utm_campaign=bookmarks-manager-nodejs)
 - [Sage](https://github.com/Cenius-ai/sage-crystal) — open-source pet knowledge base app in Crystal · [remix](https://cenius.ai/marketplace/p/sage?ref=gh&utm_campaign=sage-crystal)
 - [Sage — Developer's Code Snippet Manager](https://github.com/Cenius-ai/sage-developer-s-code-snippet-manager-crystal) — open-source pet knowledge base app in Crystal · [remix](https://cenius.ai/marketplace/p/sage-developer-s-code-snippet-manager?ref=gh&utm_campaign=sage-developer-s-code-snippet-manager-crystal)
