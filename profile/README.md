@@ -91,7 +91,7 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
-> 🌱 First drops landing soon — [watch this org](https://github.com/Cenius-ai) or [build your own now](https://cenius.ai).
+- [Cedar — Video Tutorial Library](https://github.com/Cenius-ai/cedar-video-tutorial-library-golang) — open-source learning platform in Go · [remix](https://cenius.ai/marketplace/p/cedar-video-tutorial-library?ref=gh&utm_campaign=cedar-video-tutorial-library-golang)
 
 ### Games & Interactive
 
