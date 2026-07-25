@@ -32,6 +32,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Opal — Restaurant Reservations](https://github.com/Cenius-ai/opal-restaurant-reservations-spring-boot) — open-source restaurant appointment scheduling system in Spring Boot · [remix](https://cenius.ai/marketplace/p/opal-restaurant-reservations?ref=gh&utm_campaign=opal-restaurant-reservations-spring-boot)
 - [Echo](https://github.com/Cenius-ai/echo-django) — open-source marketplace platform in Django · [remix](https://cenius.ai/marketplace/p/echo?ref=gh&utm_campaign=echo-django)
 - [Peak Coffee Roaster E-Commerce Storefront](https://github.com/Cenius-ai/peak-coffee-roaster-e-commerce-storefront-scala) — open-source e-commerce storefront in Scala · [remix](https://cenius.ai/marketplace/p/peak-coffee-roaster-e-commerce-storefront?ref=gh&utm_campaign=peak-coffee-roaster-e-commerce-storefront-scala)
 - [Onyx Remote Job Board](https://github.com/Cenius-ai/onyx-remote-job-board-spring-boot) — open-source marketplace platform in Spring Boot · [remix](https://cenius.ai/marketplace/p/onyx-remote-job-board?ref=gh&utm_campaign=onyx-remote-job-board-spring-boot)
