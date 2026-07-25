@@ -108,6 +108,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Personal Book Library](https://github.com/Cenius-ai/personal-book-library-rails) — open-source book software library in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/personal-book-library?ref=gh&utm_campaign=personal-book-library-rails)
 - [Flask Books Catalog](https://github.com/Cenius-ai/flask-books-catalog) — open-source book software library in Flask · [remix](https://cenius.ai/marketplace/p/flask-books-catalog?ref=gh&utm_campaign=flask-books-catalog)
 - [Library Catalog Web App](https://github.com/Cenius-ai/library-catalog-web-app-spring-boot) — open-source book software library in Spring Boot · [remix](https://cenius.ai/marketplace/p/library-catalog-web-app?ref=gh&utm_campaign=library-catalog-web-app-spring-boot)
 
