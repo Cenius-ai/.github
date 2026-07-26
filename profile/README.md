@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Brick Breaker Arcade](https://github.com/Cenius-ai/brick-breaker-arcade-python) — open-source web application in Python · [remix](https://cenius.ai/marketplace/p/brick-breaker-arcade?ref=gh&utm_campaign=brick-breaker-arcade-python)
 - [NoteAPI-Lite](https://github.com/Cenius-ai/noteapi-lite-vlang) — open-source web application in V · [remix](https://cenius.ai/marketplace/p/noteapi-lite?ref=gh&utm_campaign=noteapi-lite-vlang)
 - [Nova - Feature Flag Manager](https://github.com/Cenius-ai/nova-feature-flag-manager-crystal) — open-source admin panel in Crystal · [remix](https://cenius.ai/marketplace/p/nova---feature-flag-manager?ref=gh&utm_campaign=nova-feature-flag-manager-crystal)
 - [Book Catalog Web App](https://github.com/Cenius-ai/book-catalog-web-app-scala) — open-source book web application in Scala · [remix](https://cenius.ai/marketplace/p/book-catalog-web-app?ref=gh&utm_campaign=book-catalog-web-app-scala)
