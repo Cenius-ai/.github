@@ -77,6 +77,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Nook](https://github.com/Cenius-ai/nook-spring-boot) — open-source recipe manager in Spring Boot · [remix](https://cenius.ai/marketplace/p/nook-2?ref=gh&utm_campaign=nook-spring-boot)
 - [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-crystal) — open-source recipe manager in Crystal · [remix](https://cenius.ai/marketplace/p/recipes-web-app?ref=gh&utm_campaign=recipes-web-app-crystal)
 - [Blog CMS MVP](https://github.com/Cenius-ai/blog-cms-mvp-rails) — open-source blog platform in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/blog-cms-mvp?ref=gh&utm_campaign=blog-cms-mvp-rails)
 - [Django Blog/CMS MVP](https://github.com/Cenius-ai/django-blog-cms-mvp) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/django-blog-cms-mvp?ref=gh&utm_campaign=django-blog-cms-mvp)
