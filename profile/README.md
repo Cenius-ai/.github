@@ -56,6 +56,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Article Search Engine](https://github.com/Cenius-ai/article-search-engine-clojure) — open-source search engine app in Clojure · [remix](https://cenius.ai/marketplace/p/article-search-engine?ref=gh&utm_campaign=article-search-engine-clojure)
 - [Haven](https://github.com/Cenius-ai/haven-spring-boot) — open-source monitoring dashboard in Spring Boot · [remix](https://cenius.ai/marketplace/p/haven-2?ref=gh&utm_campaign=haven-spring-boot)
 - [Inventory Manager](https://github.com/Cenius-ai/inventory-manager-django) — open-source monitoring dashboard in Django · [remix](https://cenius.ai/marketplace/p/inventory-manager?ref=gh&utm_campaign=inventory-manager-django)
 - [Tide: Code Snippet Manager & Pastebin](https://github.com/Cenius-ai/tide-code-snippet-manager-pastebin-flask) — open-source pet monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/tide-code-snippet-manager-pastebin?ref=gh&utm_campaign=tide-code-snippet-manager-pastebin-flask)
