@@ -56,6 +56,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Nova Smart Home Dashboard](https://github.com/Cenius-ai/nova-smart-home-dashboard-clojure) — open-source monitoring dashboard in Clojure · [remix](https://cenius.ai/marketplace/p/nova-smart-home-dashboard?ref=gh&utm_campaign=nova-smart-home-dashboard-clojure)
 - [Article Search Engine](https://github.com/Cenius-ai/article-search-engine-clojure) — open-source search engine app in Clojure · [remix](https://cenius.ai/marketplace/p/article-search-engine?ref=gh&utm_campaign=article-search-engine-clojure)
 - [Haven](https://github.com/Cenius-ai/haven-spring-boot) — open-source monitoring dashboard in Spring Boot · [remix](https://cenius.ai/marketplace/p/haven-2?ref=gh&utm_campaign=haven-spring-boot)
 - [Inventory Manager](https://github.com/Cenius-ai/inventory-manager-django) — open-source monitoring dashboard in Django · [remix](https://cenius.ai/marketplace/p/inventory-manager?ref=gh&utm_campaign=inventory-manager-django)
