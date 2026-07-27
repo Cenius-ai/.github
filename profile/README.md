@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Maple Helpdesk](https://github.com/Cenius-ai/maple-helpdesk-dotnet) — open-source CRM system in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/maple-helpdesk?ref=gh&utm_campaign=maple-helpdesk-dotnet)
 - [OrbitDodge](https://github.com/Cenius-ai/orbitdodge-python) — open-source web application in Python · [remix](https://cenius.ai/marketplace/p/orbitdodge?ref=gh&utm_campaign=orbitdodge-python)
 - [Brick Breaker Arcade](https://github.com/Cenius-ai/brick-breaker-arcade-python) — open-source web application in Python · [remix](https://cenius.ai/marketplace/p/brick-breaker-arcade?ref=gh&utm_campaign=brick-breaker-arcade-python)
 - [NoteAPI-Lite](https://github.com/Cenius-ai/noteapi-lite-vlang) — open-source web application in V · [remix](https://cenius.ai/marketplace/p/noteapi-lite?ref=gh&utm_campaign=noteapi-lite-vlang)
