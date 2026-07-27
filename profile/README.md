@@ -87,6 +87,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Recipe Box](https://github.com/Cenius-ai/recipe-box-spring-boot) — open-source recipe manager in Spring Boot · [remix](https://cenius.ai/marketplace/p/recipe-box?ref=gh&utm_campaign=recipe-box-spring-boot)
 - [SaaS Landing Page](https://github.com/Cenius-ai/saas-landing-page-python) — open-source landing page in Python · [remix](https://cenius.ai/marketplace/p/saas-landing-page?ref=gh&utm_campaign=saas-landing-page-python)
 - [Nook](https://github.com/Cenius-ai/nook-spring-boot) — open-source recipe manager in Spring Boot · [remix](https://cenius.ai/marketplace/p/nook-2?ref=gh&utm_campaign=nook-spring-boot)
 - [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-crystal) — open-source recipe manager in Crystal · [remix](https://cenius.ai/marketplace/p/recipes-web-app?ref=gh&utm_campaign=recipes-web-app-crystal)
