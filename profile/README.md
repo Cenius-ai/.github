@@ -48,6 +48,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Bookshelf](https://github.com/Cenius-ai/bookshelf-clojure) — open-source book to-do list app in Clojure · [remix](https://cenius.ai/marketplace/p/bookshelf?ref=gh&utm_campaign=bookshelf-clojure)
 - [Book Club Manager](https://github.com/Cenius-ai/book-club-manager-spring-boot) — open-source book to-do list app in Spring Boot · [remix](https://cenius.ai/marketplace/p/book-club-manager?ref=gh&utm_campaign=book-club-manager-spring-boot)
 - [Django Knowledge Base CMS](https://github.com/Cenius-ai/django-knowledge-base-cms) — open-source knowledge base app in Django · [remix](https://cenius.ai/marketplace/p/django-knowledge-base-cms?ref=gh&utm_campaign=django-knowledge-base-cms)
 - [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-nodejs) — open-source bookmark knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/bookmarks-manager-2?ref=gh&utm_campaign=bookmarks-manager-nodejs)
