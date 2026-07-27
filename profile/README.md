@@ -89,6 +89,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Rails Blog](https://github.com/Cenius-ai/rails-blog) — open-source blog platform in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-blog?ref=gh&utm_campaign=rails-blog)
 - [Flux](https://github.com/Cenius-ai/flux-rails) — open-source podcast music player app in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/flux?ref=gh&utm_campaign=flux-rails)
 - [Recipe Box](https://github.com/Cenius-ai/recipe-box-spring-boot) — open-source recipe manager in Spring Boot · [remix](https://cenius.ai/marketplace/p/recipe-box?ref=gh&utm_campaign=recipe-box-spring-boot)
 - [SaaS Landing Page](https://github.com/Cenius-ai/saas-landing-page-python) — open-source landing page in Python · [remix](https://cenius.ai/marketplace/p/saas-landing-page?ref=gh&utm_campaign=saas-landing-page-python)
