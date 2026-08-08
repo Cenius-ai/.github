@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Cobalt – Personal Health Records MVP](https://github.com/Cenius-ai/cobalt-personal-health-records-mvp-scala) — open-source medical CRM system in Scala · [remix](https://cenius.ai/marketplace/p/cobalt-personal-health-records-mvp?ref=gh&utm_campaign=cobalt-personal-health-records-mvp-scala)
 - [Book Catalog App](https://github.com/Cenius-ai/book-catalog-app-scala) — open-source book web application in Scala · [remix](https://cenius.ai/marketplace/p/book-catalog-app?ref=gh&utm_campaign=book-catalog-app-scala)
 - [Lumen](https://github.com/Cenius-ai/lumen-scala) — open-source web application in Scala · [remix](https://cenius.ai/marketplace/p/lumen-2?ref=gh&utm_campaign=lumen-scala)
 - [ShelfKeeper](https://github.com/Cenius-ai/shelfkeeper-rails) — open-source book admin panel in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/shelfkeeper?ref=gh&utm_campaign=shelfkeeper-rails)
