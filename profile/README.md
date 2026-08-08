@@ -54,6 +54,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [FaqForge](https://github.com/Cenius-ai/faqforge-php) — open-source knowledge base app in PHP · [remix](https://cenius.ai/marketplace/p/faqforge?ref=gh&utm_campaign=faqforge-php)
 - [FocusFlow](https://github.com/Cenius-ai/focusflow-python) — open-source to-do list app in Python · [remix](https://cenius.ai/marketplace/p/focusflow?ref=gh&utm_campaign=focusflow-python)
 - [Bookshelf](https://github.com/Cenius-ai/bookshelf-clojure) — open-source book to-do list app in Clojure · [remix](https://cenius.ai/marketplace/p/bookshelf?ref=gh&utm_campaign=bookshelf-clojure)
 - [Book Club Manager](https://github.com/Cenius-ai/book-club-manager-spring-boot) — open-source book to-do list app in Spring Boot · [remix](https://cenius.ai/marketplace/p/book-club-manager?ref=gh&utm_campaign=book-club-manager-spring-boot)
