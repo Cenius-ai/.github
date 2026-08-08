@@ -95,6 +95,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Vela Recipe Manager & Meal Planner](https://github.com/Cenius-ai/vela-recipe-manager-meal-planner-phoenix) — open-source recipe manager in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/vela-recipe-manager-meal-planner?ref=gh&utm_campaign=vela-recipe-manager-meal-planner-phoenix)
 - [Iris — Food Blog CMS](https://github.com/Cenius-ai/iris-food-blog-cms-flask) — open-source blog platform in Flask · [remix](https://cenius.ai/marketplace/p/iris-food-blog-cms?ref=gh&utm_campaign=iris-food-blog-cms-flask)
 - [Rails Blog](https://github.com/Cenius-ai/rails-blog) — open-source blog platform in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-blog?ref=gh&utm_campaign=rails-blog)
 - [Flux](https://github.com/Cenius-ai/flux-rails) — open-source podcast music player app in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/flux?ref=gh&utm_campaign=flux-rails)
