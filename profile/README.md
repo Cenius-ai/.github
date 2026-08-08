@@ -94,6 +94,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Iris — Food Blog CMS](https://github.com/Cenius-ai/iris-food-blog-cms-flask) — open-source blog platform in Flask · [remix](https://cenius.ai/marketplace/p/iris-food-blog-cms?ref=gh&utm_campaign=iris-food-blog-cms-flask)
 - [Rails Blog](https://github.com/Cenius-ai/rails-blog) — open-source blog platform in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-blog?ref=gh&utm_campaign=rails-blog)
 - [Flux](https://github.com/Cenius-ai/flux-rails) — open-source podcast music player app in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/flux?ref=gh&utm_campaign=flux-rails)
 - [Recipe Box](https://github.com/Cenius-ai/recipe-box-spring-boot) — open-source recipe manager in Spring Boot · [remix](https://cenius.ai/marketplace/p/recipe-box?ref=gh&utm_campaign=recipe-box-spring-boot)
