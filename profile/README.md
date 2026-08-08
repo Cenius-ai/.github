@@ -67,6 +67,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Vertex](https://github.com/Cenius-ai/vertex-scala) — open-source monitoring dashboard in Scala · [remix](https://cenius.ai/marketplace/p/vertex?ref=gh&utm_campaign=vertex-scala)
 - [Zephyr Remote Job Board](https://github.com/Cenius-ai/zephyr-remote-job-board-flask) — open-source search engine app in Flask · [remix](https://cenius.ai/marketplace/p/zephyr-remote-job-board?ref=gh&utm_campaign=zephyr-remote-job-board-flask)
 - [Loom Inventory Manager](https://github.com/Cenius-ai/loom-inventory-manager-clojure) — open-source monitoring dashboard in Clojure · [remix](https://cenius.ai/marketplace/p/loom-inventory-manager?ref=gh&utm_campaign=loom-inventory-manager-clojure)
 - [Cove Status Page](https://github.com/Cenius-ai/cove-status-page-spring-boot) — open-source monitoring dashboard in Spring Boot · [remix](https://cenius.ai/marketplace/p/cove-status-page?ref=gh&utm_campaign=cove-status-page-spring-boot)
