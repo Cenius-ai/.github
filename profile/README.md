@@ -155,7 +155,7 @@ _Chat assistants and creative studios (all whitelabel, all yours)._
 
 _Health trackers and lifestyle companions._
 
-> 🌱 First drops landing soon — [watch this org](https://github.com/Cenius-ai) or [build your own now](https://cenius.ai).
+- [Cove — Runners Habit & Fitness Tracker](https://github.com/Cenius-ai/cove-runners-habit-fitness-tracker-kotlin) — open-source fitness tracker in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/cove-runners-habit-fitness-tracker?ref=gh&utm_campaign=cove-runners-habit-fitness-tracker-kotlin)
 
 ---
 
