@@ -39,6 +39,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Lumen](https://github.com/Cenius-ai/lumen-phoenix) — open-source restaurant e-commerce storefront in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/lumen-3?ref=gh&utm_campaign=lumen-phoenix)
 - [Cove](https://github.com/Cenius-ai/cove-spring-boot) — open-source salon marketplace platform in Spring Boot · [remix](https://cenius.ai/marketplace/p/cove?ref=gh&utm_campaign=cove-spring-boot)
 - [Opal — Restaurant Reservations](https://github.com/Cenius-ai/opal-restaurant-reservations-spring-boot) — open-source restaurant appointment scheduling system in Spring Boot · [remix](https://cenius.ai/marketplace/p/opal-restaurant-reservations?ref=gh&utm_campaign=opal-restaurant-reservations-spring-boot)
 - [Echo](https://github.com/Cenius-ai/echo-django) — open-source marketplace platform in Django · [remix](https://cenius.ai/marketplace/p/echo?ref=gh&utm_campaign=echo-django)
