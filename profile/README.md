@@ -103,6 +103,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Django Blog CMS MVP](https://github.com/Cenius-ai/django-blog-cms-mvp-2) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/django-blog-cms-mvp-2?ref=gh&utm_campaign=django-blog-cms-mvp-2)
 - [Recipe Box](https://github.com/Cenius-ai/recipe-box-phoenix) — open-source recipe manager in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/recipe-box-2?ref=gh&utm_campaign=recipe-box-phoenix)
 - [Vela Recipe Manager & Meal Planner](https://github.com/Cenius-ai/vela-recipe-manager-meal-planner-phoenix) — open-source recipe manager in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/vela-recipe-manager-meal-planner?ref=gh&utm_campaign=vela-recipe-manager-meal-planner-phoenix)
 - [Iris — Food Blog CMS](https://github.com/Cenius-ai/iris-food-blog-cms-flask) — open-source blog platform in Flask · [remix](https://cenius.ai/marketplace/p/iris-food-blog-cms?ref=gh&utm_campaign=iris-food-blog-cms-flask)
