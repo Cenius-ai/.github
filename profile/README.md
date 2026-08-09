@@ -58,6 +58,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Task Manager Demo with Authentication](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/task-manager-demo-with-authentication?ref=gh&utm_campaign=task-manager-demo-with-authentication-nodejs)
 - [BugTracker](https://github.com/Cenius-ai/bugtracker-django) — open-source to-do list app in Django · [remix](https://cenius.ai/marketplace/p/bugtracker?ref=gh&utm_campaign=bugtracker-django)
 - [Cedar — Developer Q&A Forum](https://github.com/Cenius-ai/cedar-developer-q-a-forum-fastapi) — open-source knowledge base app in FastAPI · [remix](https://cenius.ai/marketplace/p/cedar-developer-q-a-forum?ref=gh&utm_campaign=cedar-developer-q-a-forum-fastapi)
 - [FaqForge](https://github.com/Cenius-ai/faqforge-php) — open-source knowledge base app in PHP · [remix](https://cenius.ai/marketplace/p/faqforge?ref=gh&utm_campaign=faqforge-php)
