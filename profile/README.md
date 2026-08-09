@@ -39,6 +39,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Halo Salon Booking](https://github.com/Cenius-ai/halo-salon-booking-phoenix) — open-source salon appointment scheduling system in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/halo-salon-booking?ref=gh&utm_campaign=halo-salon-booking-phoenix)
 - [Flux](https://github.com/Cenius-ai/flux-kotlin) — open-source e-commerce storefront in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/flux-2?ref=gh&utm_campaign=flux-kotlin)
 - [Lumen](https://github.com/Cenius-ai/lumen-phoenix) — open-source restaurant e-commerce storefront in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/lumen-3?ref=gh&utm_campaign=lumen-phoenix)
 - [Cove](https://github.com/Cenius-ai/cove-spring-boot) — open-source salon marketplace platform in Spring Boot · [remix](https://cenius.ai/marketplace/p/cove?ref=gh&utm_campaign=cove-spring-boot)
