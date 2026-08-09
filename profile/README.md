@@ -57,6 +57,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Cedar — Developer Q&A Forum](https://github.com/Cenius-ai/cedar-developer-q-a-forum-fastapi) — open-source knowledge base app in FastAPI · [remix](https://cenius.ai/marketplace/p/cedar-developer-q-a-forum?ref=gh&utm_campaign=cedar-developer-q-a-forum-fastapi)
 - [FaqForge](https://github.com/Cenius-ai/faqforge-php) — open-source knowledge base app in PHP · [remix](https://cenius.ai/marketplace/p/faqforge?ref=gh&utm_campaign=faqforge-php)
 - [FocusFlow](https://github.com/Cenius-ai/focusflow-python) — open-source to-do list app in Python · [remix](https://cenius.ai/marketplace/p/focusflow?ref=gh&utm_campaign=focusflow-python)
 - [Bookshelf](https://github.com/Cenius-ai/bookshelf-clojure) — open-source book to-do list app in Clojure · [remix](https://cenius.ai/marketplace/p/bookshelf?ref=gh&utm_campaign=bookshelf-clojure)
