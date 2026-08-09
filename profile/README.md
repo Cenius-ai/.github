@@ -90,6 +90,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [BillSplit](https://github.com/Cenius-ai/billsplit-phoenix) — open-source expense personal finance tracker in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/billsplit?ref=gh&utm_campaign=billsplit-phoenix)
 - [Expense Tracker Web](https://github.com/Cenius-ai/expense-tracker-web-spring-boot) — open-source expense personal finance tracker in Spring Boot · [remix](https://cenius.ai/marketplace/p/expense-tracker-web?ref=gh&utm_campaign=expense-tracker-web-spring-boot)
 - [Knox](https://github.com/Cenius-ai/knox-spring-boot) — open-source personal finance tracker in Spring Boot · [remix](https://cenius.ai/marketplace/p/knox-2?ref=gh&utm_campaign=knox-spring-boot)
 - [Opal](https://github.com/Cenius-ai/opal-phoenix) — open-source personal finance tracker in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/opal-2?ref=gh&utm_campaign=opal-phoenix)
