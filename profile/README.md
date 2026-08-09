@@ -39,6 +39,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Rails E-Commerce Storefront](https://github.com/Cenius-ai/rails-e-commerce-storefront) — open-source e-commerce storefront in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-e-commerce-storefront?ref=gh&utm_campaign=rails-e-commerce-storefront)
 - [Peak - Remote Tech Job Board](https://github.com/Cenius-ai/peak-remote-tech-job-board-phoenix) — open-source marketplace platform in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/peak---remote-tech-job-board?ref=gh&utm_campaign=peak-remote-tech-job-board-phoenix)
 - [Halo Salon Booking](https://github.com/Cenius-ai/halo-salon-booking-phoenix) — open-source salon appointment scheduling system in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/halo-salon-booking?ref=gh&utm_campaign=halo-salon-booking-phoenix)
 - [Flux](https://github.com/Cenius-ai/flux-kotlin) — open-source e-commerce storefront in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/flux-2?ref=gh&utm_campaign=flux-kotlin)
