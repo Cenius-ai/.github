@@ -119,6 +119,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [Terra - Survey Builder](https://github.com/Cenius-ai/terra-survey-builder-phoenix) — open-source chat application in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/terra---survey-builder?ref=gh&utm_campaign=terra-survey-builder-phoenix)
 - [Pulse — Tech News Aggregator](https://github.com/Cenius-ai/pulse-tech-news-aggregator-golang) — open-source social network app in Go · [remix](https://cenius.ai/marketplace/p/pulse-tech-news-aggregator?ref=gh&utm_campaign=pulse-tech-news-aggregator-golang)
 - [Willow](https://github.com/Cenius-ai/willow-django) — open-source social network app in Django · [remix](https://cenius.ai/marketplace/p/willow?ref=gh&utm_campaign=willow-django)
 - [Opal - Tech News Aggregator](https://github.com/Cenius-ai/opal-tech-news-aggregator-rails) — open-source social network app in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/opal---tech-news-aggregator?ref=gh&utm_campaign=opal-tech-news-aggregator-rails)
