@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Event Management App](https://github.com/Cenius-ai/event-management-app-nodejs) — open-source admin panel in Node.js · [remix](https://cenius.ai/marketplace/p/event-management-app?ref=gh&utm_campaign=event-management-app-nodejs)
 - [Cobalt – Personal Health Records MVP](https://github.com/Cenius-ai/cobalt-personal-health-records-mvp-scala) — open-source medical CRM system in Scala · [remix](https://cenius.ai/marketplace/p/cobalt-personal-health-records-mvp?ref=gh&utm_campaign=cobalt-personal-health-records-mvp-scala)
 - [Book Catalog App](https://github.com/Cenius-ai/book-catalog-app-scala) — open-source book web application in Scala · [remix](https://cenius.ai/marketplace/p/book-catalog-app?ref=gh&utm_campaign=book-catalog-app-scala)
 - [Lumen](https://github.com/Cenius-ai/lumen-scala) — open-source web application in Scala · [remix](https://cenius.ai/marketplace/p/lumen-2?ref=gh&utm_campaign=lumen-scala)
