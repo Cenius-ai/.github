@@ -78,6 +78,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Grove — Smart-Home Dashboard](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/grove-smart-home-dashboard?ref=gh&utm_campaign=grove-smart-home-dashboard-astro)
 - [Echo Smart-Home Dashboard](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/echo-smart-home-dashboard?ref=gh&utm_campaign=echo-smart-home-dashboard-astro)
 - [Vertex](https://github.com/Cenius-ai/vertex-scala) — open-source monitoring dashboard in Scala · [remix](https://cenius.ai/marketplace/p/vertex?ref=gh&utm_campaign=vertex-scala)
 - [Zephyr Remote Job Board](https://github.com/Cenius-ai/zephyr-remote-job-board-flask) — open-source search engine app in Flask · [remix](https://cenius.ai/marketplace/p/zephyr-remote-job-board?ref=gh&utm_campaign=zephyr-remote-job-board-flask)
@@ -108,6 +109,8 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Copy of Recipe Community](https://github.com/Cenius-ai/copy-of-recipe-community-django) — open-source recipe manager in Django · [remix](https://cenius.ai/marketplace/p/copy-of-recipe-community?ref=gh&utm_campaign=copy-of-recipe-community-django)
+- [Cedar - Recipe Manager & Meal Planner](https://github.com/Cenius-ai/cedar-recipe-manager-meal-planner-flask) — open-source recipe manager in Flask · [remix](https://cenius.ai/marketplace/p/cedar---recipe-manager-meal-planner?ref=gh&utm_campaign=cedar-recipe-manager-meal-planner-flask)
 - [RecipeBox](https://github.com/Cenius-ai/recipebox-flask) — open-source recipe manager in Flask · [remix](https://cenius.ai/marketplace/p/recipebox?ref=gh&utm_campaign=recipebox-flask)
 - [Django Blog CMS MVP](https://github.com/Cenius-ai/django-blog-cms-mvp-2) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/django-blog-cms-mvp-2?ref=gh&utm_campaign=django-blog-cms-mvp-2)
 - [Recipe Box](https://github.com/Cenius-ai/recipe-box-phoenix) — open-source recipe manager in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/recipe-box-2?ref=gh&utm_campaign=recipe-box-phoenix)
