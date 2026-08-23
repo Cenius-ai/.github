@@ -40,6 +40,8 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Rails Bookstore](https://github.com/Cenius-ai/rails-bookstore) — open-source book e-commerce storefront in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-bookstore?ref=gh&utm_campaign=rails-bookstore)
+- [Haven - Coffee Roaster Storefront](https://github.com/Cenius-ai/haven-coffee-roaster-storefront-golang) — open-source e-commerce storefront in Go · [remix](https://cenius.ai/marketplace/p/haven---coffee-roaster-storefront?ref=gh&utm_campaign=haven-coffee-roaster-storefront-golang)
 - [Rails E-Commerce Storefront](https://github.com/Cenius-ai/rails-e-commerce-storefront) — open-source e-commerce storefront in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-e-commerce-storefront?ref=gh&utm_campaign=rails-e-commerce-storefront)
 - [Peak - Remote Tech Job Board](https://github.com/Cenius-ai/peak-remote-tech-job-board-phoenix) — open-source marketplace platform in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/peak---remote-tech-job-board?ref=gh&utm_campaign=peak-remote-tech-job-board-phoenix)
 - [Halo Salon Booking](https://github.com/Cenius-ai/halo-salon-booking-phoenix) — open-source salon appointment scheduling system in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/halo-salon-booking?ref=gh&utm_campaign=halo-salon-booking-phoenix)
@@ -78,6 +80,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [PartsRoom](https://github.com/Cenius-ai/partsroom-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/partsroom?ref=gh&utm_campaign=partsroom-flask)
 - [Grove — Smart-Home Dashboard](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/grove-smart-home-dashboard?ref=gh&utm_campaign=grove-smart-home-dashboard-astro)
 - [Echo Smart-Home Dashboard](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/echo-smart-home-dashboard?ref=gh&utm_campaign=echo-smart-home-dashboard-astro)
 - [Vertex](https://github.com/Cenius-ai/vertex-scala) — open-source monitoring dashboard in Scala · [remix](https://cenius.ai/marketplace/p/vertex?ref=gh&utm_campaign=vertex-scala)
