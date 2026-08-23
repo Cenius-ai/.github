@@ -40,6 +40,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Quarkus Product Catalog](https://github.com/Cenius-ai/quarkus-product-catalog-webapp) — open-source e-commerce storefront in Full-stack app · [remix](https://cenius.ai/marketplace/p/quarkus-product-catalog?ref=gh&utm_campaign=quarkus-product-catalog-webapp)
 - [Rails Bookstore](https://github.com/Cenius-ai/rails-bookstore) — open-source book e-commerce storefront in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-bookstore?ref=gh&utm_campaign=rails-bookstore)
 - [Haven - Coffee Roaster Storefront](https://github.com/Cenius-ai/haven-coffee-roaster-storefront-golang) — open-source e-commerce storefront in Go · [remix](https://cenius.ai/marketplace/p/haven---coffee-roaster-storefront?ref=gh&utm_campaign=haven-coffee-roaster-storefront-golang)
 - [Rails E-Commerce Storefront](https://github.com/Cenius-ai/rails-e-commerce-storefront) — open-source e-commerce storefront in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-e-commerce-storefront?ref=gh&utm_campaign=rails-e-commerce-storefront)
@@ -112,6 +113,8 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Recipe Manager](https://github.com/Cenius-ai/recipe-manager-vlang) — open-source recipe manager in V · [remix](https://cenius.ai/marketplace/p/recipe-manager?ref=gh&utm_campaign=recipe-manager-vlang)
+- [RecipeShelf](https://github.com/Cenius-ai/recipeshelf-golang) — open-source recipe manager in Go · [remix](https://cenius.ai/marketplace/p/recipeshelf?ref=gh&utm_campaign=recipeshelf-golang)
 - [Copy of Recipe Community](https://github.com/Cenius-ai/copy-of-recipe-community-django) — open-source recipe manager in Django · [remix](https://cenius.ai/marketplace/p/copy-of-recipe-community?ref=gh&utm_campaign=copy-of-recipe-community-django)
 - [Cedar - Recipe Manager & Meal Planner](https://github.com/Cenius-ai/cedar-recipe-manager-meal-planner-flask) — open-source recipe manager in Flask · [remix](https://cenius.ai/marketplace/p/cedar---recipe-manager-meal-planner?ref=gh&utm_campaign=cedar-recipe-manager-meal-planner-flask)
 - [RecipeBox](https://github.com/Cenius-ai/recipebox-flask) — open-source recipe manager in Flask · [remix](https://cenius.ai/marketplace/p/recipebox?ref=gh&utm_campaign=recipebox-flask)
