@@ -66,6 +66,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [TaskBoard](https://github.com/Cenius-ai/taskboard-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/taskboard?ref=gh&utm_campaign=taskboard-vite)
 - [Cedar](https://github.com/Cenius-ai/cedar-fastapi) — open-source knowledge base app in FastAPI · [remix](https://cenius.ai/marketplace/p/cedar-3?ref=gh&utm_campaign=cedar-fastapi)
 - [Knox Engineering Wiki](https://github.com/Cenius-ai/knox-engineering-wiki-golang) — open-source knowledge base app in Go · [remix](https://cenius.ai/marketplace/p/knox-engineering-wiki?ref=gh&utm_campaign=knox-engineering-wiki-golang)
 - [Cenius Help-Desk Prototype](https://github.com/Cenius-ai/cenius-help-desk-prototype-django) — open-source to-do list app in Django · [remix](https://cenius.ai/marketplace/p/cenius-help-desk-prototype?ref=gh&utm_campaign=cenius-help-desk-prototype-django)
@@ -87,6 +88,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Halo](https://github.com/Cenius-ai/halo-rails) — open-source monitoring dashboard in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/halo?ref=gh&utm_campaign=halo-rails)
 - [PartsRoom](https://github.com/Cenius-ai/partsroom-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/partsroom?ref=gh&utm_campaign=partsroom-flask)
 - [Grove — Smart-Home Dashboard](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/grove-smart-home-dashboard?ref=gh&utm_campaign=grove-smart-home-dashboard-astro)
 - [Echo Smart-Home Dashboard](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/echo-smart-home-dashboard?ref=gh&utm_campaign=echo-smart-home-dashboard-astro)
@@ -119,6 +121,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Blogify CMS](https://github.com/Cenius-ai/blogify-cms-django) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/blogify-cms?ref=gh&utm_campaign=blogify-cms-django)
 - [Django Blog CMS](https://github.com/Cenius-ai/django-blog-cms) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/django-blog-cms-2?ref=gh&utm_campaign=django-blog-cms)
 - [Clean Minimal Blog CMS](https://github.com/Cenius-ai/clean-minimal-blog-cms-django) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/clean-minimal-blog-cms?ref=gh&utm_campaign=clean-minimal-blog-cms-django)
 - [Recipe Manager SPA](https://github.com/Cenius-ai/recipe-manager-spa-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-manager-spa?ref=gh&utm_campaign=recipe-manager-spa-vite)
