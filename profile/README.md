@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-rails) — open-source bookmark web application in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/bookmarks-manager-3?ref=gh&utm_campaign=bookmarks-manager-rails)
 - [Event Management App](https://github.com/Cenius-ai/event-management-app-nodejs) — open-source admin panel in Node.js · [remix](https://cenius.ai/marketplace/p/event-management-app?ref=gh&utm_campaign=event-management-app-nodejs)
 - [Cobalt – Personal Health Records MVP](https://github.com/Cenius-ai/cobalt-personal-health-records-mvp-scala) — open-source medical CRM system in Scala · [remix](https://cenius.ai/marketplace/p/cobalt-personal-health-records-mvp?ref=gh&utm_campaign=cobalt-personal-health-records-mvp-scala)
 - [Book Catalog App](https://github.com/Cenius-ai/book-catalog-app-scala) — open-source book web application in Scala · [remix](https://cenius.ai/marketplace/p/book-catalog-app?ref=gh&utm_campaign=book-catalog-app-scala)
@@ -62,6 +63,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Knox Engineering Wiki](https://github.com/Cenius-ai/knox-engineering-wiki-golang) — open-source knowledge base app in Go · [remix](https://cenius.ai/marketplace/p/knox-engineering-wiki?ref=gh&utm_campaign=knox-engineering-wiki-golang)
 - [Cenius Help-Desk Prototype](https://github.com/Cenius-ai/cenius-help-desk-prototype-django) — open-source to-do list app in Django · [remix](https://cenius.ai/marketplace/p/cenius-help-desk-prototype?ref=gh&utm_campaign=cenius-help-desk-prototype-django)
 - [Task Manager Demo with Authentication](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/task-manager-demo-with-authentication?ref=gh&utm_campaign=task-manager-demo-with-authentication-nodejs)
 - [BugTracker](https://github.com/Cenius-ai/bugtracker-django) — open-source to-do list app in Django · [remix](https://cenius.ai/marketplace/p/bugtracker?ref=gh&utm_campaign=bugtracker-django)
@@ -113,6 +115,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Recipe Manager SPA](https://github.com/Cenius-ai/recipe-manager-spa-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-manager-spa?ref=gh&utm_campaign=recipe-manager-spa-vite)
 - [Recipe Manager](https://github.com/Cenius-ai/recipe-manager-vlang) — open-source recipe manager in V · [remix](https://cenius.ai/marketplace/p/recipe-manager?ref=gh&utm_campaign=recipe-manager-vlang)
 - [RecipeShelf](https://github.com/Cenius-ai/recipeshelf-golang) — open-source recipe manager in Go · [remix](https://cenius.ai/marketplace/p/recipeshelf?ref=gh&utm_campaign=recipeshelf-golang)
 - [Copy of Recipe Community](https://github.com/Cenius-ai/copy-of-recipe-community-django) — open-source recipe manager in Django · [remix](https://cenius.ai/marketplace/p/copy-of-recipe-community?ref=gh&utm_campaign=copy-of-recipe-community-django)
