@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Halo — Code Snippet Manager](https://github.com/Cenius-ai/halo-code-snippet-manager-rails) — open-source pet web application in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/halo-code-snippet-manager?ref=gh&utm_campaign=halo-code-snippet-manager-rails)
 - [Book Catalog](https://github.com/Cenius-ai/book-catalog-scala) — open-source book web application in Scala · [remix](https://cenius.ai/marketplace/p/book-catalog?ref=gh&utm_campaign=book-catalog-scala)
 - [Loom - Conference Event Listings](https://github.com/Cenius-ai/loom-conference-event-listings-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/loom---conference-event-listings?ref=gh&utm_campaign=loom-conference-event-listings-webapp)
 - [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-rails) — open-source bookmark web application in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/bookmarks-manager-3?ref=gh&utm_campaign=bookmarks-manager-rails)
@@ -65,6 +66,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Cedar](https://github.com/Cenius-ai/cedar-fastapi) — open-source knowledge base app in FastAPI · [remix](https://cenius.ai/marketplace/p/cedar-3?ref=gh&utm_campaign=cedar-fastapi)
 - [Knox Engineering Wiki](https://github.com/Cenius-ai/knox-engineering-wiki-golang) — open-source knowledge base app in Go · [remix](https://cenius.ai/marketplace/p/knox-engineering-wiki?ref=gh&utm_campaign=knox-engineering-wiki-golang)
 - [Cenius Help-Desk Prototype](https://github.com/Cenius-ai/cenius-help-desk-prototype-django) — open-source to-do list app in Django · [remix](https://cenius.ai/marketplace/p/cenius-help-desk-prototype?ref=gh&utm_campaign=cenius-help-desk-prototype-django)
 - [Task Manager Demo with Authentication](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/task-manager-demo-with-authentication?ref=gh&utm_campaign=task-manager-demo-with-authentication-nodejs)
@@ -117,6 +119,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Django Blog CMS](https://github.com/Cenius-ai/django-blog-cms) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/django-blog-cms-2?ref=gh&utm_campaign=django-blog-cms)
 - [Clean Minimal Blog CMS](https://github.com/Cenius-ai/clean-minimal-blog-cms-django) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/clean-minimal-blog-cms?ref=gh&utm_campaign=clean-minimal-blog-cms-django)
 - [Recipe Manager SPA](https://github.com/Cenius-ai/recipe-manager-spa-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-manager-spa?ref=gh&utm_campaign=recipe-manager-spa-vite)
 - [Recipe Manager](https://github.com/Cenius-ai/recipe-manager-vlang) — open-source recipe manager in V · [remix](https://cenius.ai/marketplace/p/recipe-manager?ref=gh&utm_campaign=recipe-manager-vlang)
