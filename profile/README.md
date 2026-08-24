@@ -23,6 +23,8 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Book Catalog](https://github.com/Cenius-ai/book-catalog-scala) — open-source book web application in Scala · [remix](https://cenius.ai/marketplace/p/book-catalog?ref=gh&utm_campaign=book-catalog-scala)
+- [Loom - Conference Event Listings](https://github.com/Cenius-ai/loom-conference-event-listings-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/loom---conference-event-listings?ref=gh&utm_campaign=loom-conference-event-listings-webapp)
 - [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-rails) — open-source bookmark web application in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/bookmarks-manager-3?ref=gh&utm_campaign=bookmarks-manager-rails)
 - [Event Management App](https://github.com/Cenius-ai/event-management-app-nodejs) — open-source admin panel in Node.js · [remix](https://cenius.ai/marketplace/p/event-management-app?ref=gh&utm_campaign=event-management-app-nodejs)
 - [Cobalt – Personal Health Records MVP](https://github.com/Cenius-ai/cobalt-personal-health-records-mvp-scala) — open-source medical CRM system in Scala · [remix](https://cenius.ai/marketplace/p/cobalt-personal-health-records-mvp?ref=gh&utm_campaign=cobalt-personal-health-records-mvp-scala)
@@ -115,6 +117,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Clean Minimal Blog CMS](https://github.com/Cenius-ai/clean-minimal-blog-cms-django) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/clean-minimal-blog-cms?ref=gh&utm_campaign=clean-minimal-blog-cms-django)
 - [Recipe Manager SPA](https://github.com/Cenius-ai/recipe-manager-spa-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-manager-spa?ref=gh&utm_campaign=recipe-manager-spa-vite)
 - [Recipe Manager](https://github.com/Cenius-ai/recipe-manager-vlang) — open-source recipe manager in V · [remix](https://cenius.ai/marketplace/p/recipe-manager?ref=gh&utm_campaign=recipe-manager-vlang)
 - [RecipeShelf](https://github.com/Cenius-ai/recipeshelf-golang) — open-source recipe manager in Go · [remix](https://cenius.ai/marketplace/p/recipeshelf?ref=gh&utm_campaign=recipeshelf-golang)
