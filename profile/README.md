@@ -45,6 +45,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [BrewMarket](https://github.com/Cenius-ai/brewmarket-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/brewmarket?ref=gh&utm_campaign=brewmarket-vlang)
 - [Rails Storefront](https://github.com/Cenius-ai/rails-storefront) — open-source e-commerce storefront in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-storefront?ref=gh&utm_campaign=rails-storefront)
 - [Quarkus Product Catalog](https://github.com/Cenius-ai/quarkus-product-catalog-webapp) — open-source e-commerce storefront in Full-stack app · [remix](https://cenius.ai/marketplace/p/quarkus-product-catalog?ref=gh&utm_campaign=quarkus-product-catalog-webapp)
 - [Rails Bookstore](https://github.com/Cenius-ai/rails-bookstore) — open-source book e-commerce storefront in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-bookstore?ref=gh&utm_campaign=rails-bookstore)
@@ -92,6 +93,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [DeskDesk](https://github.com/Cenius-ai/deskdesk-django) — open-source monitoring dashboard in Django · [remix](https://cenius.ai/marketplace/p/deskdesk?ref=gh&utm_campaign=deskdesk-django)
 - [Halo](https://github.com/Cenius-ai/halo-rails) — open-source monitoring dashboard in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/halo?ref=gh&utm_campaign=halo-rails)
 - [PartsRoom](https://github.com/Cenius-ai/partsroom-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/partsroom?ref=gh&utm_campaign=partsroom-flask)
 - [Grove — Smart-Home Dashboard](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/grove-smart-home-dashboard?ref=gh&utm_campaign=grove-smart-home-dashboard-astro)
@@ -174,6 +176,7 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
+- [Terra Course Catalog](https://github.com/Cenius-ai/terra-course-catalog-crystal) — open-source learning platform in Crystal · [remix](https://cenius.ai/marketplace/p/terra-course-catalog?ref=gh&utm_campaign=terra-course-catalog-crystal)
 - [Aster](https://github.com/Cenius-ai/aster-golang) — open-source learning platform in Go · [remix](https://cenius.ai/marketplace/p/aster-2?ref=gh&utm_campaign=aster-golang)
 - [Cedar — Video Tutorial Library](https://github.com/Cenius-ai/cedar-video-tutorial-library-golang) — open-source learning platform in Go · [remix](https://cenius.ai/marketplace/p/cedar-video-tutorial-library?ref=gh&utm_campaign=cedar-video-tutorial-library-golang)
 
