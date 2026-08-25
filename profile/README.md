@@ -125,6 +125,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Jade - Freelancer Invoicing & Billing](https://github.com/Cenius-ai/jade-freelancer-invoicing-billing-golang) — open-source freelancer personal finance tracker in Go · [remix](https://cenius.ai/marketplace/p/jade---freelancer-invoicing-billing?ref=gh&utm_campaign=jade-freelancer-invoicing-billing-golang)
 - [BillSplit](https://github.com/Cenius-ai/billsplit-phoenix) — open-source expense personal finance tracker in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/billsplit?ref=gh&utm_campaign=billsplit-phoenix)
 - [Expense Tracker Web](https://github.com/Cenius-ai/expense-tracker-web-spring-boot) — open-source expense personal finance tracker in Spring Boot · [remix](https://cenius.ai/marketplace/p/expense-tracker-web?ref=gh&utm_campaign=expense-tracker-web-spring-boot)
 - [Knox](https://github.com/Cenius-ai/knox-spring-boot) — open-source personal finance tracker in Spring Boot · [remix](https://cenius.ai/marketplace/p/knox-2?ref=gh&utm_campaign=knox-spring-boot)
@@ -135,6 +136,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Arc](https://github.com/Cenius-ai/arc-django) — open-source photo gallery app in Django · [remix](https://cenius.ai/marketplace/p/arc?ref=gh&utm_campaign=arc-django)
 - [Nimbus – Designer Photo Gallery Portfolio](https://github.com/Cenius-ai/nimbus-designer-photo-gallery-portfolio-nodejs) — open-source photo gallery app in Node.js · [remix](https://cenius.ai/marketplace/p/nimbus-designer-photo-gallery-portfolio?ref=gh&utm_campaign=nimbus-designer-photo-gallery-portfolio-nodejs)
 - [Rails Blog CMS](https://github.com/Cenius-ai/rails-blog-cms) — open-source blog platform in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-blog-cms?ref=gh&utm_campaign=rails-blog-cms)
 - [Warm Community Blog](https://github.com/Cenius-ai/warm-community-blog-django) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/warm-community-blog?ref=gh&utm_campaign=warm-community-blog-django)
@@ -172,6 +174,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [TripJournal](https://github.com/Cenius-ai/tripjournal-webapp) — open-source travel social network app in Full-stack app · [remix](https://cenius.ai/marketplace/p/tripjournal?ref=gh&utm_campaign=tripjournal-webapp)
 - [Django Forum](https://github.com/Cenius-ai/django-forum) — open-source social network app in Django · [remix](https://cenius.ai/marketplace/p/django-forum?ref=gh&utm_campaign=django-forum)
 - [Terra - Survey Builder](https://github.com/Cenius-ai/terra-survey-builder-phoenix) — open-source chat application in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/terra---survey-builder?ref=gh&utm_campaign=terra-survey-builder-phoenix)
 - [Pulse — Tech News Aggregator](https://github.com/Cenius-ai/pulse-tech-news-aggregator-golang) — open-source social network app in Go · [remix](https://cenius.ai/marketplace/p/pulse-tech-news-aggregator?ref=gh&utm_campaign=pulse-tech-news-aggregator-golang)
