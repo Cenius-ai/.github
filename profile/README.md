@@ -67,6 +67,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Event Planner](https://github.com/Cenius-ai/event-planner-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/event-planner?ref=gh&utm_campaign=event-planner-nodejs)
 - [NoteNest](https://github.com/Cenius-ai/notenest-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/notenest?ref=gh&utm_campaign=notenest-vite)
 - [TaskBoard](https://github.com/Cenius-ai/taskboard-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/taskboard?ref=gh&utm_campaign=taskboard-vite)
 - [Cedar](https://github.com/Cenius-ai/cedar-fastapi) — open-source knowledge base app in FastAPI · [remix](https://cenius.ai/marketplace/p/cedar-3?ref=gh&utm_campaign=cedar-fastapi)
@@ -123,6 +124,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Markdown Blog & Admin](https://github.com/Cenius-ai/markdown-blog-admin-vlang) — open-source blog platform in V · [remix](https://cenius.ai/marketplace/p/markdown-blog-admin?ref=gh&utm_campaign=markdown-blog-admin-vlang)
 - [Guestbook](https://github.com/Cenius-ai/guestbook-flask) — open-source book blog platform in Flask · [remix](https://cenius.ai/marketplace/p/guestbook?ref=gh&utm_campaign=guestbook-flask)
 - [Blogify CMS](https://github.com/Cenius-ai/blogify-cms-django) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/blogify-cms?ref=gh&utm_campaign=blogify-cms-django)
 - [Django Blog CMS](https://github.com/Cenius-ai/django-blog-cms) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/django-blog-cms-2?ref=gh&utm_campaign=django-blog-cms)
@@ -169,6 +171,7 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
+- [Aster](https://github.com/Cenius-ai/aster-golang) — open-source learning platform in Go · [remix](https://cenius.ai/marketplace/p/aster-2?ref=gh&utm_campaign=aster-golang)
 - [Cedar — Video Tutorial Library](https://github.com/Cenius-ai/cedar-video-tutorial-library-golang) — open-source learning platform in Go · [remix](https://cenius.ai/marketplace/p/cedar-video-tutorial-library?ref=gh&utm_campaign=cedar-video-tutorial-library-golang)
 
 ### Games & Interactive
