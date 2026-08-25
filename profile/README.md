@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Sales CRM](https://github.com/Cenius-ai/sales-crm-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/sales-crm?ref=gh&utm_campaign=sales-crm-vlang)
 - [Halo — Code Snippet Manager](https://github.com/Cenius-ai/halo-code-snippet-manager-rails) — open-source pet web application in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/halo-code-snippet-manager?ref=gh&utm_campaign=halo-code-snippet-manager-rails)
 - [Book Catalog](https://github.com/Cenius-ai/book-catalog-scala) — open-source book web application in Scala · [remix](https://cenius.ai/marketplace/p/book-catalog?ref=gh&utm_campaign=book-catalog-scala)
 - [Loom - Conference Event Listings](https://github.com/Cenius-ai/loom-conference-event-listings-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/loom---conference-event-listings?ref=gh&utm_campaign=loom-conference-event-listings-webapp)
@@ -124,6 +125,8 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Rails Blog CMS](https://github.com/Cenius-ai/rails-blog-cms) — open-source blog platform in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-blog-cms?ref=gh&utm_campaign=rails-blog-cms)
+- [Warm Community Blog](https://github.com/Cenius-ai/warm-community-blog-django) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/warm-community-blog?ref=gh&utm_campaign=warm-community-blog-django)
 - [Markdown Blog & Admin](https://github.com/Cenius-ai/markdown-blog-admin-vlang) — open-source blog platform in V · [remix](https://cenius.ai/marketplace/p/markdown-blog-admin?ref=gh&utm_campaign=markdown-blog-admin-vlang)
 - [Guestbook](https://github.com/Cenius-ai/guestbook-flask) — open-source book blog platform in Flask · [remix](https://cenius.ai/marketplace/p/guestbook?ref=gh&utm_campaign=guestbook-flask)
 - [Blogify CMS](https://github.com/Cenius-ai/blogify-cms-django) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/blogify-cms?ref=gh&utm_campaign=blogify-cms-django)
