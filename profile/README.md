@@ -45,6 +45,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [BeanMarket](https://github.com/Cenius-ai/beanmarket-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/beanmarket?ref=gh&utm_campaign=beanmarket-vlang)
 - [BrewMarket](https://github.com/Cenius-ai/brewmarket-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/brewmarket?ref=gh&utm_campaign=brewmarket-vlang)
 - [Rails Storefront](https://github.com/Cenius-ai/rails-storefront) — open-source e-commerce storefront in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-storefront?ref=gh&utm_campaign=rails-storefront)
 - [Quarkus Product Catalog](https://github.com/Cenius-ai/quarkus-product-catalog-webapp) — open-source e-commerce storefront in Full-stack app · [remix](https://cenius.ai/marketplace/p/quarkus-product-catalog?ref=gh&utm_campaign=quarkus-product-catalog-webapp)
@@ -69,6 +70,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Remix Notes App](https://github.com/Cenius-ai/remix-notes-app-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/remix-notes-app?ref=gh&utm_campaign=remix-notes-app-vite)
 - [NoteNest](https://github.com/Cenius-ai/notenest-vite-2) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/notenest-2?ref=gh&utm_campaign=notenest-vite-2)
 - [CourseTrack](https://github.com/Cenius-ai/coursetrack-django) — open-source to-do list app in Django · [remix](https://cenius.ai/marketplace/p/coursetrack?ref=gh&utm_campaign=coursetrack-django)
 - [Event Planner](https://github.com/Cenius-ai/event-planner-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/event-planner?ref=gh&utm_campaign=event-planner-nodejs)
@@ -165,6 +167,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [Django Forum](https://github.com/Cenius-ai/django-forum) — open-source social network app in Django · [remix](https://cenius.ai/marketplace/p/django-forum?ref=gh&utm_campaign=django-forum)
 - [Terra - Survey Builder](https://github.com/Cenius-ai/terra-survey-builder-phoenix) — open-source chat application in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/terra---survey-builder?ref=gh&utm_campaign=terra-survey-builder-phoenix)
 - [Pulse — Tech News Aggregator](https://github.com/Cenius-ai/pulse-tech-news-aggregator-golang) — open-source social network app in Go · [remix](https://cenius.ai/marketplace/p/pulse-tech-news-aggregator?ref=gh&utm_campaign=pulse-tech-news-aggregator-golang)
 - [Willow](https://github.com/Cenius-ai/willow-django) — open-source social network app in Django · [remix](https://cenius.ai/marketplace/p/willow?ref=gh&utm_campaign=willow-django)
