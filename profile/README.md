@@ -69,6 +69,8 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [NoteNest](https://github.com/Cenius-ai/notenest-vite-2) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/notenest-2?ref=gh&utm_campaign=notenest-vite-2)
+- [CourseTrack](https://github.com/Cenius-ai/coursetrack-django) — open-source to-do list app in Django · [remix](https://cenius.ai/marketplace/p/coursetrack?ref=gh&utm_campaign=coursetrack-django)
 - [Event Planner](https://github.com/Cenius-ai/event-planner-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/event-planner?ref=gh&utm_campaign=event-planner-nodejs)
 - [NoteNest](https://github.com/Cenius-ai/notenest-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/notenest?ref=gh&utm_campaign=notenest-vite)
 - [TaskBoard](https://github.com/Cenius-ai/taskboard-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/taskboard?ref=gh&utm_campaign=taskboard-vite)
@@ -176,6 +178,7 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
+- [Harbor Language LMS](https://github.com/Cenius-ai/harbor-language-lms-crystal) — open-source learning platform in Crystal · [remix](https://cenius.ai/marketplace/p/harbor-language-lms?ref=gh&utm_campaign=harbor-language-lms-crystal)
 - [Terra Course Catalog](https://github.com/Cenius-ai/terra-course-catalog-crystal) — open-source learning platform in Crystal · [remix](https://cenius.ai/marketplace/p/terra-course-catalog?ref=gh&utm_campaign=terra-course-catalog-crystal)
 - [Aster](https://github.com/Cenius-ai/aster-golang) — open-source learning platform in Go · [remix](https://cenius.ai/marketplace/p/aster-2?ref=gh&utm_campaign=aster-golang)
 - [Cedar — Video Tutorial Library](https://github.com/Cenius-ai/cedar-video-tutorial-library-golang) — open-source learning platform in Go · [remix](https://cenius.ai/marketplace/p/cedar-video-tutorial-library?ref=gh&utm_campaign=cedar-video-tutorial-library-golang)
