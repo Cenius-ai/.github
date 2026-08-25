@@ -98,6 +98,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Pulse](https://github.com/Cenius-ai/pulse-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/pulse?ref=gh&utm_campaign=pulse-flask)
 - [Event Booking Web App](https://github.com/Cenius-ai/event-booking-web-app-django) — open-source book monitoring dashboard in Django · [remix](https://cenius.ai/marketplace/p/event-booking-web-app?ref=gh&utm_campaign=event-booking-web-app-django)
 - [Vela Smart Home Dashboard](https://github.com/Cenius-ai/vela-smart-home-dashboard-dotnet) — open-source monitoring dashboard in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/vela-smart-home-dashboard?ref=gh&utm_campaign=vela-smart-home-dashboard-dotnet)
 - [DeskDesk](https://github.com/Cenius-ai/deskdesk-django) — open-source monitoring dashboard in Django · [remix](https://cenius.ai/marketplace/p/deskdesk?ref=gh&utm_campaign=deskdesk-django)
@@ -134,6 +135,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Nimbus – Designer Photo Gallery Portfolio](https://github.com/Cenius-ai/nimbus-designer-photo-gallery-portfolio-nodejs) — open-source photo gallery app in Node.js · [remix](https://cenius.ai/marketplace/p/nimbus-designer-photo-gallery-portfolio?ref=gh&utm_campaign=nimbus-designer-photo-gallery-portfolio-nodejs)
 - [Rails Blog CMS](https://github.com/Cenius-ai/rails-blog-cms) — open-source blog platform in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-blog-cms?ref=gh&utm_campaign=rails-blog-cms)
 - [Warm Community Blog](https://github.com/Cenius-ai/warm-community-blog-django) — open-source blog platform in Django · [remix](https://cenius.ai/marketplace/p/warm-community-blog?ref=gh&utm_campaign=warm-community-blog-django)
 - [Markdown Blog & Admin](https://github.com/Cenius-ai/markdown-blog-admin-vlang) — open-source blog platform in V · [remix](https://cenius.ai/marketplace/p/markdown-blog-admin?ref=gh&utm_campaign=markdown-blog-admin-vlang)
@@ -184,6 +186,7 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
+- [Ember](https://github.com/Cenius-ai/ember-webapp) — open-source learning platform in Full-stack app · [remix](https://cenius.ai/marketplace/p/ember-2?ref=gh&utm_campaign=ember-webapp)
 - [Harbor Language LMS](https://github.com/Cenius-ai/harbor-language-lms-crystal) — open-source learning platform in Crystal · [remix](https://cenius.ai/marketplace/p/harbor-language-lms?ref=gh&utm_campaign=harbor-language-lms-crystal)
 - [Terra Course Catalog](https://github.com/Cenius-ai/terra-course-catalog-crystal) — open-source learning platform in Crystal · [remix](https://cenius.ai/marketplace/p/terra-course-catalog?ref=gh&utm_campaign=terra-course-catalog-crystal)
 - [Aster](https://github.com/Cenius-ai/aster-golang) — open-source learning platform in Go · [remix](https://cenius.ai/marketplace/p/aster-2?ref=gh&utm_campaign=aster-golang)
