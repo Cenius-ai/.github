@@ -71,6 +71,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Peak - Student Checklist Notes](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang) — open-source to-do list app in V · [remix](https://cenius.ai/marketplace/p/peak---student-checklist-notes?ref=gh&utm_campaign=peak-student-checklist-notes-vlang)
 - [Habit Tracker](https://github.com/Cenius-ai/habit-tracker-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/habit-tracker?ref=gh&utm_campaign=habit-tracker-vite)
 - [Zephyr](https://github.com/Cenius-ai/zephyr-django) — open-source podcast knowledge base app in Django · [remix](https://cenius.ai/marketplace/p/zephyr-2?ref=gh&utm_campaign=zephyr-django)
 - [Flask Notes App](https://github.com/Cenius-ai/flask-notes-app) — open-source to-do list app in Flask · [remix](https://cenius.ai/marketplace/p/flask-notes-app?ref=gh&utm_campaign=flask-notes-app)
@@ -191,6 +192,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [Pulse](https://github.com/Cenius-ai/pulse-golang) — open-source social network app in Go · [remix](https://cenius.ai/marketplace/p/pulse-2?ref=gh&utm_campaign=pulse-golang)
 - [TripJournal](https://github.com/Cenius-ai/tripjournal-webapp) — open-source travel social network app in Full-stack app · [remix](https://cenius.ai/marketplace/p/tripjournal?ref=gh&utm_campaign=tripjournal-webapp)
 - [Django Forum](https://github.com/Cenius-ai/django-forum) — open-source social network app in Django · [remix](https://cenius.ai/marketplace/p/django-forum?ref=gh&utm_campaign=django-forum)
 - [Terra - Survey Builder](https://github.com/Cenius-ai/terra-survey-builder-phoenix) — open-source chat application in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/terra---survey-builder?ref=gh&utm_campaign=terra-survey-builder-phoenix)
@@ -238,6 +240,7 @@ _Chat assistants and creative studios (all whitelabel, all yours)._
 
 _Health trackers and lifestyle companions._
 
+- [Willow](https://github.com/Cenius-ai/willow-vite) — open-source fitness tracker in Vite · [remix](https://cenius.ai/marketplace/p/willow-2?ref=gh&utm_campaign=willow-vite)
 - [Cove — Runners Habit & Fitness Tracker](https://github.com/Cenius-ai/cove-runners-habit-fitness-tracker-kotlin) — open-source fitness tracker in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/cove-runners-habit-fitness-tracker?ref=gh&utm_campaign=cove-runners-habit-fitness-tracker-kotlin)
 
 ---
