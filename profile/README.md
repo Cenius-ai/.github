@@ -70,6 +70,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Zephyr](https://github.com/Cenius-ai/zephyr-django) — open-source podcast knowledge base app in Django · [remix](https://cenius.ai/marketplace/p/zephyr-2?ref=gh&utm_campaign=zephyr-django)
 - [Flask Notes App](https://github.com/Cenius-ai/flask-notes-app) — open-source to-do list app in Flask · [remix](https://cenius.ai/marketplace/p/flask-notes-app?ref=gh&utm_campaign=flask-notes-app)
 - [LinkDeck](https://github.com/Cenius-ai/linkdeck-vite) — open-source bookmark knowledge base app in Vite · [remix](https://cenius.ai/marketplace/p/linkdeck?ref=gh&utm_campaign=linkdeck-vite)
 - [Personal Notes App with JWT Authentication](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask) — open-source knowledge base app in Flask · [remix](https://cenius.ai/marketplace/p/personal-notes-app-with-jwt-authentication?ref=gh&utm_campaign=personal-notes-app-with-jwt-authentication-flask)
@@ -100,6 +101,8 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Cobalt Portfolio Tracker](https://github.com/Cenius-ai/cobalt-portfolio-tracker-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/cobalt-portfolio-tracker?ref=gh&utm_campaign=cobalt-portfolio-tracker-webapp)
+- [StockRoom](https://github.com/Cenius-ai/stockroom-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/stockroom?ref=gh&utm_campaign=stockroom-flask)
 - [Bloom - SaaS Status Page](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs) — open-source monitoring dashboard in Node.js · [remix](https://cenius.ai/marketplace/p/bloom---saas-status-page?ref=gh&utm_campaign=bloom-saas-status-page-nodejs)
 - [Ridge - Feature Flag & Config Service](https://github.com/Cenius-ai/ridge-feature-flag-config-service-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/ridge---feature-flag-config-service?ref=gh&utm_campaign=ridge-feature-flag-config-service-vite)
 - [Pulse](https://github.com/Cenius-ai/pulse-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/pulse?ref=gh&utm_campaign=pulse-flask)
