@@ -23,6 +23,8 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Flask Admin Dashboard](https://github.com/Cenius-ai/flask-admin-dashboard) — open-source admin panel in Flask · [remix](https://cenius.ai/marketplace/p/flask-admin-dashboard?ref=gh&utm_campaign=flask-admin-dashboard)
+- [Sales Team CRM](https://github.com/Cenius-ai/sales-team-crm-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/sales-team-crm?ref=gh&utm_campaign=sales-team-crm-webapp)
 - [Sales CRM](https://github.com/Cenius-ai/sales-crm-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/sales-crm?ref=gh&utm_campaign=sales-crm-vlang)
 - [Halo — Code Snippet Manager](https://github.com/Cenius-ai/halo-code-snippet-manager-rails) — open-source pet web application in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/halo-code-snippet-manager?ref=gh&utm_campaign=halo-code-snippet-manager-rails)
 - [Book Catalog](https://github.com/Cenius-ai/book-catalog-scala) — open-source book web application in Scala · [remix](https://cenius.ai/marketplace/p/book-catalog?ref=gh&utm_campaign=book-catalog-scala)
@@ -148,6 +150,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Harbor](https://github.com/Cenius-ai/harbor-vlang) — open-source photography photo gallery app in V · [remix](https://cenius.ai/marketplace/p/harbor-2?ref=gh&utm_campaign=harbor-vlang)
 - [CookKeeper](https://github.com/Cenius-ai/cookkeeper-flask) — open-source recipe manager in Flask · [remix](https://cenius.ai/marketplace/p/cookkeeper?ref=gh&utm_campaign=cookkeeper-flask)
 - [Next.js Documentation Site](https://github.com/Cenius-ai/next-js-documentation-site-vlang) — open-source documentation site in V · [remix](https://cenius.ai/marketplace/p/next-js-documentation-site?ref=gh&utm_campaign=next-js-documentation-site-vlang)
 - [Crystal Blog](https://github.com/Cenius-ai/crystal-blog) — open-source blog platform in Crystal · [remix](https://cenius.ai/marketplace/p/crystal-blog?ref=gh&utm_campaign=crystal-blog)
