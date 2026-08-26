@@ -99,6 +99,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Ridge - Feature Flag & Config Service](https://github.com/Cenius-ai/ridge-feature-flag-config-service-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/ridge---feature-flag-config-service?ref=gh&utm_campaign=ridge-feature-flag-config-service-vite)
 - [Pulse](https://github.com/Cenius-ai/pulse-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/pulse?ref=gh&utm_campaign=pulse-flask)
 - [Event Booking Web App](https://github.com/Cenius-ai/event-booking-web-app-django) — open-source book monitoring dashboard in Django · [remix](https://cenius.ai/marketplace/p/event-booking-web-app?ref=gh&utm_campaign=event-booking-web-app-django)
 - [Vela Smart Home Dashboard](https://github.com/Cenius-ai/vela-smart-home-dashboard-dotnet) — open-source monitoring dashboard in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/vela-smart-home-dashboard?ref=gh&utm_campaign=vela-smart-home-dashboard-dotnet)
@@ -126,6 +127,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [WarrantyBox](https://github.com/Cenius-ai/warrantybox-dotnet) — open-source personal finance tracker in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/warrantybox?ref=gh&utm_campaign=warrantybox-dotnet)
 - [Jade - Freelancer Invoicing & Billing](https://github.com/Cenius-ai/jade-freelancer-invoicing-billing-golang) — open-source freelancer personal finance tracker in Go · [remix](https://cenius.ai/marketplace/p/jade---freelancer-invoicing-billing?ref=gh&utm_campaign=jade-freelancer-invoicing-billing-golang)
 - [BillSplit](https://github.com/Cenius-ai/billsplit-phoenix) — open-source expense personal finance tracker in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/billsplit?ref=gh&utm_campaign=billsplit-phoenix)
 - [Expense Tracker Web](https://github.com/Cenius-ai/expense-tracker-web-spring-boot) — open-source expense personal finance tracker in Spring Boot · [remix](https://cenius.ai/marketplace/p/expense-tracker-web?ref=gh&utm_campaign=expense-tracker-web-spring-boot)
@@ -137,6 +139,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Recipe Box Web App](https://github.com/Cenius-ai/recipe-box-web-app-flask) — open-source recipe manager in Flask · [remix](https://cenius.ai/marketplace/p/recipe-box-web-app?ref=gh&utm_campaign=recipe-box-web-app-flask)
 - [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs) — open-source recipe manager in Node.js · [remix](https://cenius.ai/marketplace/p/recipes-web-app-2?ref=gh&utm_campaign=recipes-web-app-nodejs)
 - [LensBox](https://github.com/Cenius-ai/lensbox-vlang) — open-source photo gallery app in V · [remix](https://cenius.ai/marketplace/p/lensbox?ref=gh&utm_campaign=lensbox-vlang)
 - [Arc](https://github.com/Cenius-ai/arc-django) — open-source photo gallery app in Django · [remix](https://cenius.ai/marketplace/p/arc?ref=gh&utm_campaign=arc-django)
