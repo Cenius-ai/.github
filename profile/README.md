@@ -70,6 +70,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Flask Notes App](https://github.com/Cenius-ai/flask-notes-app) — open-source to-do list app in Flask · [remix](https://cenius.ai/marketplace/p/flask-notes-app?ref=gh&utm_campaign=flask-notes-app)
 - [LinkDeck](https://github.com/Cenius-ai/linkdeck-vite) — open-source bookmark knowledge base app in Vite · [remix](https://cenius.ai/marketplace/p/linkdeck?ref=gh&utm_campaign=linkdeck-vite)
 - [Personal Notes App with JWT Authentication](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask) — open-source knowledge base app in Flask · [remix](https://cenius.ai/marketplace/p/personal-notes-app-with-jwt-authentication?ref=gh&utm_campaign=personal-notes-app-with-jwt-authentication-flask)
 - [Remix Notes App](https://github.com/Cenius-ai/remix-notes-app-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/remix-notes-app?ref=gh&utm_campaign=remix-notes-app-vite)
@@ -99,6 +100,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Bloom - SaaS Status Page](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs) — open-source monitoring dashboard in Node.js · [remix](https://cenius.ai/marketplace/p/bloom---saas-status-page?ref=gh&utm_campaign=bloom-saas-status-page-nodejs)
 - [Ridge - Feature Flag & Config Service](https://github.com/Cenius-ai/ridge-feature-flag-config-service-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/ridge---feature-flag-config-service?ref=gh&utm_campaign=ridge-feature-flag-config-service-vite)
 - [Pulse](https://github.com/Cenius-ai/pulse-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/pulse?ref=gh&utm_campaign=pulse-flask)
 - [Event Booking Web App](https://github.com/Cenius-ai/event-booking-web-app-django) — open-source book monitoring dashboard in Django · [remix](https://cenius.ai/marketplace/p/event-booking-web-app?ref=gh&utm_campaign=event-booking-web-app-django)
@@ -139,6 +141,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Crystal Blog](https://github.com/Cenius-ai/crystal-blog) — open-source blog platform in Crystal · [remix](https://cenius.ai/marketplace/p/crystal-blog?ref=gh&utm_campaign=crystal-blog)
 - [Recipe Box Web App](https://github.com/Cenius-ai/recipe-box-web-app-flask) — open-source recipe manager in Flask · [remix](https://cenius.ai/marketplace/p/recipe-box-web-app?ref=gh&utm_campaign=recipe-box-web-app-flask)
 - [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs) — open-source recipe manager in Node.js · [remix](https://cenius.ai/marketplace/p/recipes-web-app-2?ref=gh&utm_campaign=recipes-web-app-nodejs)
 - [LensBox](https://github.com/Cenius-ai/lensbox-vlang) — open-source photo gallery app in V · [remix](https://cenius.ai/marketplace/p/lensbox?ref=gh&utm_campaign=lensbox-vlang)
