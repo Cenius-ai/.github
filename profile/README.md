@@ -70,6 +70,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [LinkDeck](https://github.com/Cenius-ai/linkdeck-vite) — open-source bookmark knowledge base app in Vite · [remix](https://cenius.ai/marketplace/p/linkdeck?ref=gh&utm_campaign=linkdeck-vite)
 - [Personal Notes App with JWT Authentication](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask) — open-source knowledge base app in Flask · [remix](https://cenius.ai/marketplace/p/personal-notes-app-with-jwt-authentication?ref=gh&utm_campaign=personal-notes-app-with-jwt-authentication-flask)
 - [Remix Notes App](https://github.com/Cenius-ai/remix-notes-app-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/remix-notes-app?ref=gh&utm_campaign=remix-notes-app-vite)
 - [NoteNest](https://github.com/Cenius-ai/notenest-vite-2) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/notenest-2?ref=gh&utm_campaign=notenest-vite-2)
@@ -136,6 +137,8 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs) — open-source recipe manager in Node.js · [remix](https://cenius.ai/marketplace/p/recipes-web-app-2?ref=gh&utm_campaign=recipes-web-app-nodejs)
+- [LensBox](https://github.com/Cenius-ai/lensbox-vlang) — open-source photo gallery app in V · [remix](https://cenius.ai/marketplace/p/lensbox?ref=gh&utm_campaign=lensbox-vlang)
 - [Arc](https://github.com/Cenius-ai/arc-django) — open-source photo gallery app in Django · [remix](https://cenius.ai/marketplace/p/arc?ref=gh&utm_campaign=arc-django)
 - [Nimbus – Designer Photo Gallery Portfolio](https://github.com/Cenius-ai/nimbus-designer-photo-gallery-portfolio-nodejs) — open-source photo gallery app in Node.js · [remix](https://cenius.ai/marketplace/p/nimbus-designer-photo-gallery-portfolio?ref=gh&utm_campaign=nimbus-designer-photo-gallery-portfolio-nodejs)
 - [Rails Blog CMS](https://github.com/Cenius-ai/rails-blog-cms) — open-source blog platform in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-blog-cms?ref=gh&utm_campaign=rails-blog-cms)
