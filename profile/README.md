@@ -101,6 +101,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Mist](https://github.com/Cenius-ai/mist-rails) — open-source monitoring dashboard in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/mist?ref=gh&utm_campaign=mist-rails)
 - [Cobalt Portfolio Tracker](https://github.com/Cenius-ai/cobalt-portfolio-tracker-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/cobalt-portfolio-tracker?ref=gh&utm_campaign=cobalt-portfolio-tracker-webapp)
 - [StockRoom](https://github.com/Cenius-ai/stockroom-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/stockroom?ref=gh&utm_campaign=stockroom-flask)
 - [Bloom - SaaS Status Page](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs) — open-source monitoring dashboard in Node.js · [remix](https://cenius.ai/marketplace/p/bloom---saas-status-page?ref=gh&utm_campaign=bloom-saas-status-page-nodejs)
@@ -144,6 +145,8 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [CookKeeper](https://github.com/Cenius-ai/cookkeeper-flask) — open-source recipe manager in Flask · [remix](https://cenius.ai/marketplace/p/cookkeeper?ref=gh&utm_campaign=cookkeeper-flask)
+- [Next.js Documentation Site](https://github.com/Cenius-ai/next-js-documentation-site-vlang) — open-source documentation site in V · [remix](https://cenius.ai/marketplace/p/next-js-documentation-site?ref=gh&utm_campaign=next-js-documentation-site-vlang)
 - [Crystal Blog](https://github.com/Cenius-ai/crystal-blog) — open-source blog platform in Crystal · [remix](https://cenius.ai/marketplace/p/crystal-blog?ref=gh&utm_campaign=crystal-blog)
 - [Recipe Box Web App](https://github.com/Cenius-ai/recipe-box-web-app-flask) — open-source recipe manager in Flask · [remix](https://cenius.ai/marketplace/p/recipe-box-web-app?ref=gh&utm_campaign=recipe-box-web-app-flask)
 - [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs) — open-source recipe manager in Node.js · [remix](https://cenius.ai/marketplace/p/recipes-web-app-2?ref=gh&utm_campaign=recipes-web-app-nodejs)
