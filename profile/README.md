@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Maple - Developer Portal](https://github.com/Cenius-ai/maple-developer-portal-dotnet) — open-source web application in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/maple---developer-portal?ref=gh&utm_campaign=maple-developer-portal-dotnet)
 - [Flask Admin Dashboard](https://github.com/Cenius-ai/flask-admin-dashboard) — open-source admin panel in Flask · [remix](https://cenius.ai/marketplace/p/flask-admin-dashboard?ref=gh&utm_campaign=flask-admin-dashboard)
 - [Sales Team CRM](https://github.com/Cenius-ai/sales-team-crm-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/sales-team-crm?ref=gh&utm_campaign=sales-team-crm-webapp)
 - [Sales CRM](https://github.com/Cenius-ai/sales-crm-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/sales-crm?ref=gh&utm_campaign=sales-crm-vlang)
@@ -106,6 +107,8 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Prism — Cafe POS](https://github.com/Cenius-ai/prism-cafe-pos-scala) — open-source restaurant monitoring dashboard in Scala · [remix](https://cenius.ai/marketplace/p/prism-cafe-pos?ref=gh&utm_campaign=prism-cafe-pos-scala)
+- [Larch POS](https://github.com/Cenius-ai/larch-pos-vlang) — open-source restaurant monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/larch-pos?ref=gh&utm_campaign=larch-pos-vlang)
 - [Mist](https://github.com/Cenius-ai/mist-rails) — open-source monitoring dashboard in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/mist?ref=gh&utm_campaign=mist-rails)
 - [Cobalt Portfolio Tracker](https://github.com/Cenius-ai/cobalt-portfolio-tracker-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/cobalt-portfolio-tracker?ref=gh&utm_campaign=cobalt-portfolio-tracker-webapp)
 - [StockRoom](https://github.com/Cenius-ai/stockroom-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/stockroom?ref=gh&utm_campaign=stockroom-flask)
