@@ -45,6 +45,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Dune Coffee Roasters](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs) — open-source e-commerce storefront in Node.js · [remix](https://cenius.ai/marketplace/p/dune-coffee-roasters?ref=gh&utm_campaign=dune-coffee-roasters-nodejs)
 - [BeanMarket](https://github.com/Cenius-ai/beanmarket-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/beanmarket?ref=gh&utm_campaign=beanmarket-vlang)
 - [BrewMarket](https://github.com/Cenius-ai/brewmarket-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/brewmarket?ref=gh&utm_campaign=brewmarket-vlang)
 - [Rails Storefront](https://github.com/Cenius-ai/rails-storefront) — open-source e-commerce storefront in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/rails-storefront?ref=gh&utm_campaign=rails-storefront)
@@ -70,6 +71,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Habit Tracker](https://github.com/Cenius-ai/habit-tracker-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/habit-tracker?ref=gh&utm_campaign=habit-tracker-vite)
 - [Zephyr](https://github.com/Cenius-ai/zephyr-django) — open-source podcast knowledge base app in Django · [remix](https://cenius.ai/marketplace/p/zephyr-2?ref=gh&utm_campaign=zephyr-django)
 - [Flask Notes App](https://github.com/Cenius-ai/flask-notes-app) — open-source to-do list app in Flask · [remix](https://cenius.ai/marketplace/p/flask-notes-app?ref=gh&utm_campaign=flask-notes-app)
 - [LinkDeck](https://github.com/Cenius-ai/linkdeck-vite) — open-source bookmark knowledge base app in Vite · [remix](https://cenius.ai/marketplace/p/linkdeck?ref=gh&utm_campaign=linkdeck-vite)
@@ -220,6 +222,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Bloom — Docs Q&A AI Chatbot](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp) — open-source retrieval-augmented search app in Full-stack app · [remix](https://cenius.ai/marketplace/p/bloom-docs-q-a-ai-chatbot?ref=gh&utm_campaign=bloom-docs-q-a-ai-chatbot-webapp)
 - [Bookstore REST API](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot) — open-source book microservice in Spring Boot · [remix](https://cenius.ai/marketplace/p/bookstore-rest-api?ref=gh&utm_campaign=bookstore-rest-api-spring-boot)
 - [Personal Book Library](https://github.com/Cenius-ai/personal-book-library-rails) — open-source book software library in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/personal-book-library?ref=gh&utm_campaign=personal-book-library-rails)
 - [Flask Books Catalog](https://github.com/Cenius-ai/flask-books-catalog) — open-source book software library in Flask · [remix](https://cenius.ai/marketplace/p/flask-books-catalog?ref=gh&utm_campaign=flask-books-catalog)
