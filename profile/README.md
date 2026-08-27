@@ -49,6 +49,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Product Catalog with Raw Search](https://github.com/Cenius-ai/product-catalog-with-raw-search-flask) — open-source e-commerce storefront in Flask · [remix](https://cenius.ai/marketplace/p/product-catalog-with-raw-search?ref=gh&utm_campaign=product-catalog-with-raw-search-flask)
 - [Fable — Indie Bookstore](https://github.com/Cenius-ai/fable-indie-bookstore-webapp) — open-source book e-commerce storefront in Full-stack app · [remix](https://cenius.ai/marketplace/p/fable-indie-bookstore?ref=gh&utm_campaign=fable-indie-bookstore-webapp)
 - [Dune Coffee Roasters](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs) — open-source e-commerce storefront in Node.js · [remix](https://cenius.ai/marketplace/p/dune-coffee-roasters?ref=gh&utm_campaign=dune-coffee-roasters-nodejs)
 - [BeanMarket](https://github.com/Cenius-ai/beanmarket-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/beanmarket?ref=gh&utm_campaign=beanmarket-vlang)
@@ -156,6 +157,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Willow](https://github.com/Cenius-ai/willow-nodejs) — open-source music player app in Node.js · [remix](https://cenius.ai/marketplace/p/willow-3?ref=gh&utm_campaign=willow-nodejs)
 - [Personal Blog with Astro MDX](https://github.com/Cenius-ai/personal-blog-with-astro-mdx) — open-source blog platform in Astro · [remix](https://cenius.ai/marketplace/p/personal-blog-with-astro-mdx?ref=gh&utm_campaign=personal-blog-with-astro-mdx)
 - [Harbor](https://github.com/Cenius-ai/harbor-vlang) — open-source photography photo gallery app in V · [remix](https://cenius.ai/marketplace/p/harbor-2?ref=gh&utm_campaign=harbor-vlang)
 - [CookKeeper](https://github.com/Cenius-ai/cookkeeper-flask) — open-source recipe manager in Flask · [remix](https://cenius.ai/marketplace/p/cookkeeper?ref=gh&utm_campaign=cookkeeper-flask)
@@ -219,6 +221,7 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
+- [Beacon - Coding Bootcamp LMS](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django) — open-source learning platform in Django · [remix](https://cenius.ai/marketplace/p/beacon---coding-bootcamp-lms?ref=gh&utm_campaign=beacon-coding-bootcamp-lms-django)
 - [Slate](https://github.com/Cenius-ai/slate-astro) — open-source learning platform in Astro · [remix](https://cenius.ai/marketplace/p/slate-2?ref=gh&utm_campaign=slate-astro)
 - [Ember](https://github.com/Cenius-ai/ember-webapp) — open-source learning platform in Full-stack app · [remix](https://cenius.ai/marketplace/p/ember-2?ref=gh&utm_campaign=ember-webapp)
 - [Harbor Language LMS](https://github.com/Cenius-ai/harbor-language-lms-crystal) — open-source learning platform in Crystal · [remix](https://cenius.ai/marketplace/p/harbor-language-lms?ref=gh&utm_campaign=harbor-language-lms-crystal)
