@@ -23,6 +23,8 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Atlas Remote Tech Job Board](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs) — open-source web application in Node.js · [remix](https://cenius.ai/marketplace/p/atlas-remote-tech-job-board?ref=gh&utm_campaign=atlas-remote-tech-job-board-nodejs)
+- [CRM Lite](https://github.com/Cenius-ai/crm-lite-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/crm-lite?ref=gh&utm_campaign=crm-lite-webapp)
 - [QuickPoll](https://github.com/Cenius-ai/quickpoll-flask) — open-source web application in Flask · [remix](https://cenius.ai/marketplace/p/quickpoll?ref=gh&utm_campaign=quickpoll-flask)
 - [Maple - Developer Portal](https://github.com/Cenius-ai/maple-developer-portal-dotnet) — open-source web application in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/maple---developer-portal?ref=gh&utm_campaign=maple-developer-portal-dotnet)
 - [Flask Admin Dashboard](https://github.com/Cenius-ai/flask-admin-dashboard) — open-source admin panel in Flask · [remix](https://cenius.ai/marketplace/p/flask-admin-dashboard?ref=gh&utm_campaign=flask-admin-dashboard)
@@ -114,6 +116,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [TeamPulse](https://github.com/Cenius-ai/teampulse-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/teampulse?ref=gh&utm_campaign=teampulse-vite)
 - [SaaS Dashboard](https://github.com/Cenius-ai/saas-dashboard-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/saas-dashboard?ref=gh&utm_campaign=saas-dashboard-vite)
 - [Prism — Cafe POS](https://github.com/Cenius-ai/prism-cafe-pos-scala) — open-source restaurant monitoring dashboard in Scala · [remix](https://cenius.ai/marketplace/p/prism-cafe-pos?ref=gh&utm_campaign=prism-cafe-pos-scala)
 - [Larch POS](https://github.com/Cenius-ai/larch-pos-vlang) — open-source restaurant monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/larch-pos?ref=gh&utm_campaign=larch-pos-vlang)
