@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [QuickPoll](https://github.com/Cenius-ai/quickpoll-flask) — open-source web application in Flask · [remix](https://cenius.ai/marketplace/p/quickpoll?ref=gh&utm_campaign=quickpoll-flask)
 - [Maple - Developer Portal](https://github.com/Cenius-ai/maple-developer-portal-dotnet) — open-source web application in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/maple---developer-portal?ref=gh&utm_campaign=maple-developer-portal-dotnet)
 - [Flask Admin Dashboard](https://github.com/Cenius-ai/flask-admin-dashboard) — open-source admin panel in Flask · [remix](https://cenius.ai/marketplace/p/flask-admin-dashboard?ref=gh&utm_campaign=flask-admin-dashboard)
 - [Sales Team CRM](https://github.com/Cenius-ai/sales-team-crm-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/sales-team-crm?ref=gh&utm_campaign=sales-team-crm-webapp)
@@ -48,6 +49,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Fable — Indie Bookstore](https://github.com/Cenius-ai/fable-indie-bookstore-webapp) — open-source book e-commerce storefront in Full-stack app · [remix](https://cenius.ai/marketplace/p/fable-indie-bookstore?ref=gh&utm_campaign=fable-indie-bookstore-webapp)
 - [Dune Coffee Roasters](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs) — open-source e-commerce storefront in Node.js · [remix](https://cenius.ai/marketplace/p/dune-coffee-roasters?ref=gh&utm_campaign=dune-coffee-roasters-nodejs)
 - [BeanMarket](https://github.com/Cenius-ai/beanmarket-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/beanmarket?ref=gh&utm_campaign=beanmarket-vlang)
 - [BrewMarket](https://github.com/Cenius-ai/brewmarket-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/brewmarket?ref=gh&utm_campaign=brewmarket-vlang)
@@ -214,6 +216,7 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
+- [Slate](https://github.com/Cenius-ai/slate-astro) — open-source learning platform in Astro · [remix](https://cenius.ai/marketplace/p/slate-2?ref=gh&utm_campaign=slate-astro)
 - [Ember](https://github.com/Cenius-ai/ember-webapp) — open-source learning platform in Full-stack app · [remix](https://cenius.ai/marketplace/p/ember-2?ref=gh&utm_campaign=ember-webapp)
 - [Harbor Language LMS](https://github.com/Cenius-ai/harbor-language-lms-crystal) — open-source learning platform in Crystal · [remix](https://cenius.ai/marketplace/p/harbor-language-lms?ref=gh&utm_campaign=harbor-language-lms-crystal)
 - [Terra Course Catalog](https://github.com/Cenius-ai/terra-course-catalog-crystal) — open-source learning platform in Crystal · [remix](https://cenius.ai/marketplace/p/terra-course-catalog?ref=gh&utm_campaign=terra-course-catalog-crystal)
