@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [QuickPoll](https://github.com/Cenius-ai/quickpoll-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/quickpoll-2?ref=gh&utm_campaign=quickpoll-webapp)
 - [Atlas Remote Tech Job Board](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs) — open-source web application in Node.js · [remix](https://cenius.ai/marketplace/p/atlas-remote-tech-job-board?ref=gh&utm_campaign=atlas-remote-tech-job-board-nodejs)
 - [CRM Lite](https://github.com/Cenius-ai/crm-lite-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/crm-lite?ref=gh&utm_campaign=crm-lite-webapp)
 - [QuickPoll](https://github.com/Cenius-ai/quickpoll-flask) — open-source web application in Flask · [remix](https://cenius.ai/marketplace/p/quickpoll?ref=gh&utm_campaign=quickpoll-flask)
@@ -79,6 +80,8 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [DailyLog](https://github.com/Cenius-ai/dailylog-golang) — open-source to-do list app in Go · [remix](https://cenius.ai/marketplace/p/dailylog?ref=gh&utm_campaign=dailylog-golang)
+- [Multi-Page Kanban Board](https://github.com/Cenius-ai/multi-page-kanban-board-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/multi-page-kanban-board?ref=gh&utm_campaign=multi-page-kanban-board-vite)
 - [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-nodejs) — open-source bookmark knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/bookmark-manager-3?ref=gh&utm_campaign=bookmark-manager-nodejs)
 - [Kite – Freelancer CRM](https://github.com/Cenius-ai/kite-freelancer-crm-webapp) — open-source freelancer kanban board in Full-stack app · [remix](https://cenius.ai/marketplace/p/kite-freelancer-crm?ref=gh&utm_campaign=kite-freelancer-crm-webapp)
 - [Quartz — Engineering Docs Markdown Wiki](https://github.com/Cenius-ai/quartz-engineering-docs-markdown-wiki-webapp) — open-source knowledge base app in Full-stack app · [remix](https://cenius.ai/marketplace/p/quartz-engineering-docs-markdown-wiki?ref=gh&utm_campaign=quartz-engineering-docs-markdown-wiki-webapp)
