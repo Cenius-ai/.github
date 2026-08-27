@@ -77,6 +77,8 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-nodejs) — open-source bookmark knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/bookmark-manager-3?ref=gh&utm_campaign=bookmark-manager-nodejs)
+- [Kite – Freelancer CRM](https://github.com/Cenius-ai/kite-freelancer-crm-webapp) — open-source freelancer kanban board in Full-stack app · [remix](https://cenius.ai/marketplace/p/kite-freelancer-crm?ref=gh&utm_campaign=kite-freelancer-crm-webapp)
 - [Quartz — Engineering Docs Markdown Wiki](https://github.com/Cenius-ai/quartz-engineering-docs-markdown-wiki-webapp) — open-source knowledge base app in Full-stack app · [remix](https://cenius.ai/marketplace/p/quartz-engineering-docs-markdown-wiki?ref=gh&utm_campaign=quartz-engineering-docs-markdown-wiki-webapp)
 - [HabitTracker Pro](https://github.com/Cenius-ai/habittracker-pro-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/habittracker-pro?ref=gh&utm_campaign=habittracker-pro-vite)
 - [Peak - Student Checklist Notes](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang) — open-source to-do list app in V · [remix](https://cenius.ai/marketplace/p/peak---student-checklist-notes?ref=gh&utm_campaign=peak-student-checklist-notes-vlang)
@@ -209,6 +211,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [BookHive](https://github.com/Cenius-ai/bookhive-flask) — open-source book social network app in Flask · [remix](https://cenius.ai/marketplace/p/bookhive?ref=gh&utm_campaign=bookhive-flask)
 - [Nimbus](https://github.com/Cenius-ai/nimbus-vlang) — open-source chat application in V · [remix](https://cenius.ai/marketplace/p/nimbus?ref=gh&utm_campaign=nimbus-vlang)
 - [Pulse](https://github.com/Cenius-ai/pulse-golang) — open-source social network app in Go · [remix](https://cenius.ai/marketplace/p/pulse-2?ref=gh&utm_campaign=pulse-golang)
 - [TripJournal](https://github.com/Cenius-ai/tripjournal-webapp) — open-source travel social network app in Full-stack app · [remix](https://cenius.ai/marketplace/p/tripjournal?ref=gh&utm_campaign=tripjournal-webapp)
