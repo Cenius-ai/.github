@@ -76,6 +76,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [HabitTracker Pro](https://github.com/Cenius-ai/habittracker-pro-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/habittracker-pro?ref=gh&utm_campaign=habittracker-pro-vite)
 - [Peak - Student Checklist Notes](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang) — open-source to-do list app in V · [remix](https://cenius.ai/marketplace/p/peak---student-checklist-notes?ref=gh&utm_campaign=peak-student-checklist-notes-vlang)
 - [Habit Tracker](https://github.com/Cenius-ai/habit-tracker-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/habit-tracker?ref=gh&utm_campaign=habit-tracker-vite)
 - [Zephyr](https://github.com/Cenius-ai/zephyr-django) — open-source podcast knowledge base app in Django · [remix](https://cenius.ai/marketplace/p/zephyr-2?ref=gh&utm_campaign=zephyr-django)
@@ -155,6 +156,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Personal Blog with Astro MDX](https://github.com/Cenius-ai/personal-blog-with-astro-mdx) — open-source blog platform in Astro · [remix](https://cenius.ai/marketplace/p/personal-blog-with-astro-mdx?ref=gh&utm_campaign=personal-blog-with-astro-mdx)
 - [Harbor](https://github.com/Cenius-ai/harbor-vlang) — open-source photography photo gallery app in V · [remix](https://cenius.ai/marketplace/p/harbor-2?ref=gh&utm_campaign=harbor-vlang)
 - [CookKeeper](https://github.com/Cenius-ai/cookkeeper-flask) — open-source recipe manager in Flask · [remix](https://cenius.ai/marketplace/p/cookkeeper?ref=gh&utm_campaign=cookkeeper-flask)
 - [Next.js Documentation Site](https://github.com/Cenius-ai/next-js-documentation-site-vlang) — open-source documentation site in V · [remix](https://cenius.ai/marketplace/p/next-js-documentation-site?ref=gh&utm_campaign=next-js-documentation-site-vlang)
@@ -200,6 +202,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [Nimbus](https://github.com/Cenius-ai/nimbus-vlang) — open-source chat application in V · [remix](https://cenius.ai/marketplace/p/nimbus?ref=gh&utm_campaign=nimbus-vlang)
 - [Pulse](https://github.com/Cenius-ai/pulse-golang) — open-source social network app in Go · [remix](https://cenius.ai/marketplace/p/pulse-2?ref=gh&utm_campaign=pulse-golang)
 - [TripJournal](https://github.com/Cenius-ai/tripjournal-webapp) — open-source travel social network app in Full-stack app · [remix](https://cenius.ai/marketplace/p/tripjournal?ref=gh&utm_campaign=tripjournal-webapp)
 - [Django Forum](https://github.com/Cenius-ai/django-forum) — open-source social network app in Django · [remix](https://cenius.ai/marketplace/p/django-forum?ref=gh&utm_campaign=django-forum)
