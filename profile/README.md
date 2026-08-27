@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Loom — Personal Secrets Vault](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang) — open-source web application in V · [remix](https://cenius.ai/marketplace/p/loom-personal-secrets-vault?ref=gh&utm_campaign=loom-personal-secrets-vault-vlang)
 - [QuickPoll](https://github.com/Cenius-ai/quickpoll-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/quickpoll-2?ref=gh&utm_campaign=quickpoll-webapp)
 - [Atlas Remote Tech Job Board](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs) — open-source web application in Node.js · [remix](https://cenius.ai/marketplace/p/atlas-remote-tech-job-board?ref=gh&utm_campaign=atlas-remote-tech-job-board-nodejs)
 - [CRM Lite](https://github.com/Cenius-ai/crm-lite-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/crm-lite?ref=gh&utm_campaign=crm-lite-webapp)
@@ -52,6 +53,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Cobalt - Coffee Roaster Storefront](https://github.com/Cenius-ai/cobalt-coffee-roaster-storefront-webapp) — open-source e-commerce storefront in Full-stack app · [remix](https://cenius.ai/marketplace/p/cobalt---coffee-roaster-storefront?ref=gh&utm_campaign=cobalt-coffee-roaster-storefront-webapp)
 - [Product Catalog with Raw Search](https://github.com/Cenius-ai/product-catalog-with-raw-search-flask) — open-source e-commerce storefront in Flask · [remix](https://cenius.ai/marketplace/p/product-catalog-with-raw-search?ref=gh&utm_campaign=product-catalog-with-raw-search-flask)
 - [Fable — Indie Bookstore](https://github.com/Cenius-ai/fable-indie-bookstore-webapp) — open-source book e-commerce storefront in Full-stack app · [remix](https://cenius.ai/marketplace/p/fable-indie-bookstore?ref=gh&utm_campaign=fable-indie-bookstore-webapp)
 - [Dune Coffee Roasters](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs) — open-source e-commerce storefront in Node.js · [remix](https://cenius.ai/marketplace/p/dune-coffee-roasters?ref=gh&utm_campaign=dune-coffee-roasters-nodejs)
@@ -80,6 +82,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Bookmarks Ktor Web App](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin) — open-source bookmark to-do list app in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/bookmarks-ktor-web-app?ref=gh&utm_campaign=bookmarks-ktor-web-app-kotlin)
 - [DailyLog](https://github.com/Cenius-ai/dailylog-golang) — open-source to-do list app in Go · [remix](https://cenius.ai/marketplace/p/dailylog?ref=gh&utm_campaign=dailylog-golang)
 - [Multi-Page Kanban Board](https://github.com/Cenius-ai/multi-page-kanban-board-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/multi-page-kanban-board?ref=gh&utm_campaign=multi-page-kanban-board-vite)
 - [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-nodejs) — open-source bookmark knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/bookmark-manager-3?ref=gh&utm_campaign=bookmark-manager-nodejs)
