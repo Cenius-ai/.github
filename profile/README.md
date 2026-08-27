@@ -111,6 +111,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [SaaS Dashboard](https://github.com/Cenius-ai/saas-dashboard-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/saas-dashboard?ref=gh&utm_campaign=saas-dashboard-vite)
 - [Prism — Cafe POS](https://github.com/Cenius-ai/prism-cafe-pos-scala) — open-source restaurant monitoring dashboard in Scala · [remix](https://cenius.ai/marketplace/p/prism-cafe-pos?ref=gh&utm_campaign=prism-cafe-pos-scala)
 - [Larch POS](https://github.com/Cenius-ai/larch-pos-vlang) — open-source restaurant monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/larch-pos?ref=gh&utm_campaign=larch-pos-vlang)
 - [Mist](https://github.com/Cenius-ai/mist-rails) — open-source monitoring dashboard in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/mist?ref=gh&utm_campaign=mist-rails)
@@ -157,6 +158,8 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Minimal Event Directory](https://github.com/Cenius-ai/minimal-event-directory-fastapi) — open-source landing page in FastAPI · [remix](https://cenius.ai/marketplace/p/minimal-event-directory?ref=gh&utm_campaign=minimal-event-directory-fastapi)
+- [RecipeShare](https://github.com/Cenius-ai/recipeshare-rails) — open-source recipe manager in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/recipeshare?ref=gh&utm_campaign=recipeshare-rails)
 - [Willow](https://github.com/Cenius-ai/willow-nodejs) — open-source music player app in Node.js · [remix](https://cenius.ai/marketplace/p/willow-3?ref=gh&utm_campaign=willow-nodejs)
 - [Personal Blog with Astro MDX](https://github.com/Cenius-ai/personal-blog-with-astro-mdx) — open-source blog platform in Astro · [remix](https://cenius.ai/marketplace/p/personal-blog-with-astro-mdx?ref=gh&utm_campaign=personal-blog-with-astro-mdx)
 - [Harbor](https://github.com/Cenius-ai/harbor-vlang) — open-source photography photo gallery app in V · [remix](https://cenius.ai/marketplace/p/harbor-2?ref=gh&utm_campaign=harbor-vlang)
