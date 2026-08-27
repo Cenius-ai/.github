@@ -77,6 +77,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Quartz — Engineering Docs Markdown Wiki](https://github.com/Cenius-ai/quartz-engineering-docs-markdown-wiki-webapp) — open-source knowledge base app in Full-stack app · [remix](https://cenius.ai/marketplace/p/quartz-engineering-docs-markdown-wiki?ref=gh&utm_campaign=quartz-engineering-docs-markdown-wiki-webapp)
 - [HabitTracker Pro](https://github.com/Cenius-ai/habittracker-pro-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/habittracker-pro?ref=gh&utm_campaign=habittracker-pro-vite)
 - [Peak - Student Checklist Notes](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang) — open-source to-do list app in V · [remix](https://cenius.ai/marketplace/p/peak---student-checklist-notes?ref=gh&utm_campaign=peak-student-checklist-notes-vlang)
 - [Habit Tracker](https://github.com/Cenius-ai/habit-tracker-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/habit-tracker?ref=gh&utm_campaign=habit-tracker-vite)
@@ -146,6 +147,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Quartz](https://github.com/Cenius-ai/quartz-astro) — open-source personal finance tracker in Astro · [remix](https://cenius.ai/marketplace/p/quartz?ref=gh&utm_campaign=quartz-astro)
 - [WarrantyBox](https://github.com/Cenius-ai/warrantybox-dotnet) — open-source personal finance tracker in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/warrantybox?ref=gh&utm_campaign=warrantybox-dotnet)
 - [Jade - Freelancer Invoicing & Billing](https://github.com/Cenius-ai/jade-freelancer-invoicing-billing-golang) — open-source freelancer personal finance tracker in Go · [remix](https://cenius.ai/marketplace/p/jade---freelancer-invoicing-billing?ref=gh&utm_campaign=jade-freelancer-invoicing-billing-golang)
 - [BillSplit](https://github.com/Cenius-ai/billsplit-phoenix) — open-source expense personal finance tracker in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/billsplit?ref=gh&utm_campaign=billsplit-phoenix)
@@ -258,6 +260,7 @@ _Chat assistants and creative studios (all whitelabel, all yours)._
 
 _Health trackers and lifestyle companions._
 
+- [Pulse — Runner's Habit Tracker](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi) — open-source fitness tracker in FastAPI · [remix](https://cenius.ai/marketplace/p/pulse-runner-s-habit-tracker?ref=gh&utm_campaign=pulse-runner-s-habit-tracker-fastapi)
 - [Willow](https://github.com/Cenius-ai/willow-vite) — open-source fitness tracker in Vite · [remix](https://cenius.ai/marketplace/p/willow-2?ref=gh&utm_campaign=willow-vite)
 - [Cove — Runners Habit & Fitness Tracker](https://github.com/Cenius-ai/cove-runners-habit-fitness-tracker-kotlin) — open-source fitness tracker in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/cove-runners-habit-fitness-tracker?ref=gh&utm_campaign=cove-runners-habit-fitness-tracker-kotlin)
 
