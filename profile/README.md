@@ -130,6 +130,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Fable](https://github.com/Cenius-ai/fable-astro-2) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/fable-2?ref=gh&utm_campaign=fable-astro-2)
 - [SalesScope](https://github.com/Cenius-ai/salesscope-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/salesscope?ref=gh&utm_campaign=salesscope-webapp)
 - [TeamPulse](https://github.com/Cenius-ai/teampulse-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/teampulse?ref=gh&utm_campaign=teampulse-vite)
 - [SaaS Dashboard](https://github.com/Cenius-ai/saas-dashboard-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/saas-dashboard?ref=gh&utm_campaign=saas-dashboard-vite)
@@ -233,6 +234,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [QuoteBoard](https://github.com/Cenius-ai/quoteboard-webapp) — open-source social network app in Full-stack app · [remix](https://cenius.ai/marketplace/p/quoteboard?ref=gh&utm_campaign=quoteboard-webapp)
 - [BookHive](https://github.com/Cenius-ai/bookhive-flask) — open-source book social network app in Flask · [remix](https://cenius.ai/marketplace/p/bookhive?ref=gh&utm_campaign=bookhive-flask)
 - [Nimbus](https://github.com/Cenius-ai/nimbus-vlang) — open-source chat application in V · [remix](https://cenius.ai/marketplace/p/nimbus?ref=gh&utm_campaign=nimbus-vlang)
 - [Pulse](https://github.com/Cenius-ai/pulse-golang) — open-source social network app in Go · [remix](https://cenius.ai/marketplace/p/pulse-2?ref=gh&utm_campaign=pulse-golang)
@@ -270,6 +272,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Sage](https://github.com/Cenius-ai/sage-scala) — open-source retrieval-augmented search app in Scala · [remix](https://cenius.ai/marketplace/p/sage-2?ref=gh&utm_campaign=sage-scala)
 - [Bloom — Docs Q&A AI Chatbot](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp) — open-source retrieval-augmented search app in Full-stack app · [remix](https://cenius.ai/marketplace/p/bloom-docs-q-a-ai-chatbot?ref=gh&utm_campaign=bloom-docs-q-a-ai-chatbot-webapp)
 - [Bookstore REST API](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot) — open-source book microservice in Spring Boot · [remix](https://cenius.ai/marketplace/p/bookstore-rest-api?ref=gh&utm_campaign=bookstore-rest-api-spring-boot)
 - [Personal Book Library](https://github.com/Cenius-ai/personal-book-library-rails) — open-source book software library in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/personal-book-library?ref=gh&utm_campaign=personal-book-library-rails)
