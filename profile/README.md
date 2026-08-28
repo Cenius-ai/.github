@@ -170,6 +170,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Tide - Agency Invoicing & Billing](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs) — open-source invoice personal finance tracker in Node.js · [remix](https://cenius.ai/marketplace/p/tide---agency-invoicing-billing?ref=gh&utm_campaign=tide-agency-invoicing-billing-nodejs)
 - [Personal Finance Tracker](https://github.com/Cenius-ai/personal-finance-tracker-flask) — open-source personal finance tracker in Flask · [remix](https://cenius.ai/marketplace/p/personal-finance-tracker?ref=gh&utm_campaign=personal-finance-tracker-flask)
 - [Larch](https://github.com/Cenius-ai/larch-kotlin) — open-source personal finance tracker in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/larch?ref=gh&utm_campaign=larch-kotlin)
 - [InvoiceKit](https://github.com/Cenius-ai/invoicekit-vlang) — open-source invoice personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/invoicekit?ref=gh&utm_campaign=invoicekit-vlang)
@@ -186,6 +187,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Lumen](https://github.com/Cenius-ai/lumen-scala-2) — open-source music player app in Scala · [remix](https://cenius.ai/marketplace/p/lumen-4?ref=gh&utm_campaign=lumen-scala-2)
 - [BeanCount](https://github.com/Cenius-ai/beancount-webapp) — open-source recipe manager in Full-stack app · [remix](https://cenius.ai/marketplace/p/beancount?ref=gh&utm_campaign=beancount-webapp)
 - [Minimal Event Directory](https://github.com/Cenius-ai/minimal-event-directory-fastapi) — open-source landing page in FastAPI · [remix](https://cenius.ai/marketplace/p/minimal-event-directory?ref=gh&utm_campaign=minimal-event-directory-fastapi)
 - [RecipeShare](https://github.com/Cenius-ai/recipeshare-rails) — open-source recipe manager in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/recipeshare?ref=gh&utm_campaign=recipeshare-rails)
@@ -255,6 +257,7 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
+- [Ridge Language Flashcards](https://github.com/Cenius-ai/ridge-language-flashcards-golang) — open-source pet learning platform in Go · [remix](https://cenius.ai/marketplace/p/ridge-language-flashcards?ref=gh&utm_campaign=ridge-language-flashcards-golang)
 - [Ridge — Spaced Repetition Flashcards](https://github.com/Cenius-ai/ridge-spaced-repetition-flashcards-golang) — open-source pet learning platform in Go · [remix](https://cenius.ai/marketplace/p/ridge-spaced-repetition-flashcards?ref=gh&utm_campaign=ridge-spaced-repetition-flashcards-golang)
 - [Beacon - Coding Bootcamp LMS](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django) — open-source learning platform in Django · [remix](https://cenius.ai/marketplace/p/beacon---coding-bootcamp-lms?ref=gh&utm_campaign=beacon-coding-bootcamp-lms-django)
 - [Slate](https://github.com/Cenius-ai/slate-astro) — open-source learning platform in Astro · [remix](https://cenius.ai/marketplace/p/slate-2?ref=gh&utm_campaign=slate-astro)
