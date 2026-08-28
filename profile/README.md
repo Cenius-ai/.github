@@ -23,6 +23,8 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [PollPit](https://github.com/Cenius-ai/pollpit-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/pollpit?ref=gh&utm_campaign=pollpit-webapp)
+- [Vela - Feature Flag Management](https://github.com/Cenius-ai/vela-feature-flag-management-vlang) — open-source admin panel in V · [remix](https://cenius.ai/marketplace/p/vela---feature-flag-management?ref=gh&utm_campaign=vela-feature-flag-management-vlang)
 - [TeamTrack CRM](https://github.com/Cenius-ai/teamtrack-crm-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/teamtrack-crm?ref=gh&utm_campaign=teamtrack-crm-vlang)
 - [Loom — Personal Secrets Vault](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang) — open-source web application in V · [remix](https://cenius.ai/marketplace/p/loom-personal-secrets-vault?ref=gh&utm_campaign=loom-personal-secrets-vault-vlang)
 - [QuickPoll](https://github.com/Cenius-ai/quickpoll-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/quickpoll-2?ref=gh&utm_campaign=quickpoll-webapp)
@@ -243,6 +245,7 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
+- [Ridge — Spaced Repetition Flashcards](https://github.com/Cenius-ai/ridge-spaced-repetition-flashcards-golang) — open-source pet learning platform in Go · [remix](https://cenius.ai/marketplace/p/ridge-spaced-repetition-flashcards?ref=gh&utm_campaign=ridge-spaced-repetition-flashcards-golang)
 - [Beacon - Coding Bootcamp LMS](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django) — open-source learning platform in Django · [remix](https://cenius.ai/marketplace/p/beacon---coding-bootcamp-lms?ref=gh&utm_campaign=beacon-coding-bootcamp-lms-django)
 - [Slate](https://github.com/Cenius-ai/slate-astro) — open-source learning platform in Astro · [remix](https://cenius.ai/marketplace/p/slate-2?ref=gh&utm_campaign=slate-astro)
 - [Ember](https://github.com/Cenius-ai/ember-webapp) — open-source learning platform in Full-stack app · [remix](https://cenius.ai/marketplace/p/ember-2?ref=gh&utm_campaign=ember-webapp)
