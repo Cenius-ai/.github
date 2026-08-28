@@ -85,6 +85,8 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Bookmarks Web App](https://github.com/Cenius-ai/bookmarks-web-app-scala) — open-source bookmark to-do list app in Scala · [remix](https://cenius.ai/marketplace/p/bookmarks-web-app-2?ref=gh&utm_campaign=bookmarks-web-app-scala)
+- [SnipVault](https://github.com/Cenius-ai/snipvault-vlang) — open-source pet knowledge base app in V · [remix](https://cenius.ai/marketplace/p/snipvault?ref=gh&utm_campaign=snipvault-vlang)
 - [Bookmarks Ktor Web App](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin) — open-source bookmark to-do list app in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/bookmarks-ktor-web-app?ref=gh&utm_campaign=bookmarks-ktor-web-app-kotlin)
 - [DailyLog](https://github.com/Cenius-ai/dailylog-golang) — open-source to-do list app in Go · [remix](https://cenius.ai/marketplace/p/dailylog?ref=gh&utm_campaign=dailylog-golang)
 - [Multi-Page Kanban Board](https://github.com/Cenius-ai/multi-page-kanban-board-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/multi-page-kanban-board?ref=gh&utm_campaign=multi-page-kanban-board-vite)
@@ -162,6 +164,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Personal Finance Tracker](https://github.com/Cenius-ai/personal-finance-tracker-flask) — open-source personal finance tracker in Flask · [remix](https://cenius.ai/marketplace/p/personal-finance-tracker?ref=gh&utm_campaign=personal-finance-tracker-flask)
 - [Larch](https://github.com/Cenius-ai/larch-kotlin) — open-source personal finance tracker in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/larch?ref=gh&utm_campaign=larch-kotlin)
 - [InvoiceKit](https://github.com/Cenius-ai/invoicekit-vlang) — open-source invoice personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/invoicekit?ref=gh&utm_campaign=invoicekit-vlang)
 - [Quartz](https://github.com/Cenius-ai/quartz-astro) — open-source personal finance tracker in Astro · [remix](https://cenius.ai/marketplace/p/quartz?ref=gh&utm_campaign=quartz-astro)
