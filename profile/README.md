@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [ClientDesk](https://github.com/Cenius-ai/clientdesk-django) — open-source CRM system in Django · [remix](https://cenius.ai/marketplace/p/clientdesk?ref=gh&utm_campaign=clientdesk-django)
 - [PollPit](https://github.com/Cenius-ai/pollpit-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/pollpit?ref=gh&utm_campaign=pollpit-webapp)
 - [Vela - Feature Flag Management](https://github.com/Cenius-ai/vela-feature-flag-management-vlang) — open-source admin panel in V · [remix](https://cenius.ai/marketplace/p/vela---feature-flag-management?ref=gh&utm_campaign=vela-feature-flag-management-vlang)
 - [TeamTrack CRM](https://github.com/Cenius-ai/teamtrack-crm-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/teamtrack-crm?ref=gh&utm_campaign=teamtrack-crm-vlang)
@@ -85,6 +86,8 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [StarChart](https://github.com/Cenius-ai/starchart-astro) — open-source book to-do list app in Astro · [remix](https://cenius.ai/marketplace/p/starchart?ref=gh&utm_campaign=starchart-astro)
+- [LinkShelf](https://github.com/Cenius-ai/linkshelf-nodejs) — open-source bookmark knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/linkshelf?ref=gh&utm_campaign=linkshelf-nodejs)
 - [Bookmarks Web App](https://github.com/Cenius-ai/bookmarks-web-app-scala) — open-source bookmark to-do list app in Scala · [remix](https://cenius.ai/marketplace/p/bookmarks-web-app-2?ref=gh&utm_campaign=bookmarks-web-app-scala)
 - [SnipVault](https://github.com/Cenius-ai/snipvault-vlang) — open-source pet knowledge base app in V · [remix](https://cenius.ai/marketplace/p/snipvault?ref=gh&utm_campaign=snipvault-vlang)
 - [Bookmarks Ktor Web App](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin) — open-source bookmark to-do list app in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/bookmarks-ktor-web-app?ref=gh&utm_campaign=bookmarks-ktor-web-app-kotlin)
