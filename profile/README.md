@@ -122,6 +122,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [SalesScope](https://github.com/Cenius-ai/salesscope-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/salesscope?ref=gh&utm_campaign=salesscope-webapp)
 - [TeamPulse](https://github.com/Cenius-ai/teampulse-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/teampulse?ref=gh&utm_campaign=teampulse-vite)
 - [SaaS Dashboard](https://github.com/Cenius-ai/saas-dashboard-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/saas-dashboard?ref=gh&utm_campaign=saas-dashboard-vite)
 - [Prism — Cafe POS](https://github.com/Cenius-ai/prism-cafe-pos-scala) — open-source restaurant monitoring dashboard in Scala · [remix](https://cenius.ai/marketplace/p/prism-cafe-pos?ref=gh&utm_campaign=prism-cafe-pos-scala)
@@ -158,6 +159,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [InvoiceKit](https://github.com/Cenius-ai/invoicekit-vlang) — open-source invoice personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/invoicekit?ref=gh&utm_campaign=invoicekit-vlang)
 - [Quartz](https://github.com/Cenius-ai/quartz-astro) — open-source personal finance tracker in Astro · [remix](https://cenius.ai/marketplace/p/quartz?ref=gh&utm_campaign=quartz-astro)
 - [WarrantyBox](https://github.com/Cenius-ai/warrantybox-dotnet) — open-source personal finance tracker in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/warrantybox?ref=gh&utm_campaign=warrantybox-dotnet)
 - [Jade - Freelancer Invoicing & Billing](https://github.com/Cenius-ai/jade-freelancer-invoicing-billing-golang) — open-source freelancer personal finance tracker in Go · [remix](https://cenius.ai/marketplace/p/jade---freelancer-invoicing-billing?ref=gh&utm_campaign=jade-freelancer-invoicing-billing-golang)
@@ -250,7 +252,7 @@ _Learning platforms, flashcards and knowledge tools._
 
 _Multiplayer games, puzzles and interactive experiences._
 
-> 🌱 First drops landing soon — [watch this org](https://github.com/Cenius-ai) or [build your own now](https://cenius.ai).
+- [Iris Trivia](https://github.com/Cenius-ai/iris-trivia-kotlin) — open-source multiplayer browser game in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/iris-trivia?ref=gh&utm_campaign=iris-trivia-kotlin)
 
 ### Developer Tools & APIs
 
