@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [TeamTrack CRM](https://github.com/Cenius-ai/teamtrack-crm-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/teamtrack-crm?ref=gh&utm_campaign=teamtrack-crm-vlang)
 - [Loom — Personal Secrets Vault](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang) — open-source web application in V · [remix](https://cenius.ai/marketplace/p/loom-personal-secrets-vault?ref=gh&utm_campaign=loom-personal-secrets-vault-vlang)
 - [QuickPoll](https://github.com/Cenius-ai/quickpoll-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/quickpoll-2?ref=gh&utm_campaign=quickpoll-webapp)
 - [Atlas Remote Tech Job Board](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs) — open-source web application in Node.js · [remix](https://cenius.ai/marketplace/p/atlas-remote-tech-job-board?ref=gh&utm_campaign=atlas-remote-tech-job-board-nodejs)
@@ -159,6 +160,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Larch](https://github.com/Cenius-ai/larch-kotlin) — open-source personal finance tracker in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/larch?ref=gh&utm_campaign=larch-kotlin)
 - [InvoiceKit](https://github.com/Cenius-ai/invoicekit-vlang) — open-source invoice personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/invoicekit?ref=gh&utm_campaign=invoicekit-vlang)
 - [Quartz](https://github.com/Cenius-ai/quartz-astro) — open-source personal finance tracker in Astro · [remix](https://cenius.ai/marketplace/p/quartz?ref=gh&utm_campaign=quartz-astro)
 - [WarrantyBox](https://github.com/Cenius-ai/warrantybox-dotnet) — open-source personal finance tracker in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/warrantybox?ref=gh&utm_campaign=warrantybox-dotnet)
@@ -173,6 +175,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [BeanCount](https://github.com/Cenius-ai/beancount-webapp) — open-source recipe manager in Full-stack app · [remix](https://cenius.ai/marketplace/p/beancount?ref=gh&utm_campaign=beancount-webapp)
 - [Minimal Event Directory](https://github.com/Cenius-ai/minimal-event-directory-fastapi) — open-source landing page in FastAPI · [remix](https://cenius.ai/marketplace/p/minimal-event-directory?ref=gh&utm_campaign=minimal-event-directory-fastapi)
 - [RecipeShare](https://github.com/Cenius-ai/recipeshare-rails) — open-source recipe manager in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/recipeshare?ref=gh&utm_campaign=recipeshare-rails)
 - [Willow](https://github.com/Cenius-ai/willow-nodejs) — open-source music player app in Node.js · [remix](https://cenius.ai/marketplace/p/willow-3?ref=gh&utm_campaign=willow-nodejs)
