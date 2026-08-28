@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Onyx Conference Manager](https://github.com/Cenius-ai/onyx-conference-manager-golang) — open-source admin panel in Go · [remix](https://cenius.ai/marketplace/p/onyx-conference-manager?ref=gh&utm_campaign=onyx-conference-manager-golang)
 - [ClientDesk](https://github.com/Cenius-ai/clientdesk-django) — open-source CRM system in Django · [remix](https://cenius.ai/marketplace/p/clientdesk?ref=gh&utm_campaign=clientdesk-django)
 - [PollPit](https://github.com/Cenius-ai/pollpit-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/pollpit?ref=gh&utm_campaign=pollpit-webapp)
 - [Vela - Feature Flag Management](https://github.com/Cenius-ai/vela-feature-flag-management-vlang) — open-source admin panel in V · [remix](https://cenius.ai/marketplace/p/vela---feature-flag-management?ref=gh&utm_campaign=vela-feature-flag-management-vlang)
@@ -57,6 +58,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Bookstore REST API with Server-Rendered EJS Frontend](https://github.com/Cenius-ai/bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs) — open-source book e-commerce storefront in Node.js · [remix](https://cenius.ai/marketplace/p/bookstore-rest-api-with-server-rendered-ejs-frontend?ref=gh&utm_campaign=bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs)
 - [Willow](https://github.com/Cenius-ai/willow-nodejs-2) — open-source salon appointment scheduling system in Node.js · [remix](https://cenius.ai/marketplace/p/willow-4?ref=gh&utm_campaign=willow-nodejs-2)
 - [Cobalt - Coffee Roaster Storefront](https://github.com/Cenius-ai/cobalt-coffee-roaster-storefront-webapp) — open-source e-commerce storefront in Full-stack app · [remix](https://cenius.ai/marketplace/p/cobalt---coffee-roaster-storefront?ref=gh&utm_campaign=cobalt-coffee-roaster-storefront-webapp)
 - [Product Catalog with Raw Search](https://github.com/Cenius-ai/product-catalog-with-raw-search-flask) — open-source e-commerce storefront in Flask · [remix](https://cenius.ai/marketplace/p/product-catalog-with-raw-search?ref=gh&utm_campaign=product-catalog-with-raw-search-flask)
@@ -131,6 +133,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Grove](https://github.com/Cenius-ai/grove-astro) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/grove?ref=gh&utm_campaign=grove-astro)
 - [Flux Log Viewer](https://github.com/Cenius-ai/flux-log-viewer-kotlin) — open-source log monitoring dashboard in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/flux-log-viewer?ref=gh&utm_campaign=flux-log-viewer-kotlin)
 - [Fable](https://github.com/Cenius-ai/fable-astro-2) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/fable-2?ref=gh&utm_campaign=fable-astro-2)
 - [SalesScope](https://github.com/Cenius-ai/salesscope-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/salesscope?ref=gh&utm_campaign=salesscope-webapp)
