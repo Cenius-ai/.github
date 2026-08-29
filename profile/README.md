@@ -94,6 +94,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Express EJS Bookmark Manager](https://github.com/Cenius-ai/express-ejs-bookmark-manager-nodejs) — open-source bookmark to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/express-ejs-bookmark-manager?ref=gh&utm_campaign=express-ejs-bookmark-manager-nodejs)
 - [Flask Habit Tracker](https://github.com/Cenius-ai/flask-habit-tracker) — open-source to-do list app in Flask · [remix](https://cenius.ai/marketplace/p/flask-habit-tracker?ref=gh&utm_campaign=flask-habit-tracker)
 - [TaskFlow](https://github.com/Cenius-ai/taskflow-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/taskflow-5?ref=gh&utm_campaign=taskflow-nodejs)
 - [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-golang) — open-source bookmark to-do list app in Go · [remix](https://cenius.ai/marketplace/p/bookmark-manager-4?ref=gh&utm_campaign=bookmark-manager-golang)
@@ -208,6 +209,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Event Directory](https://github.com/Cenius-ai/event-directory-dotnet) — open-source blog platform in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/event-directory?ref=gh&utm_campaign=event-directory-dotnet)
 - [Recipe Box](https://github.com/Cenius-ai/recipe-box-rails) — open-source recipe manager in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/recipe-box-3?ref=gh&utm_campaign=recipe-box-rails)
 - [Lumen](https://github.com/Cenius-ai/lumen-scala-2) — open-source music player app in Scala · [remix](https://cenius.ai/marketplace/p/lumen-4?ref=gh&utm_campaign=lumen-scala-2)
 - [BeanCount](https://github.com/Cenius-ai/beancount-webapp) — open-source recipe manager in Full-stack app · [remix](https://cenius.ai/marketplace/p/beancount?ref=gh&utm_campaign=beancount-webapp)
@@ -303,6 +305,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Go Book Catalog](https://github.com/Cenius-ai/go-book-catalog-golang) — open-source book software library in Go · [remix](https://cenius.ai/marketplace/p/go-book-catalog?ref=gh&utm_campaign=go-book-catalog-golang)
 - [DocQnA RAG App](https://github.com/Cenius-ai/docqna-rag-app-webapp) — open-source pet retrieval-augmented search app in Full-stack app · [remix](https://cenius.ai/marketplace/p/docqna-rag-app?ref=gh&utm_campaign=docqna-rag-app-webapp)
 - [Sage](https://github.com/Cenius-ai/sage-scala) — open-source retrieval-augmented search app in Scala · [remix](https://cenius.ai/marketplace/p/sage-2?ref=gh&utm_campaign=sage-scala)
 - [Bloom — Docs Q&A AI Chatbot](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp) — open-source retrieval-augmented search app in Full-stack app · [remix](https://cenius.ai/marketplace/p/bloom-docs-q-a-ai-chatbot?ref=gh&utm_campaign=bloom-docs-q-a-ai-chatbot-webapp)
