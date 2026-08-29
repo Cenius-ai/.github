@@ -23,6 +23,8 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Haven POS](https://github.com/Cenius-ai/haven-pos-golang) — open-source restaurant admin panel in Go · [remix](https://cenius.ai/marketplace/p/haven-pos?ref=gh&utm_campaign=haven-pos-golang)
+- [Thumbnail API](https://github.com/Cenius-ai/thumbnail-api-nodejs) — open-source web application in Node.js · [remix](https://cenius.ai/marketplace/p/thumbnail-api?ref=gh&utm_campaign=thumbnail-api-nodejs)
 - [TicketDesk](https://github.com/Cenius-ai/ticketdesk-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/ticketdesk?ref=gh&utm_campaign=ticketdesk-webapp)
 - [Onyx Conference Manager](https://github.com/Cenius-ai/onyx-conference-manager-golang) — open-source admin panel in Go · [remix](https://cenius.ai/marketplace/p/onyx-conference-manager?ref=gh&utm_campaign=onyx-conference-manager-golang)
 - [ClientDesk](https://github.com/Cenius-ai/clientdesk-django) — open-source CRM system in Django · [remix](https://cenius.ai/marketplace/p/clientdesk?ref=gh&utm_campaign=clientdesk-django)
@@ -135,6 +137,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [SalesScope](https://github.com/Cenius-ai/salesscope-webapp-2) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/salesscope-2?ref=gh&utm_campaign=salesscope-webapp-2)
 - [Grove](https://github.com/Cenius-ai/grove-astro) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/grove?ref=gh&utm_campaign=grove-astro)
 - [Flux Log Viewer](https://github.com/Cenius-ai/flux-log-viewer-kotlin) — open-source log monitoring dashboard in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/flux-log-viewer?ref=gh&utm_campaign=flux-log-viewer-kotlin)
 - [Fable](https://github.com/Cenius-ai/fable-astro-2) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/fable-2?ref=gh&utm_campaign=fable-astro-2)
