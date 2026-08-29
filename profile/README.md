@@ -93,6 +93,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-golang) — open-source bookmark to-do list app in Go · [remix](https://cenius.ai/marketplace/p/bookmark-manager-4?ref=gh&utm_campaign=bookmark-manager-golang)
 - [Bun Bookmarks](https://github.com/Cenius-ai/bun-bookmarks-nodejs) — open-source bookmark knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/bun-bookmarks?ref=gh&utm_campaign=bun-bookmarks-nodejs)
 - [FastAPI Notes](https://github.com/Cenius-ai/fastapi-notes) — open-source to-do list app in FastAPI · [remix](https://cenius.ai/marketplace/p/fastapi-notes?ref=gh&utm_campaign=fastapi-notes)
 - [StarChart](https://github.com/Cenius-ai/starchart-astro) — open-source book to-do list app in Astro · [remix](https://cenius.ai/marketplace/p/starchart?ref=gh&utm_campaign=starchart-astro)
@@ -139,6 +140,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [LeavePlanner](https://github.com/Cenius-ai/leaveplanner-dotnet) — open-source monitoring dashboard in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/leaveplanner?ref=gh&utm_campaign=leaveplanner-dotnet)
 - [SalesScope](https://github.com/Cenius-ai/salesscope-webapp-2) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/salesscope-2?ref=gh&utm_campaign=salesscope-webapp-2)
 - [Grove](https://github.com/Cenius-ai/grove-astro) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/grove?ref=gh&utm_campaign=grove-astro)
 - [Flux Log Viewer](https://github.com/Cenius-ai/flux-log-viewer-kotlin) — open-source log monitoring dashboard in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/flux-log-viewer?ref=gh&utm_campaign=flux-log-viewer-kotlin)
@@ -180,6 +182,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Nook](https://github.com/Cenius-ai/nook-rails) — open-source freelancer personal finance tracker in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/nook-3?ref=gh&utm_campaign=nook-rails)
 - [Tide - Agency Invoicing & Billing](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs) — open-source invoice personal finance tracker in Node.js · [remix](https://cenius.ai/marketplace/p/tide---agency-invoicing-billing?ref=gh&utm_campaign=tide-agency-invoicing-billing-nodejs)
 - [Personal Finance Tracker](https://github.com/Cenius-ai/personal-finance-tracker-flask) — open-source personal finance tracker in Flask · [remix](https://cenius.ai/marketplace/p/personal-finance-tracker?ref=gh&utm_campaign=personal-finance-tracker-flask)
 - [Larch](https://github.com/Cenius-ai/larch-kotlin) — open-source personal finance tracker in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/larch?ref=gh&utm_campaign=larch-kotlin)
