@@ -93,6 +93,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [TaskFlow](https://github.com/Cenius-ai/taskflow-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/taskflow-5?ref=gh&utm_campaign=taskflow-nodejs)
 - [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-golang) — open-source bookmark to-do list app in Go · [remix](https://cenius.ai/marketplace/p/bookmark-manager-4?ref=gh&utm_campaign=bookmark-manager-golang)
 - [Bun Bookmarks](https://github.com/Cenius-ai/bun-bookmarks-nodejs) — open-source bookmark knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/bun-bookmarks?ref=gh&utm_campaign=bun-bookmarks-nodejs)
 - [FastAPI Notes](https://github.com/Cenius-ai/fastapi-notes) — open-source to-do list app in FastAPI · [remix](https://cenius.ai/marketplace/p/fastapi-notes?ref=gh&utm_campaign=fastapi-notes)
@@ -311,6 +312,8 @@ _Chat assistants and creative studios (all whitelabel, all yours)._
 
 _Health trackers and lifestyle companions._
 
+- [Pulse — Runner's Habit Tracker](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi-2) — open-source fitness tracker in FastAPI · [remix](https://cenius.ai/marketplace/p/pulse-runner-s-habit-tracker-2?ref=gh&utm_campaign=pulse-runner-s-habit-tracker-fastapi-2)
+- [RepLog](https://github.com/Cenius-ai/replog-vite) — open-source fitness tracker in Vite · [remix](https://cenius.ai/marketplace/p/replog?ref=gh&utm_campaign=replog-vite)
 - [Personal Workout Tracker](https://github.com/Cenius-ai/personal-workout-tracker-vite) — open-source fitness tracker in Vite · [remix](https://cenius.ai/marketplace/p/personal-workout-tracker?ref=gh&utm_campaign=personal-workout-tracker-vite)
 - [Quartz — Habit Tracker for Runners](https://github.com/Cenius-ai/quartz-habit-tracker-for-runners-webapp) — open-source fitness tracker in Full-stack app · [remix](https://cenius.ai/marketplace/p/quartz-habit-tracker-for-runners?ref=gh&utm_campaign=quartz-habit-tracker-for-runners-webapp)
 - [Pulse — Runner's Habit Tracker](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi) — open-source fitness tracker in FastAPI · [remix](https://cenius.ai/marketplace/p/pulse-runner-s-habit-tracker?ref=gh&utm_campaign=pulse-runner-s-habit-tracker-fastapi)
