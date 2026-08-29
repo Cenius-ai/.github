@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [WeatherDash](https://github.com/Cenius-ai/weatherdash-vite) — open-source web application in Vite · [remix](https://cenius.ai/marketplace/p/weatherdash?ref=gh&utm_campaign=weatherdash-vite)
 - [Team CRM Lite](https://github.com/Cenius-ai/team-crm-lite-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/team-crm-lite?ref=gh&utm_campaign=team-crm-lite-vlang)
 - [Haven POS](https://github.com/Cenius-ai/haven-pos-golang) — open-source restaurant admin panel in Go · [remix](https://cenius.ai/marketplace/p/haven-pos?ref=gh&utm_campaign=haven-pos-golang)
 - [Thumbnail API](https://github.com/Cenius-ai/thumbnail-api-nodejs) — open-source web application in Node.js · [remix](https://cenius.ai/marketplace/p/thumbnail-api?ref=gh&utm_campaign=thumbnail-api-nodejs)
@@ -141,6 +142,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [QuoteVault](https://github.com/Cenius-ai/quotevault-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/quotevault?ref=gh&utm_campaign=quotevault-flask)
 - [Nuxt Analytics Dashboard](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/nuxt-analytics-dashboard?ref=gh&utm_campaign=nuxt-analytics-dashboard-webapp)
 - [Event Management App (.NET 8 + Razor Pages + PostgreSQL)](https://github.com/Cenius-ai/event-management-app-net-8-razor-pages-postgresql-dotnet) — open-source monitoring dashboard in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/event-management-app-net-8-razor-pages-postgresql?ref=gh&utm_campaign=event-management-app-net-8-razor-pages-postgresql-dotnet)
 - [LeavePlanner](https://github.com/Cenius-ai/leaveplanner-dotnet) — open-source monitoring dashboard in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/leaveplanner?ref=gh&utm_campaign=leaveplanner-dotnet)
@@ -298,6 +300,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [DocQnA RAG App](https://github.com/Cenius-ai/docqna-rag-app-webapp) — open-source pet retrieval-augmented search app in Full-stack app · [remix](https://cenius.ai/marketplace/p/docqna-rag-app?ref=gh&utm_campaign=docqna-rag-app-webapp)
 - [Sage](https://github.com/Cenius-ai/sage-scala) — open-source retrieval-augmented search app in Scala · [remix](https://cenius.ai/marketplace/p/sage-2?ref=gh&utm_campaign=sage-scala)
 - [Bloom — Docs Q&A AI Chatbot](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp) — open-source retrieval-augmented search app in Full-stack app · [remix](https://cenius.ai/marketplace/p/bloom-docs-q-a-ai-chatbot?ref=gh&utm_campaign=bloom-docs-q-a-ai-chatbot-webapp)
 - [Bookstore REST API](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot) — open-source book microservice in Spring Boot · [remix](https://cenius.ai/marketplace/p/bookstore-rest-api?ref=gh&utm_campaign=bookstore-rest-api-spring-boot)
