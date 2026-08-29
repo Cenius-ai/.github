@@ -141,6 +141,8 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Nuxt Analytics Dashboard](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/nuxt-analytics-dashboard?ref=gh&utm_campaign=nuxt-analytics-dashboard-webapp)
+- [Event Management App (.NET 8 + Razor Pages + PostgreSQL)](https://github.com/Cenius-ai/event-management-app-net-8-razor-pages-postgresql-dotnet) — open-source monitoring dashboard in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/event-management-app-net-8-razor-pages-postgresql?ref=gh&utm_campaign=event-management-app-net-8-razor-pages-postgresql-dotnet)
 - [LeavePlanner](https://github.com/Cenius-ai/leaveplanner-dotnet) — open-source monitoring dashboard in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/leaveplanner?ref=gh&utm_campaign=leaveplanner-dotnet)
 - [SalesScope](https://github.com/Cenius-ai/salesscope-webapp-2) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/salesscope-2?ref=gh&utm_campaign=salesscope-webapp-2)
 - [Grove](https://github.com/Cenius-ai/grove-astro) — open-source monitoring dashboard in Astro · [remix](https://cenius.ai/marketplace/p/grove?ref=gh&utm_campaign=grove-astro)
@@ -289,6 +291,7 @@ _Learning platforms, flashcards and knowledge tools._
 
 _Multiplayer games, puzzles and interactive experiences._
 
+- [LiveSpecTabs mrr8xb9u](https://github.com/Cenius-ai/livespectabs-mrr8xb9u-nodejs) — open-source multiplayer browser game in Node.js · [remix](https://cenius.ai/marketplace/p/livespectabs-mrr8xb9u?ref=gh&utm_campaign=livespectabs-mrr8xb9u-nodejs)
 - [Iris Trivia](https://github.com/Cenius-ai/iris-trivia-kotlin) — open-source multiplayer browser game in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/iris-trivia?ref=gh&utm_campaign=iris-trivia-kotlin)
 
 ### Developer Tools & APIs
