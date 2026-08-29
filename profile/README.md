@@ -94,6 +94,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Flask Habit Tracker](https://github.com/Cenius-ai/flask-habit-tracker) — open-source to-do list app in Flask · [remix](https://cenius.ai/marketplace/p/flask-habit-tracker?ref=gh&utm_campaign=flask-habit-tracker)
 - [TaskFlow](https://github.com/Cenius-ai/taskflow-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/taskflow-5?ref=gh&utm_campaign=taskflow-nodejs)
 - [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-golang) — open-source bookmark to-do list app in Go · [remix](https://cenius.ai/marketplace/p/bookmark-manager-4?ref=gh&utm_campaign=bookmark-manager-golang)
 - [Bun Bookmarks](https://github.com/Cenius-ai/bun-bookmarks-nodejs) — open-source bookmark knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/bun-bookmarks?ref=gh&utm_campaign=bun-bookmarks-nodejs)
@@ -142,6 +143,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Sales Analytics Dashboard](https://github.com/Cenius-ai/sales-analytics-dashboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/sales-analytics-dashboard-2?ref=gh&utm_campaign=sales-analytics-dashboard-webapp)
 - [QuoteVault](https://github.com/Cenius-ai/quotevault-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/quotevault?ref=gh&utm_campaign=quotevault-flask)
 - [Nuxt Analytics Dashboard](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/nuxt-analytics-dashboard?ref=gh&utm_campaign=nuxt-analytics-dashboard-webapp)
 - [Event Management App (.NET 8 + Razor Pages + PostgreSQL)](https://github.com/Cenius-ai/event-management-app-net-8-razor-pages-postgresql-dotnet) — open-source monitoring dashboard in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/event-management-app-net-8-razor-pages-postgresql?ref=gh&utm_campaign=event-management-app-net-8-razor-pages-postgresql-dotnet)
@@ -187,6 +189,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Vertex](https://github.com/Cenius-ai/vertex-vlang) — open-source freelancer personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/vertex-2?ref=gh&utm_campaign=vertex-vlang)
 - [Nook](https://github.com/Cenius-ai/nook-rails) — open-source freelancer personal finance tracker in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/nook-3?ref=gh&utm_campaign=nook-rails)
 - [Tide - Agency Invoicing & Billing](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs) — open-source invoice personal finance tracker in Node.js · [remix](https://cenius.ai/marketplace/p/tide---agency-invoicing-billing?ref=gh&utm_campaign=tide-agency-invoicing-billing-nodejs)
 - [Personal Finance Tracker](https://github.com/Cenius-ai/personal-finance-tracker-flask) — open-source personal finance tracker in Flask · [remix](https://cenius.ai/marketplace/p/personal-finance-tracker?ref=gh&utm_campaign=personal-finance-tracker-flask)
