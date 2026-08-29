@@ -200,6 +200,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Recipe Box](https://github.com/Cenius-ai/recipe-box-rails) — open-source recipe manager in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/recipe-box-3?ref=gh&utm_campaign=recipe-box-rails)
 - [Lumen](https://github.com/Cenius-ai/lumen-scala-2) — open-source music player app in Scala · [remix](https://cenius.ai/marketplace/p/lumen-4?ref=gh&utm_campaign=lumen-scala-2)
 - [BeanCount](https://github.com/Cenius-ai/beancount-webapp) — open-source recipe manager in Full-stack app · [remix](https://cenius.ai/marketplace/p/beancount?ref=gh&utm_campaign=beancount-webapp)
 - [Minimal Event Directory](https://github.com/Cenius-ai/minimal-event-directory-fastapi) — open-source landing page in FastAPI · [remix](https://cenius.ai/marketplace/p/minimal-event-directory?ref=gh&utm_campaign=minimal-event-directory-fastapi)
@@ -251,6 +252,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [Guestbook App](https://github.com/Cenius-ai/guestbook-app-flask) — open-source book social network app in Flask · [remix](https://cenius.ai/marketplace/p/guestbook-app?ref=gh&utm_campaign=guestbook-app-flask)
 - [OrgSocial POC](https://github.com/Cenius-ai/orgsocial-poc-nodejs) — open-source social network app in Node.js · [remix](https://cenius.ai/marketplace/p/orgsocial-poc?ref=gh&utm_campaign=orgsocial-poc-nodejs)
 - [QuoteBoard](https://github.com/Cenius-ai/quoteboard-webapp) — open-source social network app in Full-stack app · [remix](https://cenius.ai/marketplace/p/quoteboard?ref=gh&utm_campaign=quoteboard-webapp)
 - [BookHive](https://github.com/Cenius-ai/bookhive-flask) — open-source book social network app in Flask · [remix](https://cenius.ai/marketplace/p/bookhive?ref=gh&utm_campaign=bookhive-flask)
@@ -309,6 +311,7 @@ _Chat assistants and creative studios (all whitelabel, all yours)._
 
 _Health trackers and lifestyle companions._
 
+- [Personal Workout Tracker](https://github.com/Cenius-ai/personal-workout-tracker-vite) — open-source fitness tracker in Vite · [remix](https://cenius.ai/marketplace/p/personal-workout-tracker?ref=gh&utm_campaign=personal-workout-tracker-vite)
 - [Quartz — Habit Tracker for Runners](https://github.com/Cenius-ai/quartz-habit-tracker-for-runners-webapp) — open-source fitness tracker in Full-stack app · [remix](https://cenius.ai/marketplace/p/quartz-habit-tracker-for-runners?ref=gh&utm_campaign=quartz-habit-tracker-for-runners-webapp)
 - [Pulse — Runner's Habit Tracker](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi) — open-source fitness tracker in FastAPI · [remix](https://cenius.ai/marketplace/p/pulse-runner-s-habit-tracker?ref=gh&utm_campaign=pulse-runner-s-habit-tracker-fastapi)
 - [Willow](https://github.com/Cenius-ai/willow-vite) — open-source fitness tracker in Vite · [remix](https://cenius.ai/marketplace/p/willow-2?ref=gh&utm_campaign=willow-vite)
