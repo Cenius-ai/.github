@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Team CRM Lite](https://github.com/Cenius-ai/team-crm-lite-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/team-crm-lite?ref=gh&utm_campaign=team-crm-lite-vlang)
 - [Haven POS](https://github.com/Cenius-ai/haven-pos-golang) — open-source restaurant admin panel in Go · [remix](https://cenius.ai/marketplace/p/haven-pos?ref=gh&utm_campaign=haven-pos-golang)
 - [Thumbnail API](https://github.com/Cenius-ai/thumbnail-api-nodejs) — open-source web application in Node.js · [remix](https://cenius.ai/marketplace/p/thumbnail-api?ref=gh&utm_campaign=thumbnail-api-nodejs)
 - [TicketDesk](https://github.com/Cenius-ai/ticketdesk-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/ticketdesk?ref=gh&utm_campaign=ticketdesk-webapp)
@@ -92,6 +93,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Bun Bookmarks](https://github.com/Cenius-ai/bun-bookmarks-nodejs) — open-source bookmark knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/bun-bookmarks?ref=gh&utm_campaign=bun-bookmarks-nodejs)
 - [FastAPI Notes](https://github.com/Cenius-ai/fastapi-notes) — open-source to-do list app in FastAPI · [remix](https://cenius.ai/marketplace/p/fastapi-notes?ref=gh&utm_campaign=fastapi-notes)
 - [StarChart](https://github.com/Cenius-ai/starchart-astro) — open-source book to-do list app in Astro · [remix](https://cenius.ai/marketplace/p/starchart?ref=gh&utm_campaign=starchart-astro)
 - [LinkShelf](https://github.com/Cenius-ai/linkshelf-nodejs) — open-source bookmark knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/linkshelf?ref=gh&utm_campaign=linkshelf-nodejs)
@@ -266,6 +268,7 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
+- [Slate](https://github.com/Cenius-ai/slate-astro-2) — open-source pet learning platform in Astro · [remix](https://cenius.ai/marketplace/p/slate-3?ref=gh&utm_campaign=slate-astro-2)
 - [Ridge Language Flashcards](https://github.com/Cenius-ai/ridge-language-flashcards-golang) — open-source pet learning platform in Go · [remix](https://cenius.ai/marketplace/p/ridge-language-flashcards?ref=gh&utm_campaign=ridge-language-flashcards-golang)
 - [Ridge — Spaced Repetition Flashcards](https://github.com/Cenius-ai/ridge-spaced-repetition-flashcards-golang) — open-source pet learning platform in Go · [remix](https://cenius.ai/marketplace/p/ridge-spaced-repetition-flashcards?ref=gh&utm_campaign=ridge-spaced-repetition-flashcards-golang)
 - [Beacon - Coding Bootcamp LMS](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django) — open-source learning platform in Django · [remix](https://cenius.ai/marketplace/p/beacon---coding-bootcamp-lms?ref=gh&utm_campaign=beacon-coding-bootcamp-lms-django)
