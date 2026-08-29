@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [TicketDesk](https://github.com/Cenius-ai/ticketdesk-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/ticketdesk?ref=gh&utm_campaign=ticketdesk-webapp)
 - [Onyx Conference Manager](https://github.com/Cenius-ai/onyx-conference-manager-golang) — open-source admin panel in Go · [remix](https://cenius.ai/marketplace/p/onyx-conference-manager?ref=gh&utm_campaign=onyx-conference-manager-golang)
 - [ClientDesk](https://github.com/Cenius-ai/clientdesk-django) — open-source CRM system in Django · [remix](https://cenius.ai/marketplace/p/clientdesk?ref=gh&utm_campaign=clientdesk-django)
 - [PollPit](https://github.com/Cenius-ai/pollpit-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/pollpit?ref=gh&utm_campaign=pollpit-webapp)
@@ -89,6 +90,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [FastAPI Notes](https://github.com/Cenius-ai/fastapi-notes) — open-source to-do list app in FastAPI · [remix](https://cenius.ai/marketplace/p/fastapi-notes?ref=gh&utm_campaign=fastapi-notes)
 - [StarChart](https://github.com/Cenius-ai/starchart-astro) — open-source book to-do list app in Astro · [remix](https://cenius.ai/marketplace/p/starchart?ref=gh&utm_campaign=starchart-astro)
 - [LinkShelf](https://github.com/Cenius-ai/linkshelf-nodejs) — open-source bookmark knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/linkshelf?ref=gh&utm_campaign=linkshelf-nodejs)
 - [Bookmarks Web App](https://github.com/Cenius-ai/bookmarks-web-app-scala) — open-source bookmark to-do list app in Scala · [remix](https://cenius.ai/marketplace/p/bookmarks-web-app-2?ref=gh&utm_campaign=bookmarks-web-app-scala)
@@ -241,6 +243,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [OrgSocial POC](https://github.com/Cenius-ai/orgsocial-poc-nodejs) — open-source social network app in Node.js · [remix](https://cenius.ai/marketplace/p/orgsocial-poc?ref=gh&utm_campaign=orgsocial-poc-nodejs)
 - [QuoteBoard](https://github.com/Cenius-ai/quoteboard-webapp) — open-source social network app in Full-stack app · [remix](https://cenius.ai/marketplace/p/quoteboard?ref=gh&utm_campaign=quoteboard-webapp)
 - [BookHive](https://github.com/Cenius-ai/bookhive-flask) — open-source book social network app in Flask · [remix](https://cenius.ai/marketplace/p/bookhive?ref=gh&utm_campaign=bookhive-flask)
 - [Nimbus](https://github.com/Cenius-ai/nimbus-vlang) — open-source chat application in V · [remix](https://cenius.ai/marketplace/p/nimbus?ref=gh&utm_campaign=nimbus-vlang)
