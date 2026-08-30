@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [URL Shortener Docker Stack](https://github.com/Cenius-ai/url-shortener-docker-stack-flask) — open-source web application in Flask · [remix](https://cenius.ai/marketplace/p/url-shortener-docker-stack?ref=gh&utm_campaign=url-shortener-docker-stack-flask)
 - [Event Directory](https://github.com/Cenius-ai/event-directory-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/event-directory-2?ref=gh&utm_campaign=event-directory-webapp)
 - [Jade](https://github.com/Cenius-ai/jade-kotlin) — open-source web application in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/jade?ref=gh&utm_campaign=jade-kotlin)
 - [Offboardly](https://github.com/Cenius-ai/offboardly-vlang) — open-source admin panel in V · [remix](https://cenius.ai/marketplace/p/offboardly-2?ref=gh&utm_campaign=offboardly-vlang)
@@ -156,6 +157,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [OpsPanel](https://github.com/Cenius-ai/opspanel-fastapi) — open-source monitoring dashboard in FastAPI · [remix](https://cenius.ai/marketplace/p/opspanel?ref=gh&utm_campaign=opspanel-fastapi)
 - [Atlas - Health Vitals Records](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp) — open-source clinic monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/atlas---health-vitals-records?ref=gh&utm_campaign=atlas-health-vitals-records-webapp)
 - [MetricDash SaaS](https://github.com/Cenius-ai/metricdash-saas-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/metricdash-saas?ref=gh&utm_campaign=metricdash-saas-vlang)
 - [JAX Linear Regression Trainer & Visualizer](https://github.com/Cenius-ai/jax-linear-regression-trainer-visualizer-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/jax-linear-regression-trainer-visualizer?ref=gh&utm_campaign=jax-linear-regression-trainer-visualizer-flask)
@@ -325,6 +327,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Book Catalog Web App](https://github.com/Cenius-ai/book-catalog-web-app-kotlin) — open-source book software library in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/book-catalog-web-app-2?ref=gh&utm_campaign=book-catalog-web-app-kotlin)
 - [Book Catalog](https://github.com/Cenius-ai/book-catalog-rails) — open-source book software library in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/book-catalog-2?ref=gh&utm_campaign=book-catalog-rails)
 - [Go Book Catalog](https://github.com/Cenius-ai/go-book-catalog-golang) — open-source book software library in Go · [remix](https://cenius.ai/marketplace/p/go-book-catalog?ref=gh&utm_campaign=go-book-catalog-golang)
 - [DocQnA RAG App](https://github.com/Cenius-ai/docqna-rag-app-webapp) — open-source pet retrieval-augmented search app in Full-stack app · [remix](https://cenius.ai/marketplace/p/docqna-rag-app?ref=gh&utm_campaign=docqna-rag-app-webapp)
