@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [BookShelf Manager](https://github.com/Cenius-ai/bookshelf-manager-rails) — open-source book admin panel in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/bookshelf-manager?ref=gh&utm_campaign=bookshelf-manager-rails)
 - [WeatherDash](https://github.com/Cenius-ai/weatherdash-vite) — open-source web application in Vite · [remix](https://cenius.ai/marketplace/p/weatherdash?ref=gh&utm_campaign=weatherdash-vite)
 - [Team CRM Lite](https://github.com/Cenius-ai/team-crm-lite-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/team-crm-lite?ref=gh&utm_campaign=team-crm-lite-vlang)
 - [Haven POS](https://github.com/Cenius-ai/haven-pos-golang) — open-source restaurant admin panel in Go · [remix](https://cenius.ai/marketplace/p/haven-pos?ref=gh&utm_campaign=haven-pos-golang)
@@ -94,6 +95,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Cenius Task Board](https://github.com/Cenius-ai/cenius-task-board-vlang) — open-source kanban board in V · [remix](https://cenius.ai/marketplace/p/cenius-task-board?ref=gh&utm_campaign=cenius-task-board-vlang)
 - [Express EJS Bookmark Manager](https://github.com/Cenius-ai/express-ejs-bookmark-manager-nodejs) — open-source bookmark to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/express-ejs-bookmark-manager?ref=gh&utm_campaign=express-ejs-bookmark-manager-nodejs)
 - [Flask Habit Tracker](https://github.com/Cenius-ai/flask-habit-tracker) — open-source to-do list app in Flask · [remix](https://cenius.ai/marketplace/p/flask-habit-tracker?ref=gh&utm_campaign=flask-habit-tracker)
 - [TaskFlow](https://github.com/Cenius-ai/taskflow-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/taskflow-5?ref=gh&utm_campaign=taskflow-nodejs)
@@ -144,6 +146,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [PulsePad](https://github.com/Cenius-ai/pulsepad-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/pulsepad?ref=gh&utm_campaign=pulsepad-webapp)
 - [Sales Analytics Dashboard](https://github.com/Cenius-ai/sales-analytics-dashboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/sales-analytics-dashboard-2?ref=gh&utm_campaign=sales-analytics-dashboard-webapp)
 - [QuoteVault](https://github.com/Cenius-ai/quotevault-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/quotevault?ref=gh&utm_campaign=quotevault-flask)
 - [Nuxt Analytics Dashboard](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/nuxt-analytics-dashboard?ref=gh&utm_campaign=nuxt-analytics-dashboard-webapp)
