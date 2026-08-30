@@ -98,6 +98,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Personal Bookmark Manager](https://github.com/Cenius-ai/personal-bookmark-manager-flask) — open-source bookmark knowledge base app in Flask · [remix](https://cenius.ai/marketplace/p/personal-bookmark-manager?ref=gh&utm_campaign=personal-bookmark-manager-flask)
 - [Todo Web App (F#/Giraffe)](https://github.com/Cenius-ai/todo-web-app-f-giraffe-dotnet) — open-source to-do list app in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/todo-web-app-f-giraffe?ref=gh&utm_campaign=todo-web-app-f-giraffe-dotnet)
 - [Cenius Task Board](https://github.com/Cenius-ai/cenius-task-board-vlang) — open-source kanban board in V · [remix](https://cenius.ai/marketplace/p/cenius-task-board?ref=gh&utm_campaign=cenius-task-board-vlang)
 - [Express EJS Bookmark Manager](https://github.com/Cenius-ai/express-ejs-bookmark-manager-nodejs) — open-source bookmark to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/express-ejs-bookmark-manager?ref=gh&utm_campaign=express-ejs-bookmark-manager-nodejs)
@@ -200,6 +201,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [TripLedger](https://github.com/Cenius-ai/tripledger-vlang) — open-source expense personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/tripledger?ref=gh&utm_campaign=tripledger-vlang)
 - [Personal Finance Dashboard](https://github.com/Cenius-ai/personal-finance-dashboard-vite) — open-source personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/personal-finance-dashboard-2?ref=gh&utm_campaign=personal-finance-dashboard-vite)
 - [Vertex](https://github.com/Cenius-ai/vertex-vlang) — open-source freelancer personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/vertex-2?ref=gh&utm_campaign=vertex-vlang)
 - [Nook](https://github.com/Cenius-ai/nook-rails) — open-source freelancer personal finance tracker in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/nook-3?ref=gh&utm_campaign=nook-rails)
@@ -220,6 +222,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs-2) — open-source recipe manager in Node.js · [remix](https://cenius.ai/marketplace/p/recipes-web-app-3?ref=gh&utm_campaign=recipes-web-app-nodejs-2)
 - [Event Directory](https://github.com/Cenius-ai/event-directory-dotnet) — open-source blog platform in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/event-directory?ref=gh&utm_campaign=event-directory-dotnet)
 - [Recipe Box](https://github.com/Cenius-ai/recipe-box-rails) — open-source recipe manager in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/recipe-box-3?ref=gh&utm_campaign=recipe-box-rails)
 - [Lumen](https://github.com/Cenius-ai/lumen-scala-2) — open-source music player app in Scala · [remix](https://cenius.ai/marketplace/p/lumen-4?ref=gh&utm_campaign=lumen-scala-2)
