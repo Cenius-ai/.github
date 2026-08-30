@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Arc](https://github.com/Cenius-ai/arc-fastapi) — open-source web application in FastAPI · [remix](https://cenius.ai/marketplace/p/arc-2?ref=gh&utm_campaign=arc-fastapi)
 - [BookShelf Manager](https://github.com/Cenius-ai/bookshelf-manager-rails) — open-source book admin panel in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/bookshelf-manager?ref=gh&utm_campaign=bookshelf-manager-rails)
 - [WeatherDash](https://github.com/Cenius-ai/weatherdash-vite) — open-source web application in Vite · [remix](https://cenius.ai/marketplace/p/weatherdash?ref=gh&utm_campaign=weatherdash-vite)
 - [Team CRM Lite](https://github.com/Cenius-ai/team-crm-lite-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/team-crm-lite?ref=gh&utm_campaign=team-crm-lite-vlang)
@@ -146,6 +147,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [JAX Linear Regression Trainer & Visualizer](https://github.com/Cenius-ai/jax-linear-regression-trainer-visualizer-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/jax-linear-regression-trainer-visualizer?ref=gh&utm_campaign=jax-linear-regression-trainer-visualizer-flask)
 - [PulsePad](https://github.com/Cenius-ai/pulsepad-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/pulsepad?ref=gh&utm_campaign=pulsepad-webapp)
 - [Sales Analytics Dashboard](https://github.com/Cenius-ai/sales-analytics-dashboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/sales-analytics-dashboard-2?ref=gh&utm_campaign=sales-analytics-dashboard-webapp)
 - [QuoteVault](https://github.com/Cenius-ai/quotevault-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/quotevault?ref=gh&utm_campaign=quotevault-flask)
@@ -308,6 +310,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Book Catalog](https://github.com/Cenius-ai/book-catalog-rails) — open-source book software library in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/book-catalog-2?ref=gh&utm_campaign=book-catalog-rails)
 - [Go Book Catalog](https://github.com/Cenius-ai/go-book-catalog-golang) — open-source book software library in Go · [remix](https://cenius.ai/marketplace/p/go-book-catalog?ref=gh&utm_campaign=go-book-catalog-golang)
 - [DocQnA RAG App](https://github.com/Cenius-ai/docqna-rag-app-webapp) — open-source pet retrieval-augmented search app in Full-stack app · [remix](https://cenius.ai/marketplace/p/docqna-rag-app?ref=gh&utm_campaign=docqna-rag-app-webapp)
 - [Sage](https://github.com/Cenius-ai/sage-scala) — open-source retrieval-augmented search app in Scala · [remix](https://cenius.ai/marketplace/p/sage-2?ref=gh&utm_campaign=sage-scala)
