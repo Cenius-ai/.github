@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Offboardly](https://github.com/Cenius-ai/offboardly-vlang) — open-source admin panel in V · [remix](https://cenius.ai/marketplace/p/offboardly-2?ref=gh&utm_campaign=offboardly-vlang)
 - [GuestBook](https://github.com/Cenius-ai/guestbook-php) — open-source book web application in PHP · [remix](https://cenius.ai/marketplace/p/guestbook-2?ref=gh&utm_campaign=guestbook-php)
 - [Arc](https://github.com/Cenius-ai/arc-fastapi) — open-source web application in FastAPI · [remix](https://cenius.ai/marketplace/p/arc-2?ref=gh&utm_campaign=arc-fastapi)
 - [BookShelf Manager](https://github.com/Cenius-ai/bookshelf-manager-rails) — open-source book admin panel in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/bookshelf-manager?ref=gh&utm_campaign=bookshelf-manager-rails)
@@ -149,6 +150,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Atlas - Health Vitals Records](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp) — open-source clinic monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/atlas---health-vitals-records?ref=gh&utm_campaign=atlas-health-vitals-records-webapp)
 - [MetricDash SaaS](https://github.com/Cenius-ai/metricdash-saas-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/metricdash-saas?ref=gh&utm_campaign=metricdash-saas-vlang)
 - [JAX Linear Regression Trainer & Visualizer](https://github.com/Cenius-ai/jax-linear-regression-trainer-visualizer-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/jax-linear-regression-trainer-visualizer?ref=gh&utm_campaign=jax-linear-regression-trainer-visualizer-flask)
 - [PulsePad](https://github.com/Cenius-ai/pulsepad-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/pulsepad?ref=gh&utm_campaign=pulsepad-webapp)
@@ -198,6 +200,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Personal Finance Dashboard](https://github.com/Cenius-ai/personal-finance-dashboard-vite) — open-source personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/personal-finance-dashboard-2?ref=gh&utm_campaign=personal-finance-dashboard-vite)
 - [Vertex](https://github.com/Cenius-ai/vertex-vlang) — open-source freelancer personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/vertex-2?ref=gh&utm_campaign=vertex-vlang)
 - [Nook](https://github.com/Cenius-ai/nook-rails) — open-source freelancer personal finance tracker in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/nook-3?ref=gh&utm_campaign=nook-rails)
 - [Tide - Agency Invoicing & Billing](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs) — open-source invoice personal finance tracker in Node.js · [remix](https://cenius.ai/marketplace/p/tide---agency-invoicing-billing?ref=gh&utm_campaign=tide-agency-invoicing-billing-nodejs)
