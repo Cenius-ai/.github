@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Event Directory](https://github.com/Cenius-ai/event-directory-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/event-directory-2?ref=gh&utm_campaign=event-directory-webapp)
 - [Jade](https://github.com/Cenius-ai/jade-kotlin) — open-source web application in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/jade?ref=gh&utm_campaign=jade-kotlin)
 - [Offboardly](https://github.com/Cenius-ai/offboardly-vlang) — open-source admin panel in V · [remix](https://cenius.ai/marketplace/p/offboardly-2?ref=gh&utm_campaign=offboardly-vlang)
 - [GuestBook](https://github.com/Cenius-ai/guestbook-php) — open-source book web application in PHP · [remix](https://cenius.ai/marketplace/p/guestbook-2?ref=gh&utm_campaign=guestbook-php)
@@ -100,6 +101,8 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [ShelfNotes](https://github.com/Cenius-ai/shelfnotes-golang) — open-source book knowledge base app in Go · [remix](https://cenius.ai/marketplace/p/shelfnotes?ref=gh&utm_campaign=shelfnotes-golang)
+- [Multi-tenant SaaS Project Tracker](https://github.com/Cenius-ai/multi-tenant-saas-project-tracker-vlang) — open-source kanban board in V · [remix](https://cenius.ai/marketplace/p/multi-tenant-saas-project-tracker?ref=gh&utm_campaign=multi-tenant-saas-project-tracker-vlang)
 - [Personal Bookmark Manager](https://github.com/Cenius-ai/personal-bookmark-manager-flask) — open-source bookmark knowledge base app in Flask · [remix](https://cenius.ai/marketplace/p/personal-bookmark-manager?ref=gh&utm_campaign=personal-bookmark-manager-flask)
 - [Todo Web App (F#/Giraffe)](https://github.com/Cenius-ai/todo-web-app-f-giraffe-dotnet) — open-source to-do list app in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/todo-web-app-f-giraffe?ref=gh&utm_campaign=todo-web-app-f-giraffe-dotnet)
 - [Cenius Task Board](https://github.com/Cenius-ai/cenius-task-board-vlang) — open-source kanban board in V · [remix](https://cenius.ai/marketplace/p/cenius-task-board?ref=gh&utm_campaign=cenius-task-board-vlang)
