@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Customer CRM](https://github.com/Cenius-ai/customer-crm-nodejs) — open-source CRM system in Node.js · [remix](https://cenius.ai/marketplace/p/customer-crm?ref=gh&utm_campaign=customer-crm-nodejs)
 - [URL Shortener Docker Stack](https://github.com/Cenius-ai/url-shortener-docker-stack-flask) — open-source web application in Flask · [remix](https://cenius.ai/marketplace/p/url-shortener-docker-stack?ref=gh&utm_campaign=url-shortener-docker-stack-flask)
 - [Event Directory](https://github.com/Cenius-ai/event-directory-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/event-directory-2?ref=gh&utm_campaign=event-directory-webapp)
 - [Jade](https://github.com/Cenius-ai/jade-kotlin) — open-source web application in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/jade?ref=gh&utm_campaign=jade-kotlin)
@@ -102,6 +103,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Book Catalog](https://github.com/Cenius-ai/book-catalog-golang) — open-source book knowledge base app in Go · [remix](https://cenius.ai/marketplace/p/book-catalog-3?ref=gh&utm_campaign=book-catalog-golang)
 - [ShelfNotes](https://github.com/Cenius-ai/shelfnotes-golang) — open-source book knowledge base app in Go · [remix](https://cenius.ai/marketplace/p/shelfnotes?ref=gh&utm_campaign=shelfnotes-golang)
 - [Multi-tenant SaaS Project Tracker](https://github.com/Cenius-ai/multi-tenant-saas-project-tracker-vlang) — open-source kanban board in V · [remix](https://cenius.ai/marketplace/p/multi-tenant-saas-project-tracker?ref=gh&utm_campaign=multi-tenant-saas-project-tracker-vlang)
 - [Personal Bookmark Manager](https://github.com/Cenius-ai/personal-bookmark-manager-flask) — open-source bookmark knowledge base app in Flask · [remix](https://cenius.ai/marketplace/p/personal-bookmark-manager?ref=gh&utm_campaign=personal-bookmark-manager-flask)
@@ -209,6 +211,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Expense Tracker](https://github.com/Cenius-ai/expense-tracker-vite) — open-source expense personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/expense-tracker?ref=gh&utm_campaign=expense-tracker-vite)
 - [TripLedger](https://github.com/Cenius-ai/tripledger-vlang) — open-source expense personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/tripledger?ref=gh&utm_campaign=tripledger-vlang)
 - [Personal Finance Dashboard](https://github.com/Cenius-ai/personal-finance-dashboard-vite) — open-source personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/personal-finance-dashboard-2?ref=gh&utm_campaign=personal-finance-dashboard-vite)
 - [Vertex](https://github.com/Cenius-ai/vertex-vlang) — open-source freelancer personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/vertex-2?ref=gh&utm_campaign=vertex-vlang)
