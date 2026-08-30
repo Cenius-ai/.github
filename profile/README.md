@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [GuestBook](https://github.com/Cenius-ai/guestbook-php) — open-source book web application in PHP · [remix](https://cenius.ai/marketplace/p/guestbook-2?ref=gh&utm_campaign=guestbook-php)
 - [Arc](https://github.com/Cenius-ai/arc-fastapi) — open-source web application in FastAPI · [remix](https://cenius.ai/marketplace/p/arc-2?ref=gh&utm_campaign=arc-fastapi)
 - [BookShelf Manager](https://github.com/Cenius-ai/bookshelf-manager-rails) — open-source book admin panel in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/bookshelf-manager?ref=gh&utm_campaign=bookshelf-manager-rails)
 - [WeatherDash](https://github.com/Cenius-ai/weatherdash-vite) — open-source web application in Vite · [remix](https://cenius.ai/marketplace/p/weatherdash?ref=gh&utm_campaign=weatherdash-vite)
@@ -96,6 +97,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Todo Web App (F#/Giraffe)](https://github.com/Cenius-ai/todo-web-app-f-giraffe-dotnet) — open-source to-do list app in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/todo-web-app-f-giraffe?ref=gh&utm_campaign=todo-web-app-f-giraffe-dotnet)
 - [Cenius Task Board](https://github.com/Cenius-ai/cenius-task-board-vlang) — open-source kanban board in V · [remix](https://cenius.ai/marketplace/p/cenius-task-board?ref=gh&utm_campaign=cenius-task-board-vlang)
 - [Express EJS Bookmark Manager](https://github.com/Cenius-ai/express-ejs-bookmark-manager-nodejs) — open-source bookmark to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/express-ejs-bookmark-manager?ref=gh&utm_campaign=express-ejs-bookmark-manager-nodejs)
 - [Flask Habit Tracker](https://github.com/Cenius-ai/flask-habit-tracker) — open-source to-do list app in Flask · [remix](https://cenius.ai/marketplace/p/flask-habit-tracker?ref=gh&utm_campaign=flask-habit-tracker)
@@ -147,6 +149,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [MetricDash SaaS](https://github.com/Cenius-ai/metricdash-saas-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/metricdash-saas?ref=gh&utm_campaign=metricdash-saas-vlang)
 - [JAX Linear Regression Trainer & Visualizer](https://github.com/Cenius-ai/jax-linear-regression-trainer-visualizer-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/jax-linear-regression-trainer-visualizer?ref=gh&utm_campaign=jax-linear-regression-trainer-visualizer-flask)
 - [PulsePad](https://github.com/Cenius-ai/pulsepad-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/pulsepad?ref=gh&utm_campaign=pulsepad-webapp)
 - [Sales Analytics Dashboard](https://github.com/Cenius-ai/sales-analytics-dashboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/sales-analytics-dashboard-2?ref=gh&utm_campaign=sales-analytics-dashboard-webapp)
