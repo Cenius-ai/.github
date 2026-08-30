@@ -157,6 +157,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [InsightBoard](https://github.com/Cenius-ai/insightboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/insightboard?ref=gh&utm_campaign=insightboard-webapp)
 - [OpsPanel](https://github.com/Cenius-ai/opspanel-fastapi) — open-source monitoring dashboard in FastAPI · [remix](https://cenius.ai/marketplace/p/opspanel?ref=gh&utm_campaign=opspanel-fastapi)
 - [Atlas - Health Vitals Records](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp) — open-source clinic monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/atlas---health-vitals-records?ref=gh&utm_campaign=atlas-health-vitals-records-webapp)
 - [MetricDash SaaS](https://github.com/Cenius-ai/metricdash-saas-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/metricdash-saas?ref=gh&utm_campaign=metricdash-saas-vlang)
@@ -229,6 +230,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [ImageUploader & Gallery](https://github.com/Cenius-ai/imageuploader-gallery-fastapi) — open-source photo gallery app in FastAPI · [remix](https://cenius.ai/marketplace/p/imageuploader-gallery?ref=gh&utm_campaign=imageuploader-gallery-fastapi)
 - [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs-2) — open-source recipe manager in Node.js · [remix](https://cenius.ai/marketplace/p/recipes-web-app-3?ref=gh&utm_campaign=recipes-web-app-nodejs-2)
 - [Event Directory](https://github.com/Cenius-ai/event-directory-dotnet) — open-source blog platform in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/event-directory?ref=gh&utm_campaign=event-directory-dotnet)
 - [Recipe Box](https://github.com/Cenius-ai/recipe-box-rails) — open-source recipe manager in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/recipe-box-3?ref=gh&utm_campaign=recipe-box-rails)
@@ -327,6 +329,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Minimal Book Catalog](https://github.com/Cenius-ai/minimal-book-catalog-golang) — open-source book software library in Go · [remix](https://cenius.ai/marketplace/p/minimal-book-catalog?ref=gh&utm_campaign=minimal-book-catalog-golang)
 - [Book Catalog Web App](https://github.com/Cenius-ai/book-catalog-web-app-kotlin) — open-source book software library in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/book-catalog-web-app-2?ref=gh&utm_campaign=book-catalog-web-app-kotlin)
 - [Book Catalog](https://github.com/Cenius-ai/book-catalog-rails) — open-source book software library in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/book-catalog-2?ref=gh&utm_campaign=book-catalog-rails)
 - [Go Book Catalog](https://github.com/Cenius-ai/go-book-catalog-golang) — open-source book software library in Go · [remix](https://cenius.ai/marketplace/p/go-book-catalog?ref=gh&utm_campaign=go-book-catalog-golang)
