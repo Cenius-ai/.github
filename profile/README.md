@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Jade](https://github.com/Cenius-ai/jade-kotlin) — open-source web application in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/jade?ref=gh&utm_campaign=jade-kotlin)
 - [Offboardly](https://github.com/Cenius-ai/offboardly-vlang) — open-source admin panel in V · [remix](https://cenius.ai/marketplace/p/offboardly-2?ref=gh&utm_campaign=offboardly-vlang)
 - [GuestBook](https://github.com/Cenius-ai/guestbook-php) — open-source book web application in PHP · [remix](https://cenius.ai/marketplace/p/guestbook-2?ref=gh&utm_campaign=guestbook-php)
 - [Arc](https://github.com/Cenius-ai/arc-fastapi) — open-source web application in FastAPI · [remix](https://cenius.ai/marketplace/p/arc-2?ref=gh&utm_campaign=arc-fastapi)
@@ -67,6 +68,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Laravel 13 E-Commerce Storefront](https://github.com/Cenius-ai/laravel-13-e-commerce-storefront-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/laravel-13-e-commerce-storefront?ref=gh&utm_campaign=laravel-13-e-commerce-storefront-vlang)
 - [Bookstore REST API with Server-Rendered EJS Frontend](https://github.com/Cenius-ai/bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs) — open-source book e-commerce storefront in Node.js · [remix](https://cenius.ai/marketplace/p/bookstore-rest-api-with-server-rendered-ejs-frontend?ref=gh&utm_campaign=bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs)
 - [Willow](https://github.com/Cenius-ai/willow-nodejs-2) — open-source salon appointment scheduling system in Node.js · [remix](https://cenius.ai/marketplace/p/willow-4?ref=gh&utm_campaign=willow-nodejs-2)
 - [Cobalt - Coffee Roaster Storefront](https://github.com/Cenius-ai/cobalt-coffee-roaster-storefront-webapp) — open-source e-commerce storefront in Full-stack app · [remix](https://cenius.ai/marketplace/p/cobalt---coffee-roaster-storefront?ref=gh&utm_campaign=cobalt-coffee-roaster-storefront-webapp)
@@ -276,6 +278,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [TeamChat](https://github.com/Cenius-ai/teamchat-phoenix) — open-source chat application in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/teamchat?ref=gh&utm_campaign=teamchat-phoenix)
 - [Guestbook App](https://github.com/Cenius-ai/guestbook-app-flask) — open-source book social network app in Flask · [remix](https://cenius.ai/marketplace/p/guestbook-app?ref=gh&utm_campaign=guestbook-app-flask)
 - [OrgSocial POC](https://github.com/Cenius-ai/orgsocial-poc-nodejs) — open-source social network app in Node.js · [remix](https://cenius.ai/marketplace/p/orgsocial-poc?ref=gh&utm_campaign=orgsocial-poc-nodejs)
 - [QuoteBoard](https://github.com/Cenius-ai/quoteboard-webapp) — open-source social network app in Full-stack app · [remix](https://cenius.ai/marketplace/p/quoteboard?ref=gh&utm_campaign=quoteboard-webapp)
