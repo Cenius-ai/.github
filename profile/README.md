@@ -107,6 +107,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [PasteNotes](https://github.com/Cenius-ai/pastenotes-webapp) — open-source to-do list app in Full-stack app · [remix](https://cenius.ai/marketplace/p/pastenotes?ref=gh&utm_campaign=pastenotes-webapp)
 - [Quotes App](https://github.com/Cenius-ai/quotes-app-webapp) — open-source to-do list app in Full-stack app · [remix](https://cenius.ai/marketplace/p/quotes-app?ref=gh&utm_campaign=quotes-app-webapp)
 - [Book Catalog](https://github.com/Cenius-ai/book-catalog-golang) — open-source book knowledge base app in Go · [remix](https://cenius.ai/marketplace/p/book-catalog-3?ref=gh&utm_campaign=book-catalog-golang)
 - [ShelfNotes](https://github.com/Cenius-ai/shelfnotes-golang) — open-source book knowledge base app in Go · [remix](https://cenius.ai/marketplace/p/shelfnotes?ref=gh&utm_campaign=shelfnotes-golang)
@@ -164,6 +165,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Kite - Log Viewer & Observability](https://github.com/Cenius-ai/kite-log-viewer-observability-vite) — open-source log monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/kite---log-viewer-observability?ref=gh&utm_campaign=kite-log-viewer-observability-vite)
 - [Dask Parquet Data Processor](https://github.com/Cenius-ai/dask-parquet-data-processor-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/dask-parquet-data-processor?ref=gh&utm_campaign=dask-parquet-data-processor-flask)
 - [Sales Analytics Tool](https://github.com/Cenius-ai/sales-analytics-tool-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/sales-analytics-tool?ref=gh&utm_campaign=sales-analytics-tool-flask)
 - [Personal Habit Tracker Streamlit App](https://github.com/Cenius-ai/personal-habit-tracker-streamlit-app-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/personal-habit-tracker-streamlit-app?ref=gh&utm_campaign=personal-habit-tracker-streamlit-app-webapp)
@@ -242,6 +244,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Next.js Blog with MDX](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang) — open-source blog platform in V · [remix](https://cenius.ai/marketplace/p/next-js-blog-with-mdx?ref=gh&utm_campaign=next-js-blog-with-mdx-vlang)
 - [ImageUploader & Gallery](https://github.com/Cenius-ai/imageuploader-gallery-fastapi) — open-source photo gallery app in FastAPI · [remix](https://cenius.ai/marketplace/p/imageuploader-gallery?ref=gh&utm_campaign=imageuploader-gallery-fastapi)
 - [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs-2) — open-source recipe manager in Node.js · [remix](https://cenius.ai/marketplace/p/recipes-web-app-3?ref=gh&utm_campaign=recipes-web-app-nodejs-2)
 - [Event Directory](https://github.com/Cenius-ai/event-directory-dotnet) — open-source blog platform in ASP.NET Core · [remix](https://cenius.ai/marketplace/p/event-directory?ref=gh&utm_campaign=event-directory-dotnet)
