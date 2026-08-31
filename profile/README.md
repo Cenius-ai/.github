@@ -109,6 +109,9 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Tide](https://github.com/Cenius-ai/tide-nodejs) — open-source kanban board in Node.js · [remix](https://cenius.ai/marketplace/p/tide?ref=gh&utm_campaign=tide-nodejs)
+- [Bun Task Tracker CLI](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/bun-task-tracker-cli?ref=gh&utm_campaign=bun-task-tracker-cli-nodejs)
+- [Movie Watchlist SPA](https://github.com/Cenius-ai/movie-watchlist-spa-vite) — open-source movie to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/movie-watchlist-spa-2?ref=gh&utm_campaign=movie-watchlist-spa-vite)
 - [Laravel Task Manager](https://github.com/Cenius-ai/laravel-task-manager-vlang) — open-source to-do list app in V · [remix](https://cenius.ai/marketplace/p/laravel-task-manager?ref=gh&utm_campaign=laravel-task-manager-vlang)
 - [PasteNotes](https://github.com/Cenius-ai/pastenotes-webapp) — open-source to-do list app in Full-stack app · [remix](https://cenius.ai/marketplace/p/pastenotes?ref=gh&utm_campaign=pastenotes-webapp)
 - [Quotes App](https://github.com/Cenius-ai/quotes-app-webapp) — open-source to-do list app in Full-stack app · [remix](https://cenius.ai/marketplace/p/quotes-app?ref=gh&utm_campaign=quotes-app-webapp)
