@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Simple Notes Web App](https://github.com/Cenius-ai/simple-notes-web-app-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/simple-notes-web-app?ref=gh&utm_campaign=simple-notes-web-app-webapp)
 - [Task Tracker CLI](https://github.com/Cenius-ai/task-tracker-cli-golang) — open-source web application in Go · [remix](https://cenius.ai/marketplace/p/task-tracker-cli?ref=gh&utm_campaign=task-tracker-cli-golang)
 - [NoteKeep](https://github.com/Cenius-ai/notekeep-vite) — open-source web application in Vite · [remix](https://cenius.ai/marketplace/p/notekeep?ref=gh&utm_campaign=notekeep-vite)
 - [Customer CRM](https://github.com/Cenius-ai/customer-crm-nodejs) — open-source CRM system in Node.js · [remix](https://cenius.ai/marketplace/p/customer-crm?ref=gh&utm_campaign=customer-crm-nodejs)
@@ -161,6 +162,8 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Dask Parquet Data Processor](https://github.com/Cenius-ai/dask-parquet-data-processor-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/dask-parquet-data-processor?ref=gh&utm_campaign=dask-parquet-data-processor-flask)
+- [Sales Analytics Tool](https://github.com/Cenius-ai/sales-analytics-tool-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/sales-analytics-tool?ref=gh&utm_campaign=sales-analytics-tool-flask)
 - [Personal Habit Tracker Streamlit App](https://github.com/Cenius-ai/personal-habit-tracker-streamlit-app-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/personal-habit-tracker-streamlit-app?ref=gh&utm_campaign=personal-habit-tracker-streamlit-app-webapp)
 - [InsightBoard](https://github.com/Cenius-ai/insightboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/insightboard?ref=gh&utm_campaign=insightboard-webapp)
 - [OpsPanel](https://github.com/Cenius-ai/opspanel-fastapi) — open-source monitoring dashboard in FastAPI · [remix](https://cenius.ai/marketplace/p/opspanel?ref=gh&utm_campaign=opspanel-fastapi)
