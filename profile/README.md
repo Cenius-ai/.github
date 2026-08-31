@@ -75,6 +75,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Express EJS Bookstore](https://github.com/Cenius-ai/express-ejs-bookstore-nodejs) — open-source book e-commerce storefront in Node.js · [remix](https://cenius.ai/marketplace/p/express-ejs-bookstore?ref=gh&utm_campaign=express-ejs-bookstore-nodejs)
 - [Next.js E-Commerce Store](https://github.com/Cenius-ai/next-js-e-commerce-store-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/next-js-e-commerce-store?ref=gh&utm_campaign=next-js-e-commerce-store-vlang)
 - [Laravel 13 E-Commerce Storefront](https://github.com/Cenius-ai/laravel-13-e-commerce-storefront-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/laravel-13-e-commerce-storefront?ref=gh&utm_campaign=laravel-13-e-commerce-storefront-vlang)
 - [Bookstore REST API with Server-Rendered EJS Frontend](https://github.com/Cenius-ai/bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs) — open-source book e-commerce storefront in Node.js · [remix](https://cenius.ai/marketplace/p/bookstore-rest-api-with-server-rendered-ejs-frontend?ref=gh&utm_campaign=bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs)
@@ -247,6 +248,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [BrewCrate Marketing Landing Page](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs) — open-source landing page in Node.js · [remix](https://cenius.ai/marketplace/p/brewcrate-marketing-landing-page?ref=gh&utm_campaign=brewcrate-marketing-landing-page-nodejs)
 - [Next.js Blog with MDX](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang) — open-source blog platform in V · [remix](https://cenius.ai/marketplace/p/next-js-blog-with-mdx?ref=gh&utm_campaign=next-js-blog-with-mdx-vlang)
 - [ImageUploader & Gallery](https://github.com/Cenius-ai/imageuploader-gallery-fastapi) — open-source photo gallery app in FastAPI · [remix](https://cenius.ai/marketplace/p/imageuploader-gallery?ref=gh&utm_campaign=imageuploader-gallery-fastapi)
 - [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs-2) — open-source recipe manager in Node.js · [remix](https://cenius.ai/marketplace/p/recipes-web-app-3?ref=gh&utm_campaign=recipes-web-app-nodejs-2)
@@ -347,6 +349,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [CSV to JSON CLI](https://github.com/Cenius-ai/csv-to-json-cli-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/csv-to-json-cli?ref=gh&utm_campaign=csv-to-json-cli-webapp)
 - [Minimal Book Catalog](https://github.com/Cenius-ai/minimal-book-catalog-golang) — open-source book software library in Go · [remix](https://cenius.ai/marketplace/p/minimal-book-catalog?ref=gh&utm_campaign=minimal-book-catalog-golang)
 - [Book Catalog Web App](https://github.com/Cenius-ai/book-catalog-web-app-kotlin) — open-source book software library in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/book-catalog-web-app-2?ref=gh&utm_campaign=book-catalog-web-app-kotlin)
 - [Book Catalog](https://github.com/Cenius-ai/book-catalog-rails) — open-source book software library in Ruby on Rails · [remix](https://cenius.ai/marketplace/p/book-catalog-2?ref=gh&utm_campaign=book-catalog-rails)
