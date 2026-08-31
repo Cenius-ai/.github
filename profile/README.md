@@ -109,6 +109,8 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Projex - Project Management App](https://github.com/Cenius-ai/projex-project-management-app-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/projex---project-management-app?ref=gh&utm_campaign=projex-project-management-app-vite)
+- [NotesApp](https://github.com/Cenius-ai/notesapp-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/notesapp?ref=gh&utm_campaign=notesapp-nodejs)
 - [Habit Tracker SPA](https://github.com/Cenius-ai/habit-tracker-spa-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/habit-tracker-spa?ref=gh&utm_campaign=habit-tracker-spa-vite)
 - [Tide](https://github.com/Cenius-ai/tide-nodejs) — open-source kanban board in Node.js · [remix](https://cenius.ai/marketplace/p/tide?ref=gh&utm_campaign=tide-nodejs)
 - [Bun Task Tracker CLI](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/bun-task-tracker-cli?ref=gh&utm_campaign=bun-task-tracker-cli-nodejs)
@@ -172,6 +174,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Team Dashboard](https://github.com/Cenius-ai/team-dashboard-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/team-dashboard?ref=gh&utm_campaign=team-dashboard-vlang)
 - [FleetOps Dashboard](https://github.com/Cenius-ai/fleetops-dashboard-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/fleetops-dashboard?ref=gh&utm_campaign=fleetops-dashboard-vite)
 - [OpsBoard](https://github.com/Cenius-ai/opsboard-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/opsboard?ref=gh&utm_campaign=opsboard-vlang)
 - [PulseBoard](https://github.com/Cenius-ai/pulseboard-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/pulseboard-2?ref=gh&utm_campaign=pulseboard-vite)
