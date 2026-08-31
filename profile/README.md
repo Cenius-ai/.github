@@ -75,6 +75,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Mist - Local Services Multi-Vendor Marketplace](https://github.com/Cenius-ai/mist-local-services-multi-vendor-marketplace-vlang) — open-source marketplace platform in V · [remix](https://cenius.ai/marketplace/p/mist---local-services-multi-vendor-marketplace?ref=gh&utm_campaign=mist-local-services-multi-vendor-marketplace-vlang)
 - [Express EJS Bookstore](https://github.com/Cenius-ai/express-ejs-bookstore-nodejs) — open-source book e-commerce storefront in Node.js · [remix](https://cenius.ai/marketplace/p/express-ejs-bookstore?ref=gh&utm_campaign=express-ejs-bookstore-nodejs)
 - [Next.js E-Commerce Store](https://github.com/Cenius-ai/next-js-e-commerce-store-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/next-js-e-commerce-store?ref=gh&utm_campaign=next-js-e-commerce-store-vlang)
 - [Laravel 13 E-Commerce Storefront](https://github.com/Cenius-ai/laravel-13-e-commerce-storefront-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/laravel-13-e-commerce-storefront?ref=gh&utm_campaign=laravel-13-e-commerce-storefront-vlang)
@@ -109,6 +110,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Team Task Tracker](https://github.com/Cenius-ai/team-task-tracker-vlang) — open-source to-do list app in V · [remix](https://cenius.ai/marketplace/p/team-task-tracker?ref=gh&utm_campaign=team-task-tracker-vlang)
 - [Projex - Project Management App](https://github.com/Cenius-ai/projex-project-management-app-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/projex---project-management-app?ref=gh&utm_campaign=projex-project-management-app-vite)
 - [NotesApp](https://github.com/Cenius-ai/notesapp-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/notesapp?ref=gh&utm_campaign=notesapp-nodejs)
 - [Habit Tracker SPA](https://github.com/Cenius-ai/habit-tracker-spa-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/habit-tracker-spa?ref=gh&utm_campaign=habit-tracker-spa-vite)
@@ -234,6 +236,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [CoinKeep](https://github.com/Cenius-ai/coinkeep-vite) — open-source personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/coinkeep?ref=gh&utm_campaign=coinkeep-vite)
 - [Invoicing Web App](https://github.com/Cenius-ai/invoicing-web-app-vlang) — open-source invoice personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/invoicing-web-app?ref=gh&utm_campaign=invoicing-web-app-vlang)
 - [Expense Tracker](https://github.com/Cenius-ai/expense-tracker-vite) — open-source expense personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/expense-tracker?ref=gh&utm_campaign=expense-tracker-vite)
 - [TripLedger](https://github.com/Cenius-ai/tripledger-vlang) — open-source expense personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/tripledger?ref=gh&utm_campaign=tripledger-vlang)
