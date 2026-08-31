@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [EasyFile](https://github.com/Cenius-ai/easyfile-phoenix) — open-source web application in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/easyfile?ref=gh&utm_campaign=easyfile-phoenix)
 - [Simple Notes Web App](https://github.com/Cenius-ai/simple-notes-web-app-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/simple-notes-web-app?ref=gh&utm_campaign=simple-notes-web-app-webapp)
 - [Task Tracker CLI](https://github.com/Cenius-ai/task-tracker-cli-golang) — open-source web application in Go · [remix](https://cenius.ai/marketplace/p/task-tracker-cli?ref=gh&utm_campaign=task-tracker-cli-golang)
 - [NoteKeep](https://github.com/Cenius-ai/notekeep-vite) — open-source web application in Vite · [remix](https://cenius.ai/marketplace/p/notekeep?ref=gh&utm_campaign=notekeep-vite)
@@ -106,6 +107,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Quotes App](https://github.com/Cenius-ai/quotes-app-webapp) — open-source to-do list app in Full-stack app · [remix](https://cenius.ai/marketplace/p/quotes-app?ref=gh&utm_campaign=quotes-app-webapp)
 - [Book Catalog](https://github.com/Cenius-ai/book-catalog-golang) — open-source book knowledge base app in Go · [remix](https://cenius.ai/marketplace/p/book-catalog-3?ref=gh&utm_campaign=book-catalog-golang)
 - [ShelfNotes](https://github.com/Cenius-ai/shelfnotes-golang) — open-source book knowledge base app in Go · [remix](https://cenius.ai/marketplace/p/shelfnotes?ref=gh&utm_campaign=shelfnotes-golang)
 - [Multi-tenant SaaS Project Tracker](https://github.com/Cenius-ai/multi-tenant-saas-project-tracker-vlang) — open-source kanban board in V · [remix](https://cenius.ai/marketplace/p/multi-tenant-saas-project-tracker?ref=gh&utm_campaign=multi-tenant-saas-project-tracker-vlang)
@@ -217,6 +219,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Invoicing Web App](https://github.com/Cenius-ai/invoicing-web-app-vlang) — open-source invoice personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/invoicing-web-app?ref=gh&utm_campaign=invoicing-web-app-vlang)
 - [Expense Tracker](https://github.com/Cenius-ai/expense-tracker-vite) — open-source expense personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/expense-tracker?ref=gh&utm_campaign=expense-tracker-vite)
 - [TripLedger](https://github.com/Cenius-ai/tripledger-vlang) — open-source expense personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/tripledger?ref=gh&utm_campaign=tripledger-vlang)
 - [Personal Finance Dashboard](https://github.com/Cenius-ai/personal-finance-dashboard-vite) — open-source personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/personal-finance-dashboard-2?ref=gh&utm_campaign=personal-finance-dashboard-vite)
