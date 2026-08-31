@@ -109,6 +109,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Habit Tracker SPA](https://github.com/Cenius-ai/habit-tracker-spa-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/habit-tracker-spa?ref=gh&utm_campaign=habit-tracker-spa-vite)
 - [Tide](https://github.com/Cenius-ai/tide-nodejs) — open-source kanban board in Node.js · [remix](https://cenius.ai/marketplace/p/tide?ref=gh&utm_campaign=tide-nodejs)
 - [Bun Task Tracker CLI](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs) — open-source to-do list app in Node.js · [remix](https://cenius.ai/marketplace/p/bun-task-tracker-cli?ref=gh&utm_campaign=bun-task-tracker-cli-nodejs)
 - [Movie Watchlist SPA](https://github.com/Cenius-ai/movie-watchlist-spa-vite) — open-source movie to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/movie-watchlist-spa-2?ref=gh&utm_campaign=movie-watchlist-spa-vite)
@@ -171,6 +172,8 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [FleetOps Dashboard](https://github.com/Cenius-ai/fleetops-dashboard-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/fleetops-dashboard?ref=gh&utm_campaign=fleetops-dashboard-vite)
+- [OpsBoard](https://github.com/Cenius-ai/opsboard-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/opsboard?ref=gh&utm_campaign=opsboard-vlang)
 - [PulseBoard](https://github.com/Cenius-ai/pulseboard-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/pulseboard-2?ref=gh&utm_campaign=pulseboard-vite)
 - [Kite - Log Viewer & Observability](https://github.com/Cenius-ai/kite-log-viewer-observability-vite) — open-source log monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/kite---log-viewer-observability?ref=gh&utm_campaign=kite-log-viewer-observability-vite)
 - [Dask Parquet Data Processor](https://github.com/Cenius-ai/dask-parquet-data-processor-flask) — open-source monitoring dashboard in Flask · [remix](https://cenius.ai/marketplace/p/dask-parquet-data-processor?ref=gh&utm_campaign=dask-parquet-data-processor-flask)
