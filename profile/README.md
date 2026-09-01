@@ -114,6 +114,8 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Kanban Board MVP](https://github.com/Cenius-ai/kanban-board-mvp-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/kanban-board-mvp?ref=gh&utm_campaign=kanban-board-mvp-vite)
+- [Movie Watchlist SPA](https://github.com/Cenius-ai/movie-watchlist-spa-vite-2) — open-source podcast to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/movie-watchlist-spa?ref=gh&utm_campaign=movie-watchlist-spa-vite-2)
 - [TaskLoop](https://github.com/Cenius-ai/taskloop-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/taskloop?ref=gh&utm_campaign=taskloop-vite)
 - [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-vite) — open-source bookmark to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/bookmarks-manager-4?ref=gh&utm_campaign=bookmarks-manager-vite)
 - [ProjectFlow](https://github.com/Cenius-ai/projectflow-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/projectflow?ref=gh&utm_campaign=projectflow-vite)
@@ -273,6 +275,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Recipe Collection SPA](https://github.com/Cenius-ai/recipe-collection-spa-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-collection-spa?ref=gh&utm_campaign=recipe-collection-spa-vite)
 - [Recipe Book](https://github.com/Cenius-ai/recipe-book-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-book-2?ref=gh&utm_campaign=recipe-book-vite)
 - [Recipe Browser SPA with Vue 3](https://github.com/Cenius-ai/recipe-browser-spa-with-vue-3-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-browser-spa-with-vue-3?ref=gh&utm_campaign=recipe-browser-spa-with-vue-3-vite)
 - [BrewCrate Marketing Landing Page](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs) — open-source landing page in Node.js · [remix](https://cenius.ai/marketplace/p/brewcrate-marketing-landing-page?ref=gh&utm_campaign=brewcrate-marketing-landing-page-nodejs)
