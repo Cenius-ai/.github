@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Slate](https://github.com/Cenius-ai/slate-vite) — open-source web application in Vite · [remix](https://cenius.ai/marketplace/p/slate-4?ref=gh&utm_campaign=slate-vite)
 - [Atlas](https://github.com/Cenius-ai/atlas-vite) — open-source podcast web application in Vite · [remix](https://cenius.ai/marketplace/p/atlas?ref=gh&utm_campaign=atlas-vite)
 - [Grandmaster Chess](https://github.com/Cenius-ai/grandmaster-chess-vite) — open-source web application in Vite · [remix](https://cenius.ai/marketplace/p/grandmaster-chess?ref=gh&utm_campaign=grandmaster-chess-vite)
 - [Laravel CRM](https://github.com/Cenius-ai/laravel-crm-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/laravel-crm?ref=gh&utm_campaign=laravel-crm-vlang)
@@ -114,6 +115,8 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Kanban Task Board](https://github.com/Cenius-ai/kanban-task-board-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/kanban-task-board?ref=gh&utm_campaign=kanban-task-board-vite)
+- [Task Manager MVP](https://github.com/Cenius-ai/task-manager-mvp-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/task-manager-mvp-13?ref=gh&utm_campaign=task-manager-mvp-vite)
 - [Kanban Board MVP](https://github.com/Cenius-ai/kanban-board-mvp-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/kanban-board-mvp?ref=gh&utm_campaign=kanban-board-mvp-vite)
 - [Movie Watchlist SPA](https://github.com/Cenius-ai/movie-watchlist-spa-vite-2) — open-source podcast to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/movie-watchlist-spa?ref=gh&utm_campaign=movie-watchlist-spa-vite-2)
 - [TaskLoop](https://github.com/Cenius-ai/taskloop-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/taskloop?ref=gh&utm_campaign=taskloop-vite)
