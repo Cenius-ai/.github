@@ -78,6 +78,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Sage - Salon Booking Platform](https://github.com/Cenius-ai/sage-salon-booking-platform-vite) — open-source salon appointment scheduling system in Vite · [remix](https://cenius.ai/marketplace/p/sage---salon-booking-platform?ref=gh&utm_campaign=sage-salon-booking-platform-vite)
 - [Mist - Local Services Multi-Vendor Marketplace](https://github.com/Cenius-ai/mist-local-services-multi-vendor-marketplace-vlang) — open-source marketplace platform in V · [remix](https://cenius.ai/marketplace/p/mist---local-services-multi-vendor-marketplace?ref=gh&utm_campaign=mist-local-services-multi-vendor-marketplace-vlang)
 - [Express EJS Bookstore](https://github.com/Cenius-ai/express-ejs-bookstore-nodejs) — open-source book e-commerce storefront in Node.js · [remix](https://cenius.ai/marketplace/p/express-ejs-bookstore?ref=gh&utm_campaign=express-ejs-bookstore-nodejs)
 - [Next.js E-Commerce Store](https://github.com/Cenius-ai/next-js-e-commerce-store-vlang) — open-source e-commerce storefront in V · [remix](https://cenius.ai/marketplace/p/next-js-e-commerce-store?ref=gh&utm_campaign=next-js-e-commerce-store-vlang)
@@ -183,6 +184,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Loom](https://github.com/Cenius-ai/loom-vite) — open-source log monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/loom?ref=gh&utm_campaign=loom-vite)
 - [Onyx - Log Viewer & Saved Views](https://github.com/Cenius-ai/onyx-log-viewer-saved-views-vite) — open-source log monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/onyx---log-viewer-saved-views?ref=gh&utm_campaign=onyx-log-viewer-saved-views-vite)
 - [Offboardly](https://github.com/Cenius-ai/offboardly-vlang-2) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/offboardly-3?ref=gh&utm_campaign=offboardly-vlang-2)
 - [Team Dashboard](https://github.com/Cenius-ai/team-dashboard-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/team-dashboard?ref=gh&utm_campaign=team-dashboard-vlang)
@@ -271,6 +273,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Recipe Book](https://github.com/Cenius-ai/recipe-book-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-book-2?ref=gh&utm_campaign=recipe-book-vite)
 - [Recipe Browser SPA with Vue 3](https://github.com/Cenius-ai/recipe-browser-spa-with-vue-3-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-browser-spa-with-vue-3?ref=gh&utm_campaign=recipe-browser-spa-with-vue-3-vite)
 - [BrewCrate Marketing Landing Page](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs) — open-source landing page in Node.js · [remix](https://cenius.ai/marketplace/p/brewcrate-marketing-landing-page?ref=gh&utm_campaign=brewcrate-marketing-landing-page-nodejs)
 - [Next.js Blog with MDX](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang) — open-source blog platform in V · [remix](https://cenius.ai/marketplace/p/next-js-blog-with-mdx?ref=gh&utm_campaign=next-js-blog-with-mdx-vlang)
