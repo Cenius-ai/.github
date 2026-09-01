@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Atlas](https://github.com/Cenius-ai/atlas-vite) — open-source podcast web application in Vite · [remix](https://cenius.ai/marketplace/p/atlas?ref=gh&utm_campaign=atlas-vite)
 - [Grandmaster Chess](https://github.com/Cenius-ai/grandmaster-chess-vite) — open-source web application in Vite · [remix](https://cenius.ai/marketplace/p/grandmaster-chess?ref=gh&utm_campaign=grandmaster-chess-vite)
 - [Laravel CRM](https://github.com/Cenius-ai/laravel-crm-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/laravel-crm?ref=gh&utm_campaign=laravel-crm-vlang)
 - [EasyFile](https://github.com/Cenius-ai/easyfile-phoenix) — open-source web application in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/easyfile?ref=gh&utm_campaign=easyfile-phoenix)
@@ -112,6 +113,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [ProjectFlow](https://github.com/Cenius-ai/projectflow-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/projectflow?ref=gh&utm_campaign=projectflow-vite)
 - [HabitSpark](https://github.com/Cenius-ai/habitspark-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/habitspark?ref=gh&utm_campaign=habitspark-vite)
 - [Team Task Tracker](https://github.com/Cenius-ai/team-task-tracker-vlang) — open-source to-do list app in V · [remix](https://cenius.ai/marketplace/p/team-task-tracker?ref=gh&utm_campaign=team-task-tracker-vlang)
 - [Projex - Project Management App](https://github.com/Cenius-ai/projex-project-management-app-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/projex---project-management-app?ref=gh&utm_campaign=projex-project-management-app-vite)
@@ -241,6 +243,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Budget Tracker](https://github.com/Cenius-ai/budget-tracker-vite) — open-source expense personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/budget-tracker?ref=gh&utm_campaign=budget-tracker-vite)
 - [Lumen](https://github.com/Cenius-ai/lumen-vite) — open-source personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/lumen-5?ref=gh&utm_campaign=lumen-vite)
 - [CoinKeep](https://github.com/Cenius-ai/coinkeep-vite) — open-source personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/coinkeep?ref=gh&utm_campaign=coinkeep-vite)
 - [Invoicing Web App](https://github.com/Cenius-ai/invoicing-web-app-vlang) — open-source invoice personal finance tracker in V · [remix](https://cenius.ai/marketplace/p/invoicing-web-app?ref=gh&utm_campaign=invoicing-web-app-vlang)
