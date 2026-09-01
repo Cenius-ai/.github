@@ -252,6 +252,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Meridian — Personal Finance Dashboard](https://github.com/Cenius-ai/meridian-personal-finance-dashboard-webapp) — open-source expense personal finance tracker in Full-stack app · [remix](https://cenius.ai/marketplace/p/meridian-personal-finance-dashboard?ref=gh&utm_campaign=meridian-personal-finance-dashboard-webapp)
 - [Budget Tracker](https://github.com/Cenius-ai/budget-tracker-vite) — open-source expense personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/budget-tracker?ref=gh&utm_campaign=budget-tracker-vite)
 - [Lumen](https://github.com/Cenius-ai/lumen-vite) — open-source personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/lumen-5?ref=gh&utm_campaign=lumen-vite)
 - [CoinKeep](https://github.com/Cenius-ai/coinkeep-vite) — open-source personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/coinkeep?ref=gh&utm_campaign=coinkeep-vite)
