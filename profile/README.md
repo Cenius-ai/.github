@@ -113,6 +113,8 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [TaskLoop](https://github.com/Cenius-ai/taskloop-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/taskloop?ref=gh&utm_campaign=taskloop-vite)
+- [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-vite) — open-source bookmark to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/bookmarks-manager-4?ref=gh&utm_campaign=bookmarks-manager-vite)
 - [ProjectFlow](https://github.com/Cenius-ai/projectflow-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/projectflow?ref=gh&utm_campaign=projectflow-vite)
 - [HabitSpark](https://github.com/Cenius-ai/habitspark-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/habitspark?ref=gh&utm_campaign=habitspark-vite)
 - [Team Task Tracker](https://github.com/Cenius-ai/team-task-tracker-vlang) — open-source to-do list app in V · [remix](https://cenius.ai/marketplace/p/team-task-tracker?ref=gh&utm_campaign=team-task-tracker-vlang)
@@ -269,6 +271,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Recipe Browser SPA with Vue 3](https://github.com/Cenius-ai/recipe-browser-spa-with-vue-3-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-browser-spa-with-vue-3?ref=gh&utm_campaign=recipe-browser-spa-with-vue-3-vite)
 - [BrewCrate Marketing Landing Page](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs) — open-source landing page in Node.js · [remix](https://cenius.ai/marketplace/p/brewcrate-marketing-landing-page?ref=gh&utm_campaign=brewcrate-marketing-landing-page-nodejs)
 - [Next.js Blog with MDX](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang) — open-source blog platform in V · [remix](https://cenius.ai/marketplace/p/next-js-blog-with-mdx?ref=gh&utm_campaign=next-js-blog-with-mdx-vlang)
 - [ImageUploader & Gallery](https://github.com/Cenius-ai/imageuploader-gallery-fastapi) — open-source photo gallery app in FastAPI · [remix](https://cenius.ai/marketplace/p/imageuploader-gallery?ref=gh&utm_campaign=imageuploader-gallery-fastapi)
