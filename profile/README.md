@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Laravel CRM](https://github.com/Cenius-ai/laravel-crm-vlang) — open-source CRM system in V · [remix](https://cenius.ai/marketplace/p/laravel-crm?ref=gh&utm_campaign=laravel-crm-vlang)
 - [EasyFile](https://github.com/Cenius-ai/easyfile-phoenix) — open-source web application in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/easyfile?ref=gh&utm_campaign=easyfile-phoenix)
 - [Simple Notes Web App](https://github.com/Cenius-ai/simple-notes-web-app-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/simple-notes-web-app?ref=gh&utm_campaign=simple-notes-web-app-webapp)
 - [Task Tracker CLI](https://github.com/Cenius-ai/task-tracker-cli-golang) — open-source web application in Go · [remix](https://cenius.ai/marketplace/p/task-tracker-cli?ref=gh&utm_campaign=task-tracker-cli-golang)
@@ -176,6 +177,8 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Onyx - Log Viewer & Saved Views](https://github.com/Cenius-ai/onyx-log-viewer-saved-views-vite) — open-source log monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/onyx---log-viewer-saved-views?ref=gh&utm_campaign=onyx-log-viewer-saved-views-vite)
+- [Offboardly](https://github.com/Cenius-ai/offboardly-vlang-2) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/offboardly-3?ref=gh&utm_campaign=offboardly-vlang-2)
 - [Team Dashboard](https://github.com/Cenius-ai/team-dashboard-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/team-dashboard?ref=gh&utm_campaign=team-dashboard-vlang)
 - [FleetOps Dashboard](https://github.com/Cenius-ai/fleetops-dashboard-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/fleetops-dashboard?ref=gh&utm_campaign=fleetops-dashboard-vite)
 - [OpsBoard](https://github.com/Cenius-ai/opsboard-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/opsboard?ref=gh&utm_campaign=opsboard-vlang)
