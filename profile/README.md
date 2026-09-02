@@ -279,6 +279,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [LinkStack Lite](https://github.com/Cenius-ai/linkstack-lite-vlang) — open-source landing page in V · [remix](https://cenius.ai/marketplace/p/linkstack-lite?ref=gh&utm_campaign=linkstack-lite-vlang)
 - [Recipe Collection SPA](https://github.com/Cenius-ai/recipe-collection-spa-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-collection-spa?ref=gh&utm_campaign=recipe-collection-spa-vite)
 - [Recipe Book](https://github.com/Cenius-ai/recipe-book-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-book-2?ref=gh&utm_campaign=recipe-book-vite)
 - [Recipe Browser SPA with Vue 3](https://github.com/Cenius-ai/recipe-browser-spa-with-vue-3-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-browser-spa-with-vue-3?ref=gh&utm_campaign=recipe-browser-spa-with-vue-3-vite)
