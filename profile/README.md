@@ -379,6 +379,7 @@ _Learning platforms, flashcards and knowledge tools._
 
 _Multiplayer games, puzzles and interactive experiences._
 
+- [Arc — Crossword Puzzle Game](https://github.com/Cenius-ai/arc-crossword-puzzle-game-webapp) — open-source multiplayer browser game in Full-stack app · [remix](https://cenius.ai/marketplace/p/arc-crossword-puzzle-game?ref=gh&utm_campaign=arc-crossword-puzzle-game-webapp)
 - [LiveSpecTabs mrr8xb9u](https://github.com/Cenius-ai/livespectabs-mrr8xb9u-nodejs) — open-source multiplayer browser game in Node.js · [remix](https://cenius.ai/marketplace/p/livespectabs-mrr8xb9u?ref=gh&utm_campaign=livespectabs-mrr8xb9u-nodejs)
 - [Iris Trivia](https://github.com/Cenius-ai/iris-trivia-kotlin) — open-source multiplayer browser game in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/iris-trivia?ref=gh&utm_campaign=iris-trivia-kotlin)
 
