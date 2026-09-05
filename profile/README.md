@@ -116,6 +116,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Taskfield](https://github.com/Cenius-ai/taskfield-flask) — open-source to-do list app in Flask · [remix](https://cenius.ai/marketplace/p/taskfield?ref=gh&utm_campaign=taskfield-flask)
 - [Kanban Board SPA](https://github.com/Cenius-ai/kanban-board-spa-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/kanban-board-spa-3?ref=gh&utm_campaign=kanban-board-spa-vite)
 - [Kanban Task Board](https://github.com/Cenius-ai/kanban-task-board-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/kanban-task-board?ref=gh&utm_campaign=kanban-task-board-vite)
 - [Task Manager MVP](https://github.com/Cenius-ai/task-manager-mvp-vite) — open-source to-do list app in Vite · [remix](https://cenius.ai/marketplace/p/task-manager-mvp-13?ref=gh&utm_campaign=task-manager-mvp-vite)
