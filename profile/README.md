@@ -117,6 +117,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [TaskFlow — Personal Task Manager](https://github.com/Cenius-ai/taskflow-personal-task-manager-vlang) — open-source to-do list app in V · [remix](https://cenius.ai/marketplace/p/taskflow-personal-task-manager?ref=gh&utm_campaign=taskflow-personal-task-manager-vlang)
 - [Linework](https://github.com/Cenius-ai/linework-webapp) — open-source to-do list app in Full-stack app · [remix](https://cenius.ai/marketplace/p/linework?ref=gh&utm_campaign=linework-webapp)
 - [Taskfield](https://github.com/Cenius-ai/taskfield-flask) — open-source to-do list app in Flask · [remix](https://cenius.ai/marketplace/p/taskfield?ref=gh&utm_campaign=taskfield-flask)
 - [Kanban Board SPA](https://github.com/Cenius-ai/kanban-board-spa-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/kanban-board-spa-3?ref=gh&utm_campaign=kanban-board-spa-vite)
@@ -194,6 +195,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [TaskLane](https://github.com/Cenius-ai/tasklane-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/tasklane?ref=gh&utm_campaign=tasklane-vite)
 - [Worksync — Team Project Manager](https://github.com/Cenius-ai/worksync-team-project-manager-scala) — open-source monitoring dashboard in Scala · [remix](https://cenius.ai/marketplace/p/worksync-team-project-manager?ref=gh&utm_campaign=worksync-team-project-manager-scala)
 - [Aster](https://github.com/Cenius-ai/aster-webapp) — open-source photography monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/aster-3?ref=gh&utm_campaign=aster-webapp)
 - [Loom](https://github.com/Cenius-ai/loom-vite) — open-source log monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/loom?ref=gh&utm_campaign=loom-vite)
