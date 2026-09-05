@@ -191,6 +191,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Aster](https://github.com/Cenius-ai/aster-webapp) — open-source photography monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/aster-3?ref=gh&utm_campaign=aster-webapp)
 - [Loom](https://github.com/Cenius-ai/loom-vite) — open-source log monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/loom?ref=gh&utm_campaign=loom-vite)
 - [Onyx - Log Viewer & Saved Views](https://github.com/Cenius-ai/onyx-log-viewer-saved-views-vite) — open-source log monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/onyx---log-viewer-saved-views?ref=gh&utm_campaign=onyx-log-viewer-saved-views-vite)
 - [Offboardly](https://github.com/Cenius-ai/offboardly-vlang-2) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/offboardly-3?ref=gh&utm_campaign=offboardly-vlang-2)
