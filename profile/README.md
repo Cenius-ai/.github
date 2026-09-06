@@ -118,6 +118,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Simple Task Todo Web App](https://github.com/Cenius-ai/simple-task-todo-web-app-haskell) — open-source to-do list app in Haskell · [remix](https://cenius.ai/marketplace/p/simple-task-todo-web-app?ref=gh&utm_campaign=simple-task-todo-web-app-haskell)
 - [TaskFlow — Personal Task Manager](https://github.com/Cenius-ai/taskflow-personal-task-manager-vlang) — open-source to-do list app in V · [remix](https://cenius.ai/marketplace/p/taskflow-personal-task-manager?ref=gh&utm_campaign=taskflow-personal-task-manager-vlang)
 - [Linework](https://github.com/Cenius-ai/linework-webapp) — open-source to-do list app in Full-stack app · [remix](https://cenius.ai/marketplace/p/linework?ref=gh&utm_campaign=linework-webapp)
 - [Taskfield](https://github.com/Cenius-ai/taskfield-flask) — open-source to-do list app in Flask · [remix](https://cenius.ai/marketplace/p/taskfield?ref=gh&utm_campaign=taskfield-flask)
