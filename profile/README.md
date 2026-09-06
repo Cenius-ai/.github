@@ -196,6 +196,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [GenieSprint](https://github.com/Cenius-ai/geniesprint-julia) — open-source monitoring dashboard in Julia · [remix](https://cenius.ai/marketplace/p/geniesprint?ref=gh&utm_campaign=geniesprint-julia)
 - [TaskLane](https://github.com/Cenius-ai/tasklane-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/tasklane?ref=gh&utm_campaign=tasklane-vite)
 - [Worksync — Team Project Manager](https://github.com/Cenius-ai/worksync-team-project-manager-scala) — open-source monitoring dashboard in Scala · [remix](https://cenius.ai/marketplace/p/worksync-team-project-manager?ref=gh&utm_campaign=worksync-team-project-manager-scala)
 - [Aster](https://github.com/Cenius-ai/aster-webapp) — open-source photography monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/aster-3?ref=gh&utm_campaign=aster-webapp)
