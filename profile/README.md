@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [SimpleZigShortener](https://github.com/Cenius-ai/simplezigshortener-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/simplezigshortener?ref=gh&utm_campaign=simplezigshortener-webapp)
 - [NimbusCRM](https://github.com/Cenius-ai/nimbuscrm-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/nimbuscrm?ref=gh&utm_campaign=nimbuscrm-webapp)
 - [Aster](https://github.com/Cenius-ai/aster-nodejs) — open-source photography web application in Node.js · [remix](https://cenius.ai/marketplace/p/aster?ref=gh&utm_campaign=aster-nodejs)
 - [Slate](https://github.com/Cenius-ai/slate-vite) — open-source web application in Vite · [remix](https://cenius.ai/marketplace/p/slate-4?ref=gh&utm_campaign=slate-vite)
