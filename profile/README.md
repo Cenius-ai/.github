@@ -120,6 +120,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [LiveBoard](https://github.com/Cenius-ai/liveboard-phoenix) — open-source kanban board in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/liveboard?ref=gh&utm_campaign=liveboard-phoenix)
 - [Simple Task Todo Web App](https://github.com/Cenius-ai/simple-task-todo-web-app-haskell) — open-source to-do list app in Haskell · [remix](https://cenius.ai/marketplace/p/simple-task-todo-web-app?ref=gh&utm_campaign=simple-task-todo-web-app-haskell)
 - [TaskFlow — Personal Task Manager](https://github.com/Cenius-ai/taskflow-personal-task-manager-vlang) — open-source to-do list app in V · [remix](https://cenius.ai/marketplace/p/taskflow-personal-task-manager?ref=gh&utm_campaign=taskflow-personal-task-manager-vlang)
 - [Linework](https://github.com/Cenius-ai/linework-webapp) — open-source to-do list app in Full-stack app · [remix](https://cenius.ai/marketplace/p/linework?ref=gh&utm_campaign=linework-webapp)
@@ -199,6 +200,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [TaskLane](https://github.com/Cenius-ai/tasklane-haskell) — open-source monitoring dashboard in Haskell · [remix](https://cenius.ai/marketplace/p/tasklane-2?ref=gh&utm_campaign=tasklane-haskell)
 - [GenieSprint](https://github.com/Cenius-ai/geniesprint-julia) — open-source monitoring dashboard in Julia · [remix](https://cenius.ai/marketplace/p/geniesprint?ref=gh&utm_campaign=geniesprint-julia)
 - [TaskLane](https://github.com/Cenius-ai/tasklane-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/tasklane?ref=gh&utm_campaign=tasklane-vite)
 - [Worksync — Team Project Manager](https://github.com/Cenius-ai/worksync-team-project-manager-scala) — open-source monitoring dashboard in Scala · [remix](https://cenius.ai/marketplace/p/worksync-team-project-manager?ref=gh&utm_campaign=worksync-team-project-manager-scala)
