@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Relay CRM](https://github.com/Cenius-ai/relay-crm-golang) — open-source CRM system in Go · [remix](https://cenius.ai/marketplace/p/relay-crm?ref=gh&utm_campaign=relay-crm-golang)
 - [Erlang Contact & Company CRM](https://github.com/Cenius-ai/erlang-contact-company-crm-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/erlang-contact-company-crm?ref=gh&utm_campaign=erlang-contact-company-crm-webapp)
 - [SimpleZigShortener](https://github.com/Cenius-ai/simplezigshortener-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/simplezigshortener?ref=gh&utm_campaign=simplezigshortener-webapp)
 - [NimbusCRM](https://github.com/Cenius-ai/nimbuscrm-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/nimbuscrm?ref=gh&utm_campaign=nimbuscrm-webapp)
