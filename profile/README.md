@@ -296,6 +296,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Harbor](https://github.com/Cenius-ai/harbor-webapp) — open-source blog platform in Full-stack app · [remix](https://cenius.ai/marketplace/p/harbor?ref=gh&utm_campaign=harbor-webapp)
 - [Onyx — Product Mockups AI Studio](https://github.com/Cenius-ai/onyx-product-mockups-ai-studio-django) — open-source photo gallery app in Django · [remix](https://cenius.ai/marketplace/p/onyx-product-mockups-ai-studio?ref=gh&utm_campaign=onyx-product-mockups-ai-studio-django)
 - [Recipe Explorer](https://github.com/Cenius-ai/recipe-explorer-vite) — open-source recipe manager in Vite · [remix](https://cenius.ai/marketplace/p/recipe-explorer?ref=gh&utm_campaign=recipe-explorer-vite)
 - [Orbit Photography Portfolio](https://github.com/Cenius-ai/orbit-photography-portfolio-astro) — open-source photography photo gallery app in Astro · [remix](https://cenius.ai/marketplace/p/orbit-photography-portfolio?ref=gh&utm_campaign=orbit-photography-portfolio-astro)
