@@ -84,6 +84,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Peak](https://github.com/Cenius-ai/peak-kotlin) — open-source e-commerce storefront in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/peak?ref=gh&utm_campaign=peak-kotlin)
 - [Sage - Salon Booking Platform](https://github.com/Cenius-ai/sage-salon-booking-platform-vite) — open-source salon appointment scheduling system in Vite · [remix](https://cenius.ai/marketplace/p/sage---salon-booking-platform?ref=gh&utm_campaign=sage-salon-booking-platform-vite)
 - [Mist - Local Services Multi-Vendor Marketplace](https://github.com/Cenius-ai/mist-local-services-multi-vendor-marketplace-vlang) — open-source marketplace platform in V · [remix](https://cenius.ai/marketplace/p/mist---local-services-multi-vendor-marketplace?ref=gh&utm_campaign=mist-local-services-multi-vendor-marketplace-vlang)
 - [Express EJS Bookstore](https://github.com/Cenius-ai/express-ejs-bookstore-nodejs) — open-source book e-commerce storefront in Node.js · [remix](https://cenius.ai/marketplace/p/express-ejs-bookstore?ref=gh&utm_campaign=express-ejs-bookstore-nodejs)
@@ -361,6 +362,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [Iris](https://github.com/Cenius-ai/iris-fastapi) — open-source book social network app in FastAPI · [remix](https://cenius.ai/marketplace/p/iris?ref=gh&utm_campaign=iris-fastapi)
 - [TeamChat](https://github.com/Cenius-ai/teamchat-phoenix) — open-source chat application in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/teamchat?ref=gh&utm_campaign=teamchat-phoenix)
 - [Guestbook App](https://github.com/Cenius-ai/guestbook-app-flask) — open-source book social network app in Flask · [remix](https://cenius.ai/marketplace/p/guestbook-app?ref=gh&utm_campaign=guestbook-app-flask)
 - [OrgSocial POC](https://github.com/Cenius-ai/orgsocial-poc-nodejs) — open-source social network app in Node.js · [remix](https://cenius.ai/marketplace/p/orgsocial-poc?ref=gh&utm_campaign=orgsocial-poc-nodejs)
