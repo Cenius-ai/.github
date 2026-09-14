@@ -408,6 +408,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [wc-py — single-file Python word counter CLI](https://github.com/Cenius-ai/wc-py-single-file-python-word-counter-cli-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/wc-py-single-file-python-word-counter-cli?ref=gh&utm_campaign=wc-py-single-file-python-word-counter-cli-webapp)
 - [wordcount — single-file CLI word counter](https://github.com/Cenius-ai/wordcount-single-file-cli-word-counter-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/wordcount-single-file-cli-word-counter?ref=gh&utm_campaign=wordcount-single-file-cli-word-counter-webapp)
 - [BoardGameShelf](https://github.com/Cenius-ai/boardgameshelf-vite) — open-source software library in Vite · [remix](https://cenius.ai/marketplace/p/boardgameshelf?ref=gh&utm_campaign=boardgameshelf-vite)
 - [CSV to JSON CLI](https://github.com/Cenius-ai/csv-to-json-cli-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/csv-to-json-cli?ref=gh&utm_campaign=csv-to-json-cli-webapp)
