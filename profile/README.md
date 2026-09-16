@@ -408,6 +408,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Wordcount CLI](https://github.com/Cenius-ai/wordcount-cli-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/wordcount-cli?ref=gh&utm_campaign=wordcount-cli-webapp)
 - [wordcount (single-file Python CLI)](https://github.com/Cenius-ai/wordcount-single-file-python-cli-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/wordcount-single-file-python-cli?ref=gh&utm_campaign=wordcount-single-file-python-cli-webapp)
 - [wordcount — single-file word counter CLI](https://github.com/Cenius-ai/wordcount-single-file-word-counter-cli-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/wordcount-single-file-word-counter-cli?ref=gh&utm_campaign=wordcount-single-file-word-counter-cli-webapp)
 - [wc-py — single-file Python word counter CLI](https://github.com/Cenius-ai/wc-py-single-file-python-word-counter-cli-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/wc-py-single-file-python-word-counter-cli?ref=gh&utm_campaign=wc-py-single-file-python-word-counter-cli-webapp)
