@@ -202,6 +202,8 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [RetailPulse Dashboard](https://github.com/Cenius-ai/retailpulse-dashboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/retailpulse-dashboard?ref=gh&utm_campaign=retailpulse-dashboard-webapp)
+- [Sales Analytics Dashboard](https://github.com/Cenius-ai/sales-analytics-dashboard) — open-source monitoring dashboard in R/Shiny · [remix](https://cenius.ai/marketplace/p/sales-analytics-dashboard-3?ref=gh&utm_campaign=sales-analytics-dashboard)
 - [TaskLane](https://github.com/Cenius-ai/tasklane-haskell) — open-source monitoring dashboard in Haskell · [remix](https://cenius.ai/marketplace/p/tasklane-2?ref=gh&utm_campaign=tasklane-haskell)
 - [GenieSprint](https://github.com/Cenius-ai/geniesprint-julia) — open-source monitoring dashboard in Julia · [remix](https://cenius.ai/marketplace/p/geniesprint?ref=gh&utm_campaign=geniesprint-julia)
 - [TaskLane](https://github.com/Cenius-ai/tasklane-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/tasklane?ref=gh&utm_campaign=tasklane-vite)
