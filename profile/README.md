@@ -381,6 +381,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Sootprint](https://github.com/Cenius-ai/sootprint-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sootprint?ref=gh&utm_campaign=sootprint-webapp)
 - [wordcount CLI](https://github.com/Cenius-ai/wordcount-cli-webapp-7) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/wordcount-cli-7?ref=gh&utm_campaign=wordcount-cli-webapp-7)
 - [Kilanvil](https://github.com/Cenius-ai/kilanvil-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/kilanvil?ref=gh&utm_campaign=kilanvil-webapp)
 - [wordcount-cli](https://github.com/Cenius-ai/wordcount-cli-webapp-6) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/wordcount-cli-6?ref=gh&utm_campaign=wordcount-cli-webapp-6)
