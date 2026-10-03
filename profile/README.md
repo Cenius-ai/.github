@@ -381,6 +381,8 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [wordcount CLI](https://github.com/Cenius-ai/wordcount-cli-webapp-7) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/wordcount-cli-7?ref=gh&utm_campaign=wordcount-cli-webapp-7)
+- [Kilanvil](https://github.com/Cenius-ai/kilanvil-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/kilanvil?ref=gh&utm_campaign=kilanvil-webapp)
 - [wordcount-cli](https://github.com/Cenius-ai/wordcount-cli-webapp-6) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/wordcount-cli-6?ref=gh&utm_campaign=wordcount-cli-webapp-6)
 - [wordcount CLI](https://github.com/Cenius-ai/wordcount-cli-webapp-5) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/wordcount-cli-5?ref=gh&utm_campaign=wordcount-cli-webapp-5)
 - [Grainwell — single-file CLI malt bill, mash timer and IBU calculator](https://github.com/Cenius-ai/grainwell-single-file-cli-malt-bill-mash-timer-and-ibu-calculator-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/grainwell-single-file-cli-malt-bill-mash-timer-and-ibu-calculator?ref=gh&utm_campaign=grainwell-single-file-cli-malt-bill-mash-timer-and-ibu-calculator-webapp)
