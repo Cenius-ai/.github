@@ -381,6 +381,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [SapTap](https://github.com/Cenius-ai/saptap-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/saptap?ref=gh&utm_campaign=saptap-webapp)
 - [Tidegrid](https://github.com/Cenius-ai/tidegrid-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/tidegrid?ref=gh&utm_campaign=tidegrid-webapp)
 - [Sootprint](https://github.com/Cenius-ai/sootprint-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sootprint?ref=gh&utm_campaign=sootprint-webapp)
 - [wordcount CLI](https://github.com/Cenius-ai/wordcount-cli-webapp-7) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/wordcount-cli-7?ref=gh&utm_campaign=wordcount-cli-webapp-7)
