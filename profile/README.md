@@ -381,6 +381,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [PetrichorLog](https://github.com/Cenius-ai/petrichorlog-webapp) — open-source pet command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/petrichorlog?ref=gh&utm_campaign=petrichorlog-webapp)
 - [RuneCast CLI](https://github.com/Cenius-ai/runecast-cli-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/runecast-cli?ref=gh&utm_campaign=runecast-cli-webapp)
 - [SapTap](https://github.com/Cenius-ai/saptap-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/saptap?ref=gh&utm_campaign=saptap-webapp)
 - [Tidegrid](https://github.com/Cenius-ai/tidegrid-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/tidegrid?ref=gh&utm_campaign=tidegrid-webapp)
