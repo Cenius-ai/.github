@@ -381,6 +381,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [SedgeID](https://github.com/Cenius-ai/sedgeid-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sedgeid?ref=gh&utm_campaign=sedgeid-webapp)
 - [FossilGrid](https://github.com/Cenius-ai/fossilgrid-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/fossilgrid?ref=gh&utm_campaign=fossilgrid-webapp)
 - [BeeswaxBind](https://github.com/Cenius-ai/beeswaxbind-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/beeswaxbind?ref=gh&utm_campaign=beeswaxbind-webapp)
 - [ReefTally](https://github.com/Cenius-ai/reeftally-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/reeftally?ref=gh&utm_campaign=reeftally-webapp)
