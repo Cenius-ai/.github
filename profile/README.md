@@ -381,6 +381,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Fernery](https://github.com/Cenius-ai/fernery-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/fernery?ref=gh&utm_campaign=fernery-webapp)
 - [Plumbline](https://github.com/Cenius-ai/plumbline-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/plumbline?ref=gh&utm_campaign=plumbline-webapp)
 - [BirdBand](https://github.com/Cenius-ai/birdband-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/birdband?ref=gh&utm_campaign=birdband-webapp)
 - [SedgeID](https://github.com/Cenius-ai/sedgeid-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sedgeid?ref=gh&utm_campaign=sedgeid-webapp)
