@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Harbour Mooring Waitlist Board](https://github.com/Cenius-ai/harbour-mooring-waitlist-board-vite) — open-source admin panel in Vite · [remix](https://cenius.ai/marketplace/p/harbour-mooring-waitlist-board?ref=gh&utm_campaign=harbour-mooring-waitlist-board-vite)
 - [Relay CRM](https://github.com/Cenius-ai/relay-crm-golang) — open-source CRM system in Go · [remix](https://cenius.ai/marketplace/p/relay-crm?ref=gh&utm_campaign=relay-crm-golang)
 - [Erlang Contact & Company CRM](https://github.com/Cenius-ai/erlang-contact-company-crm-webapp) — open-source CRM system in Full-stack app · [remix](https://cenius.ai/marketplace/p/erlang-contact-company-crm?ref=gh&utm_campaign=erlang-contact-company-crm-webapp)
 - [SimpleZigShortener](https://github.com/Cenius-ai/simplezigshortener-webapp) — open-source web application in Full-stack app · [remix](https://cenius.ai/marketplace/p/simplezigshortener?ref=gh&utm_campaign=simplezigshortener-webapp)
