@@ -382,6 +382,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Loomlight](https://github.com/Cenius-ai/loomlight-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/loomlight?ref=gh&utm_campaign=loomlight-webapp)
 - [LithoLog](https://github.com/Cenius-ai/litholog-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/litholog?ref=gh&utm_campaign=litholog-webapp)
 - [Fernery](https://github.com/Cenius-ai/fernery-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/fernery?ref=gh&utm_campaign=fernery-webapp)
 - [Plumbline](https://github.com/Cenius-ai/plumbline-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/plumbline?ref=gh&utm_campaign=plumbline-webapp)
