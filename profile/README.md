@@ -383,6 +383,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [TatamiFit — Tatami Mat Layout Planner (CLI)](https://github.com/Cenius-ai/tatamifit-tatami-mat-layout-planner-cli-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/tatamifit-tatami-mat-layout-planner-cli?ref=gh&utm_campaign=tatamifit-tatami-mat-layout-planner-cli-webapp)
 - [Seismolog](https://github.com/Cenius-ai/seismolog-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/seismolog?ref=gh&utm_campaign=seismolog-webapp)
 - [Radioglow](https://github.com/Cenius-ai/radioglow-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/radioglow?ref=gh&utm_campaign=radioglow-webapp)
 - [Chartroom](https://github.com/Cenius-ai/chartroom-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/chartroom?ref=gh&utm_campaign=chartroom-webapp)
