@@ -383,6 +383,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Pitchcatch](https://github.com/Cenius-ai/pitchcatch-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/pitchcatch?ref=gh&utm_campaign=pitchcatch-webapp)
 - [Corkage](https://github.com/Cenius-ai/corkage-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/corkage?ref=gh&utm_campaign=corkage-webapp)
 - [LockpickLog](https://github.com/Cenius-ai/lockpicklog-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/lockpicklog?ref=gh&utm_campaign=lockpicklog-webapp)
 - [BonsaiWire](https://github.com/Cenius-ai/bonsaiwire-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/bonsaiwire?ref=gh&utm_campaign=bonsaiwire-webapp)
