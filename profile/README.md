@@ -189,6 +189,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Lifeboat Crew Callout Roster](https://github.com/Cenius-ai/lifeboat-crew-callout-roster-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/lifeboat-crew-callout-roster?ref=gh&utm_campaign=lifeboat-crew-callout-roster-webapp)
 - [Beekeeping Swarm Call Dispatcher](https://github.com/Cenius-ai/beekeeping-swarm-call-dispatcher-webapp) — open-source volunteer monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/beekeeping-swarm-call-dispatcher?ref=gh&utm_campaign=beekeeping-swarm-call-dispatcher-webapp)
 - [RetailPulse Dashboard](https://github.com/Cenius-ai/retailpulse-dashboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/retailpulse-dashboard?ref=gh&utm_campaign=retailpulse-dashboard-webapp)
 - [Sales Analytics Dashboard](https://github.com/Cenius-ai/sales-analytics-dashboard) — open-source monitoring dashboard in R/Shiny · [remix](https://cenius.ai/marketplace/p/sales-analytics-dashboard-3?ref=gh&utm_campaign=sales-analytics-dashboard)
