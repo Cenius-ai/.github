@@ -384,6 +384,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Grapevined](https://github.com/Cenius-ai/grapevined-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/grapevined?ref=gh&utm_campaign=grapevined-webapp)
 - [Slurrymix](https://github.com/Cenius-ai/slurrymix-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/slurrymix?ref=gh&utm_campaign=slurrymix-webapp)
 - [Pitchcatch](https://github.com/Cenius-ai/pitchcatch-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/pitchcatch?ref=gh&utm_campaign=pitchcatch-webapp)
 - [Corkage](https://github.com/Cenius-ai/corkage-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/corkage?ref=gh&utm_campaign=corkage-webapp)
