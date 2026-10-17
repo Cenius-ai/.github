@@ -384,6 +384,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Parfleche](https://github.com/Cenius-ai/parfleche-webapp) — open-source recipe command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/parfleche?ref=gh&utm_campaign=parfleche-webapp)
 - [Grapevined](https://github.com/Cenius-ai/grapevined-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/grapevined?ref=gh&utm_campaign=grapevined-webapp)
 - [Slurrymix](https://github.com/Cenius-ai/slurrymix-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/slurrymix?ref=gh&utm_campaign=slurrymix-webapp)
 - [Pitchcatch](https://github.com/Cenius-ai/pitchcatch-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/pitchcatch?ref=gh&utm_campaign=pitchcatch-webapp)
