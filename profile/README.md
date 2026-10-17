@@ -384,6 +384,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Dowsel](https://github.com/Cenius-ai/dowsel-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/dowsel?ref=gh&utm_campaign=dowsel-webapp)
 - [Parfleche](https://github.com/Cenius-ai/parfleche-webapp) — open-source recipe command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/parfleche?ref=gh&utm_campaign=parfleche-webapp)
 - [Grapevined](https://github.com/Cenius-ai/grapevined-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/grapevined?ref=gh&utm_campaign=grapevined-webapp)
 - [Slurrymix](https://github.com/Cenius-ai/slurrymix-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/slurrymix?ref=gh&utm_campaign=slurrymix-webapp)
