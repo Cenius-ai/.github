@@ -390,6 +390,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [GrainRate](https://github.com/Cenius-ai/grainrate-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/grainrate?ref=gh&utm_campaign=grainrate-webapp)
 - [InkBlend](https://github.com/Cenius-ai/inkblend-webapp) — open-source recipe command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/inkblend?ref=gh&utm_campaign=inkblend-webapp)
 - [EquestrianFence](https://github.com/Cenius-ai/equestrianfence-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/equestrianfence?ref=gh&utm_campaign=equestrianfence-webapp)
 - [Hollowpipe](https://github.com/Cenius-ai/hollowpipe-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/hollowpipe?ref=gh&utm_campaign=hollowpipe-webapp)
