@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Wheelwright Workshop Orders](https://github.com/Cenius-ai/wheelwright-workshop-orders-fastapi) — open-source admin panel in FastAPI · [remix](https://cenius.ai/marketplace/p/wheelwright-workshop-orders?ref=gh&utm_campaign=wheelwright-workshop-orders-fastapi)
 - [Mosaic Tile Studio Orders](https://github.com/Cenius-ai/mosaic-tile-studio-orders-nodejs) — open-source CRM system in Node.js · [remix](https://cenius.ai/marketplace/p/mosaic-tile-studio-orders?ref=gh&utm_campaign=mosaic-tile-studio-orders-nodejs)
 - [Harbour Mooring Waitlist Board](https://github.com/Cenius-ai/harbour-mooring-waitlist-board-vite) — open-source admin panel in Vite · [remix](https://cenius.ai/marketplace/p/harbour-mooring-waitlist-board?ref=gh&utm_campaign=harbour-mooring-waitlist-board-vite)
 - [Relay CRM](https://github.com/Cenius-ai/relay-crm-golang) — open-source CRM system in Go · [remix](https://cenius.ai/marketplace/p/relay-crm?ref=gh&utm_campaign=relay-crm-golang)
