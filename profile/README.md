@@ -193,6 +193,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Tabletop Wargames Club Campaign](https://github.com/Cenius-ai/tabletop-wargames-club-campaign-vlang) — open-source book monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/tabletop-wargames-club-campaign?ref=gh&utm_campaign=tabletop-wargames-club-campaign-vlang)
 - [Sculpture Trail Visitor Map](https://github.com/Cenius-ai/sculpture-trail-visitor-map-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/sculpture-trail-visitor-map?ref=gh&utm_campaign=sculpture-trail-visitor-map-webapp)
 - [Community Choir Robe Fitting](https://github.com/Cenius-ai/community-choir-robe-fitting-django) — open-source monitoring dashboard in Django · [remix](https://cenius.ai/marketplace/p/community-choir-robe-fitting?ref=gh&utm_campaign=community-choir-robe-fitting-django)
 - [Drystone Cobble Street Survey](https://github.com/Cenius-ai/drystone-cobble-street-survey-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/drystone-cobble-street-survey?ref=gh&utm_campaign=drystone-cobble-street-survey-vlang)
