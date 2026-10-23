@@ -86,6 +86,9 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Allotment Water Rota Planner](https://github.com/Cenius-ai/allotment-water-rota-planner-nodejs) — open-source appointment scheduling system in Node.js · [remix](https://cenius.ai/marketplace/p/allotment-water-rota-planner?ref=gh&utm_campaign=allotment-water-rota-planner-nodejs)
+- [Ferry Timetable Notice Board](https://github.com/Cenius-ai/ferry-timetable-notice-board-nodejs) — open-source book appointment scheduling system in Node.js · [remix](https://cenius.ai/marketplace/p/ferry-timetable-notice-board?ref=gh&utm_campaign=ferry-timetable-notice-board-nodejs)
+- [Kiln Firing Schedule Desk](https://github.com/Cenius-ai/kiln-firing-schedule-desk-vite) — open-source appointment scheduling system in Vite · [remix](https://cenius.ai/marketplace/p/kiln-firing-schedule-desk?ref=gh&utm_campaign=kiln-firing-schedule-desk-vite)
 - [Carillon Recital Rota](https://github.com/Cenius-ai/carillon-recital-rota-nodejs) — open-source appointment scheduling system in Node.js · [remix](https://cenius.ai/marketplace/p/carillon-recital-rota?ref=gh&utm_campaign=carillon-recital-rota-nodejs)
 - [Allotment Seed Swap Counter](https://github.com/Cenius-ai/allotment-seed-swap-counter-nodejs) — open-source marketplace platform in Node.js · [remix](https://cenius.ai/marketplace/p/allotment-seed-swap-counter?ref=gh&utm_campaign=allotment-seed-swap-counter-nodejs)
 - [Peak](https://github.com/Cenius-ai/peak-kotlin) — open-source e-commerce storefront in Kotlin/Ktor · [remix](https://cenius.ai/marketplace/p/peak?ref=gh&utm_campaign=peak-kotlin)
