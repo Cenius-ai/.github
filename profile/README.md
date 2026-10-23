@@ -397,6 +397,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [HiveSplit](https://github.com/Cenius-ai/hivesplit-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/hivesplit?ref=gh&utm_campaign=hivesplit-webapp)
 - [TideLedger](https://github.com/Cenius-ai/tideledger-webapp) — open-source log command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/tideledger?ref=gh&utm_campaign=tideledger-webapp)
 - [GristMill](https://github.com/Cenius-ai/gristmill-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/gristmill?ref=gh&utm_campaign=gristmill-webapp)
 - [SparGauge](https://github.com/Cenius-ai/spargauge-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/spargauge?ref=gh&utm_campaign=spargauge-webapp)
