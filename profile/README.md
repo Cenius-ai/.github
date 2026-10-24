@@ -196,6 +196,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Funicular Railway Operations Board](https://github.com/Cenius-ai/funicular-railway-operations-board-nodejs) — open-source monitoring dashboard in Node.js · [remix](https://cenius.ai/marketplace/p/funicular-railway-operations-board?ref=gh&utm_campaign=funicular-railway-operations-board-nodejs)
 - [Mushroom Spawn Run Analytics](https://github.com/Cenius-ai/mushroom-spawn-run-analytics-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/mushroom-spawn-run-analytics?ref=gh&utm_campaign=mushroom-spawn-run-analytics-webapp)
 - [Tabletop Wargames Club Campaign](https://github.com/Cenius-ai/tabletop-wargames-club-campaign-vlang) — open-source book monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/tabletop-wargames-club-campaign?ref=gh&utm_campaign=tabletop-wargames-club-campaign-vlang)
 - [Sculpture Trail Visitor Map](https://github.com/Cenius-ai/sculpture-trail-visitor-map-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/sculpture-trail-visitor-map?ref=gh&utm_campaign=sculpture-trail-visitor-map-webapp)
