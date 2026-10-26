@@ -402,6 +402,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Stiltstep](https://github.com/Cenius-ai/stiltstep-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/stiltstep?ref=gh&utm_campaign=stiltstep-webapp)
 - [StaveRift](https://github.com/Cenius-ai/staverift-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/staverift?ref=gh&utm_campaign=staverift-webapp)
 - [RuneTally2](https://github.com/Cenius-ai/runetally2-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/runetally2?ref=gh&utm_campaign=runetally2-webapp)
 - [TesseractAtlas](https://github.com/Cenius-ai/tesseractatlas-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/tesseractatlas?ref=gh&utm_campaign=tesseractatlas-webapp)
