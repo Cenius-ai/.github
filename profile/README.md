@@ -125,6 +125,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Askwell Q and A Forum](https://github.com/Cenius-ai/askwell-q-and-a-forum-nodejs) — open-source knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/askwell-q-and-a-forum?ref=gh&utm_campaign=askwell-q-and-a-forum-nodejs)
 - [Shipwreck Dive Site Almanac](https://github.com/Cenius-ai/shipwreck-dive-site-almanac-python) — open-source knowledge base app in Python · [remix](https://cenius.ai/marketplace/p/shipwreck-dive-site-almanac?ref=gh&utm_campaign=shipwreck-dive-site-almanac-python)
 - [TaskCraft](https://github.com/Cenius-ai/taskcraft-webapp) — open-source to-do list app in Full-stack app · [remix](https://cenius.ai/marketplace/p/taskcraft?ref=gh&utm_campaign=taskcraft-webapp)
 - [LiveBoard](https://github.com/Cenius-ai/liveboard-phoenix) — open-source kanban board in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/liveboard?ref=gh&utm_campaign=liveboard-phoenix)
