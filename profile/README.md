@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Releasesmith Changelog Generator](https://github.com/Cenius-ai/releasesmith-changelog-generator-fastapi) — open-source web application in FastAPI · [remix](https://cenius.ai/marketplace/p/releasesmith-changelog-generator?ref=gh&utm_campaign=releasesmith-changelog-generator-fastapi)
 - [Postbox Newsletter Manager](https://github.com/Cenius-ai/postbox-newsletter-manager-flask) — open-source web application in Flask · [remix](https://cenius.ai/marketplace/p/postbox-newsletter-manager?ref=gh&utm_campaign=postbox-newsletter-manager-flask)
 - [Wheelwright Workshop Orders](https://github.com/Cenius-ai/wheelwright-workshop-orders-fastapi) — open-source admin panel in FastAPI · [remix](https://cenius.ai/marketplace/p/wheelwright-workshop-orders?ref=gh&utm_campaign=wheelwright-workshop-orders-fastapi)
 - [Mosaic Tile Studio Orders](https://github.com/Cenius-ai/mosaic-tile-studio-orders-nodejs) — open-source CRM system in Node.js · [remix](https://cenius.ai/marketplace/p/mosaic-tile-studio-orders?ref=gh&utm_campaign=mosaic-tile-studio-orders-nodejs)
