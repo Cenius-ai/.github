@@ -402,6 +402,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [IronBark](https://github.com/Cenius-ai/ironbark-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/ironbark?ref=gh&utm_campaign=ironbark-webapp)
 - [SetlistStack](https://github.com/Cenius-ai/setliststack-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/setliststack?ref=gh&utm_campaign=setliststack-webapp)
 - [Stiltstep](https://github.com/Cenius-ai/stiltstep-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/stiltstep?ref=gh&utm_campaign=stiltstep-webapp)
 - [StaveRift](https://github.com/Cenius-ai/staverift-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/staverift?ref=gh&utm_campaign=staverift-webapp)
