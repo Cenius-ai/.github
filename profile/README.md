@@ -23,6 +23,7 @@
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+- [Deskline Requester Ticket Inbox](https://github.com/Cenius-ai/deskline-requester-ticket-inbox-django) — open-source CRM system in Django · [remix](https://cenius.ai/marketplace/p/deskline-requester-ticket-inbox?ref=gh&utm_campaign=deskline-requester-ticket-inbox-django)
 - [Releasesmith Changelog Generator](https://github.com/Cenius-ai/releasesmith-changelog-generator-fastapi) — open-source web application in FastAPI · [remix](https://cenius.ai/marketplace/p/releasesmith-changelog-generator?ref=gh&utm_campaign=releasesmith-changelog-generator-fastapi)
 - [Postbox Newsletter Manager](https://github.com/Cenius-ai/postbox-newsletter-manager-flask) — open-source web application in Flask · [remix](https://cenius.ai/marketplace/p/postbox-newsletter-manager?ref=gh&utm_campaign=postbox-newsletter-manager-flask)
 - [Wheelwright Workshop Orders](https://github.com/Cenius-ai/wheelwright-workshop-orders-fastapi) — open-source admin panel in FastAPI · [remix](https://cenius.ai/marketplace/p/wheelwright-workshop-orders?ref=gh&utm_campaign=wheelwright-workshop-orders-fastapi)
