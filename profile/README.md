@@ -406,6 +406,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [HopBaleCount](https://github.com/Cenius-ai/hopbalecount-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/hopbalecount?ref=gh&utm_campaign=hopbalecount-webapp)
 - [LoomLedge](https://github.com/Cenius-ai/loomledge-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/loomledge?ref=gh&utm_campaign=loomledge-webapp)
 - [IronBark](https://github.com/Cenius-ai/ironbark-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/ironbark?ref=gh&utm_campaign=ironbark-webapp)
 - [SetlistStack](https://github.com/Cenius-ai/setliststack-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/setliststack?ref=gh&utm_campaign=setliststack-webapp)
