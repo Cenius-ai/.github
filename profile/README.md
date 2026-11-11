@@ -407,6 +407,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [SporePrint](https://github.com/Cenius-ai/sporeprint-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sporeprint?ref=gh&utm_campaign=sporeprint-webapp)
 - [SourDoughClock](https://github.com/Cenius-ai/sourdoughclock-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sourdoughclock?ref=gh&utm_campaign=sourdoughclock-webapp)
 - [HopBaleCount](https://github.com/Cenius-ai/hopbalecount-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/hopbalecount?ref=gh&utm_campaign=hopbalecount-webapp)
 - [LoomLedge](https://github.com/Cenius-ai/loomledge-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/loomledge?ref=gh&utm_campaign=loomledge-webapp)
