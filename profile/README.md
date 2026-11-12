@@ -409,6 +409,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [TrekPermit](https://github.com/Cenius-ai/trekpermit-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/trekpermit?ref=gh&utm_campaign=trekpermit-webapp)
 - [SkepStack](https://github.com/Cenius-ai/skepstack-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/skepstack?ref=gh&utm_campaign=skepstack-webapp)
 - [FretLevel](https://github.com/Cenius-ai/fretlevel-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/fretlevel?ref=gh&utm_campaign=fretlevel-webapp)
 - [SporeLog](https://github.com/Cenius-ai/sporelog-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sporelog?ref=gh&utm_campaign=sporelog-webapp)
