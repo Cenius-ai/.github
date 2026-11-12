@@ -407,6 +407,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [FretLevel](https://github.com/Cenius-ai/fretlevel-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/fretlevel?ref=gh&utm_campaign=fretlevel-webapp)
 - [SporeLog](https://github.com/Cenius-ai/sporelog-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sporelog?ref=gh&utm_campaign=sporelog-webapp)
 - [SporePrint](https://github.com/Cenius-ai/sporeprint-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sporeprint?ref=gh&utm_campaign=sporeprint-webapp)
 - [SourDoughClock](https://github.com/Cenius-ai/sourdoughclock-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sourdoughclock?ref=gh&utm_campaign=sourdoughclock-webapp)
