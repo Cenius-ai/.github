@@ -201,6 +201,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Metricscope Time-Series Explorer](https://github.com/Cenius-ai/metricscope-time-series-explorer-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/metricscope-time-series-explorer?ref=gh&utm_campaign=metricscope-time-series-explorer-webapp)
 - [Hearth Homelab Start Page](https://github.com/Cenius-ai/hearth-homelab-start-page-webapp) — open-source bookmark monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/hearth-homelab-start-page?ref=gh&utm_campaign=hearth-homelab-start-page-webapp)
 - [Volcanic Gas Plume Explorer](https://github.com/Cenius-ai/volcanic-gas-plume-explorer-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/volcanic-gas-plume-explorer?ref=gh&utm_campaign=volcanic-gas-plume-explorer-webapp)
 - [Tram Depot Car Allocation Board](https://github.com/Cenius-ai/tram-depot-car-allocation-board-nodejs) — open-source monitoring dashboard in Node.js · [remix](https://cenius.ai/marketplace/p/tram-depot-car-allocation-board?ref=gh&utm_campaign=tram-depot-car-allocation-board-nodejs)
@@ -365,6 +366,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
+- [Commons Forum Board](https://github.com/Cenius-ai/commons-forum-board-nodejs) — open-source social network app in Node.js · [remix](https://cenius.ai/marketplace/p/commons-forum-board?ref=gh&utm_campaign=commons-forum-board-nodejs)
 - [Iris](https://github.com/Cenius-ai/iris-fastapi) — open-source book social network app in FastAPI · [remix](https://cenius.ai/marketplace/p/iris?ref=gh&utm_campaign=iris-fastapi)
 - [TeamChat](https://github.com/Cenius-ai/teamchat-phoenix) — open-source chat application in Elixir/Phoenix · [remix](https://cenius.ai/marketplace/p/teamchat?ref=gh&utm_campaign=teamchat-phoenix)
 - [Guestbook App](https://github.com/Cenius-ai/guestbook-app-flask) — open-source book social network app in Flask · [remix](https://cenius.ai/marketplace/p/guestbook-app?ref=gh&utm_campaign=guestbook-app-flask)
