@@ -201,6 +201,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Hearth Homelab Start Page](https://github.com/Cenius-ai/hearth-homelab-start-page-webapp) — open-source bookmark monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/hearth-homelab-start-page?ref=gh&utm_campaign=hearth-homelab-start-page-webapp)
 - [Volcanic Gas Plume Explorer](https://github.com/Cenius-ai/volcanic-gas-plume-explorer-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/volcanic-gas-plume-explorer?ref=gh&utm_campaign=volcanic-gas-plume-explorer-webapp)
 - [Tram Depot Car Allocation Board](https://github.com/Cenius-ai/tram-depot-car-allocation-board-nodejs) — open-source monitoring dashboard in Node.js · [remix](https://cenius.ai/marketplace/p/tram-depot-car-allocation-board?ref=gh&utm_campaign=tram-depot-car-allocation-board-nodejs)
 - [Rope Walk Cordage Orders](https://github.com/Cenius-ai/rope-walk-cordage-orders-vite) — open-source monitoring dashboard in Vite · [remix](https://cenius.ai/marketplace/p/rope-walk-cordage-orders?ref=gh&utm_campaign=rope-walk-cordage-orders-vite)
