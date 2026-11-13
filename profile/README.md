@@ -201,6 +201,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Polyglotter Translation Hub](https://github.com/Cenius-ai/polyglotter-translation-hub-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/polyglotter-translation-hub?ref=gh&utm_campaign=polyglotter-translation-hub-vlang)
 - [Metricscope Time-Series Explorer](https://github.com/Cenius-ai/metricscope-time-series-explorer-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/metricscope-time-series-explorer?ref=gh&utm_campaign=metricscope-time-series-explorer-webapp)
 - [Hearth Homelab Start Page](https://github.com/Cenius-ai/hearth-homelab-start-page-webapp) — open-source bookmark monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/hearth-homelab-start-page?ref=gh&utm_campaign=hearth-homelab-start-page-webapp)
 - [Volcanic Gas Plume Explorer](https://github.com/Cenius-ai/volcanic-gas-plume-explorer-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/volcanic-gas-plume-explorer?ref=gh&utm_campaign=volcanic-gas-plume-explorer-webapp)
