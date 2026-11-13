@@ -412,6 +412,8 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [InkFathom](https://github.com/Cenius-ai/inkfathom-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/inkfathom?ref=gh&utm_campaign=inkfathom-webapp)
+- [Taceo — Latin Principal Parts & Case Ending Drill (single-file CLI)](https://github.com/Cenius-ai/taceo-latin-principal-parts-case-ending-drill-single-file-cli-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/taceo-latin-principal-parts-case-ending-drill-single-file-cli?ref=gh&utm_campaign=taceo-latin-principal-parts-case-ending-drill-single-file-cli-webapp)
 - [TrekPermit](https://github.com/Cenius-ai/trekpermit-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/trekpermit?ref=gh&utm_campaign=trekpermit-webapp)
 - [SkepStack](https://github.com/Cenius-ai/skepstack-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/skepstack?ref=gh&utm_campaign=skepstack-webapp)
 - [FretLevel](https://github.com/Cenius-ai/fretlevel-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/fretlevel?ref=gh&utm_campaign=fretlevel-webapp)
