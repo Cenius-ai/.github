@@ -201,6 +201,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Reviewlens Sentiment Analyzer](https://github.com/Cenius-ai/reviewlens-sentiment-analyzer-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/reviewlens-sentiment-analyzer?ref=gh&utm_campaign=reviewlens-sentiment-analyzer-webapp)
 - [Wattwise Energy Usage Dashboard](https://github.com/Cenius-ai/wattwise-energy-usage-dashboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/wattwise-energy-usage-dashboard?ref=gh&utm_campaign=wattwise-energy-usage-dashboard-webapp)
 - [Polyglotter Translation Hub](https://github.com/Cenius-ai/polyglotter-translation-hub-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/polyglotter-translation-hub?ref=gh&utm_campaign=polyglotter-translation-hub-vlang)
 - [Metricscope Time-Series Explorer](https://github.com/Cenius-ai/metricscope-time-series-explorer-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/metricscope-time-series-explorer?ref=gh&utm_campaign=metricscope-time-series-explorer-webapp)
