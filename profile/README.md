@@ -414,6 +414,8 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [PermitRidge](https://github.com/Cenius-ai/permitridge-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/permitridge?ref=gh&utm_campaign=permitridge-webapp)
+- [BreadCrumb](https://github.com/Cenius-ai/breadcrumb-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/breadcrumb?ref=gh&utm_campaign=breadcrumb-webapp)
 - [InkFathom](https://github.com/Cenius-ai/inkfathom-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/inkfathom?ref=gh&utm_campaign=inkfathom-webapp)
 - [Taceo — Latin Principal Parts & Case Ending Drill (single-file CLI)](https://github.com/Cenius-ai/taceo-latin-principal-parts-case-ending-drill-single-file-cli-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/taceo-latin-principal-parts-case-ending-drill-single-file-cli?ref=gh&utm_campaign=taceo-latin-principal-parts-case-ending-drill-single-file-cli-webapp)
 - [TrekPermit](https://github.com/Cenius-ai/trekpermit-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/trekpermit?ref=gh&utm_campaign=trekpermit-webapp)
