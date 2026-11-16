@@ -127,6 +127,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Sprintline Issue Tracker](https://github.com/Cenius-ai/sprintline-issue-tracker-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/sprintline-issue-tracker?ref=gh&utm_campaign=sprintline-issue-tracker-vite)
 - [Askwell Q and A Forum](https://github.com/Cenius-ai/askwell-q-and-a-forum-nodejs) — open-source knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/askwell-q-and-a-forum?ref=gh&utm_campaign=askwell-q-and-a-forum-nodejs)
 - [Shipwreck Dive Site Almanac](https://github.com/Cenius-ai/shipwreck-dive-site-almanac-python) — open-source knowledge base app in Python · [remix](https://cenius.ai/marketplace/p/shipwreck-dive-site-almanac?ref=gh&utm_campaign=shipwreck-dive-site-almanac-python)
 - [TaskCraft](https://github.com/Cenius-ai/taskcraft-webapp) — open-source to-do list app in Full-stack app · [remix](https://cenius.ai/marketplace/p/taskcraft?ref=gh&utm_campaign=taskcraft-webapp)
@@ -288,6 +289,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
+- [Spendflow Expense Reports](https://github.com/Cenius-ai/spendflow-expense-reports-vite) — open-source expense personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/spendflow-expense-reports?ref=gh&utm_campaign=spendflow-expense-reports-vite)
 - [Renewly Subscription Tracker](https://github.com/Cenius-ai/renewly-subscription-tracker-fastapi) — open-source personal finance tracker in FastAPI · [remix](https://cenius.ai/marketplace/p/renewly-subscription-tracker?ref=gh&utm_campaign=renewly-subscription-tracker-fastapi)
 - [Meridian — Personal Finance Dashboard](https://github.com/Cenius-ai/meridian-personal-finance-dashboard-webapp) — open-source expense personal finance tracker in Full-stack app · [remix](https://cenius.ai/marketplace/p/meridian-personal-finance-dashboard?ref=gh&utm_campaign=meridian-personal-finance-dashboard-webapp)
 - [Budget Tracker](https://github.com/Cenius-ai/budget-tracker-vite) — open-source expense personal finance tracker in Vite · [remix](https://cenius.ai/marketplace/p/budget-tracker?ref=gh&utm_campaign=budget-tracker-vite)
