@@ -414,6 +414,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [CometTrain](https://github.com/Cenius-ai/comettrain-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/comettrain?ref=gh&utm_campaign=comettrain-webapp)
 - [DeadReckon](https://github.com/Cenius-ai/deadreckon-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/deadreckon?ref=gh&utm_campaign=deadreckon-webapp)
 - [BasketryStitch](https://github.com/Cenius-ai/basketrystitch-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/basketrystitch?ref=gh&utm_campaign=basketrystitch-webapp)
 - [PermitRidge](https://github.com/Cenius-ai/permitridge-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/permitridge?ref=gh&utm_campaign=permitridge-webapp)
