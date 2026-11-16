@@ -89,6 +89,7 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+- [Zonebuddy Meeting Time Planner](https://github.com/Cenius-ai/zonebuddy-meeting-time-planner-nodejs) — open-source appointment scheduling system in Node.js · [remix](https://cenius.ai/marketplace/p/zonebuddy-meeting-time-planner?ref=gh&utm_campaign=zonebuddy-meeting-time-planner-nodejs)
 - [Allotment Water Rota Planner](https://github.com/Cenius-ai/allotment-water-rota-planner-nodejs) — open-source appointment scheduling system in Node.js · [remix](https://cenius.ai/marketplace/p/allotment-water-rota-planner?ref=gh&utm_campaign=allotment-water-rota-planner-nodejs)
 - [Ferry Timetable Notice Board](https://github.com/Cenius-ai/ferry-timetable-notice-board-nodejs) — open-source book appointment scheduling system in Node.js · [remix](https://cenius.ai/marketplace/p/ferry-timetable-notice-board?ref=gh&utm_campaign=ferry-timetable-notice-board-nodejs)
 - [Kiln Firing Schedule Desk](https://github.com/Cenius-ai/kiln-firing-schedule-desk-vite) — open-source appointment scheduling system in Vite · [remix](https://cenius.ai/marketplace/p/kiln-firing-schedule-desk?ref=gh&utm_campaign=kiln-firing-schedule-desk-vite)
@@ -201,6 +202,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Formdrop Form Backend Inbox](https://github.com/Cenius-ai/formdrop-form-backend-inbox-nodejs) — open-source monitoring dashboard in Node.js · [remix](https://cenius.ai/marketplace/p/formdrop-form-backend-inbox?ref=gh&utm_campaign=formdrop-form-backend-inbox-nodejs)
 - [Reviewlens Sentiment Analyzer](https://github.com/Cenius-ai/reviewlens-sentiment-analyzer-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/reviewlens-sentiment-analyzer?ref=gh&utm_campaign=reviewlens-sentiment-analyzer-webapp)
 - [Wattwise Energy Usage Dashboard](https://github.com/Cenius-ai/wattwise-energy-usage-dashboard-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/wattwise-energy-usage-dashboard?ref=gh&utm_campaign=wattwise-energy-usage-dashboard-webapp)
 - [Polyglotter Translation Hub](https://github.com/Cenius-ai/polyglotter-translation-hub-vlang) — open-source monitoring dashboard in V · [remix](https://cenius.ai/marketplace/p/polyglotter-translation-hub?ref=gh&utm_campaign=polyglotter-translation-hub-vlang)
