@@ -418,6 +418,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [FoamTrail](https://github.com/Cenius-ai/foamtrail-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/foamtrail?ref=gh&utm_campaign=foamtrail-webapp)
 - [BonsaiLog](https://github.com/Cenius-ai/bonsailog-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/bonsailog?ref=gh&utm_campaign=bonsailog-webapp)
 - [StitchGauge](https://github.com/Cenius-ai/stitchgauge-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/stitchgauge?ref=gh&utm_campaign=stitchgauge-webapp)
 - [TideClock](https://github.com/Cenius-ai/tideclock-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/tideclock?ref=gh&utm_campaign=tideclock-webapp)
