@@ -418,6 +418,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [VaneAlign](https://github.com/Cenius-ai/vanealign-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/vanealign?ref=gh&utm_campaign=vanealign-webapp)
 - [FoamTrail](https://github.com/Cenius-ai/foamtrail-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/foamtrail?ref=gh&utm_campaign=foamtrail-webapp)
 - [BonsaiLog](https://github.com/Cenius-ai/bonsailog-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/bonsailog?ref=gh&utm_campaign=bonsailog-webapp)
 - [StitchGauge](https://github.com/Cenius-ai/stitchgauge-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/stitchgauge?ref=gh&utm_campaign=stitchgauge-webapp)
