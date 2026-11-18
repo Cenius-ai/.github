@@ -203,6 +203,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Shiftboard Support Queue Analytics](https://github.com/Cenius-ai/shiftboard-support-queue-analytics-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/shiftboard-support-queue-analytics?ref=gh&utm_campaign=shiftboard-support-queue-analytics-webapp)
 - [Pipewatch Airflow DAG Run Monitor](https://github.com/Cenius-ai/pipewatch-airflow-dag-run-monitor-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/pipewatch-airflow-dag-run-monitor?ref=gh&utm_campaign=pipewatch-airflow-dag-run-monitor-webapp)
 - [Formdrop Form Backend Inbox](https://github.com/Cenius-ai/formdrop-form-backend-inbox-nodejs) — open-source monitoring dashboard in Node.js · [remix](https://cenius.ai/marketplace/p/formdrop-form-backend-inbox?ref=gh&utm_campaign=formdrop-form-backend-inbox-nodejs)
 - [Reviewlens Sentiment Analyzer](https://github.com/Cenius-ai/reviewlens-sentiment-analyzer-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/reviewlens-sentiment-analyzer?ref=gh&utm_campaign=reviewlens-sentiment-analyzer-webapp)
