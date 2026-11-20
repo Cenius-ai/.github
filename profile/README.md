@@ -420,6 +420,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Pultrude](https://github.com/Cenius-ai/pultrude-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/pultrude?ref=gh&utm_campaign=pultrude-webapp)
 - [TesseraLoom](https://github.com/Cenius-ai/tesseraloom-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/tesseraloom?ref=gh&utm_campaign=tesseraloom-webapp)
 - [AnuranCall](https://github.com/Cenius-ai/anurancall-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/anurancall?ref=gh&utm_campaign=anurancall-webapp)
 - [BraidCord](https://github.com/Cenius-ai/braidcord-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/braidcord?ref=gh&utm_campaign=braidcord-webapp)
