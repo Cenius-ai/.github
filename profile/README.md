@@ -421,6 +421,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [RimfireHold](https://github.com/Cenius-ai/rimfirehold-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/rimfirehold?ref=gh&utm_campaign=rimfirehold-webapp)
 - [AstroArc](https://github.com/Cenius-ai/astroarc-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/astroarc?ref=gh&utm_campaign=astroarc-webapp)
 - [Pultrude](https://github.com/Cenius-ai/pultrude-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/pultrude?ref=gh&utm_campaign=pultrude-webapp)
 - [TesseraLoom](https://github.com/Cenius-ai/tesseraloom-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/tesseraloom?ref=gh&utm_campaign=tesseraloom-webapp)
