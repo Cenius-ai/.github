@@ -421,6 +421,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [BellowsTally](https://github.com/Cenius-ai/bellowstally-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/bellowstally?ref=gh&utm_campaign=bellowstally-webapp)
 - [SparVarnish](https://github.com/Cenius-ai/sparvarnish-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sparvarnish?ref=gh&utm_campaign=sparvarnish-webapp)
 - [BalteusBelt](https://github.com/Cenius-ai/balteusbelt-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/balteusbelt?ref=gh&utm_campaign=balteusbelt-webapp)
 - [SextantArc](https://github.com/Cenius-ai/sextantarc-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sextantarc?ref=gh&utm_campaign=sextantarc-webapp)
