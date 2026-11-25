@@ -127,6 +127,8 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Teamretro Sprint Retrospective Board](https://github.com/Cenius-ai/teamretro-sprint-retrospective-board-nodejs) — open-source kanban board in Node.js · [remix](https://cenius.ai/marketplace/p/teamretro-sprint-retrospective-board?ref=gh&utm_campaign=teamretro-sprint-retrospective-board-nodejs)
+- [Citeshelf Reference Librarian](https://github.com/Cenius-ai/citeshelf-reference-librarian-django) — open-source knowledge base app in Django · [remix](https://cenius.ai/marketplace/p/citeshelf-reference-librarian?ref=gh&utm_campaign=citeshelf-reference-librarian-django)
 - [Sprintline Issue Tracker](https://github.com/Cenius-ai/sprintline-issue-tracker-vite) — open-source kanban board in Vite · [remix](https://cenius.ai/marketplace/p/sprintline-issue-tracker?ref=gh&utm_campaign=sprintline-issue-tracker-vite)
 - [Askwell Q and A Forum](https://github.com/Cenius-ai/askwell-q-and-a-forum-nodejs) — open-source knowledge base app in Node.js · [remix](https://cenius.ai/marketplace/p/askwell-q-and-a-forum?ref=gh&utm_campaign=askwell-q-and-a-forum-nodejs)
 - [Shipwreck Dive Site Almanac](https://github.com/Cenius-ai/shipwreck-dive-site-almanac-python) — open-source knowledge base app in Python · [remix](https://cenius.ai/marketplace/p/shipwreck-dive-site-almanac?ref=gh&utm_campaign=shipwreck-dive-site-almanac-python)
@@ -319,6 +321,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Feedharbor Offline RSS Reader](https://github.com/Cenius-ai/feedharbor-offline-rss-reader-flask) — open-source blog platform in Flask · [remix](https://cenius.ai/marketplace/p/feedharbor-offline-rss-reader?ref=gh&utm_campaign=feedharbor-offline-rss-reader-flask)
 - [Ladle Kitchen Cookbook](https://github.com/Cenius-ai/ladle-kitchen-cookbook-django) — open-source recipe manager in Django · [remix](https://cenius.ai/marketplace/p/ladle-kitchen-cookbook?ref=gh&utm_campaign=ladle-kitchen-cookbook-django)
 - [Harbor](https://github.com/Cenius-ai/harbor-webapp) — open-source blog platform in Full-stack app · [remix](https://cenius.ai/marketplace/p/harbor?ref=gh&utm_campaign=harbor-webapp)
 - [Onyx — Product Mockups AI Studio](https://github.com/Cenius-ai/onyx-product-mockups-ai-studio-django) — open-source photo gallery app in Django · [remix](https://cenius.ai/marketplace/p/onyx-product-mockups-ai-studio?ref=gh&utm_campaign=onyx-product-mockups-ai-studio-django)
