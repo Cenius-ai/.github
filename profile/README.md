@@ -421,6 +421,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [Coggly](https://github.com/Cenius-ai/coggly-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/coggly?ref=gh&utm_campaign=coggly-webapp)
 - [Biblist](https://github.com/Cenius-ai/biblist-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/biblist?ref=gh&utm_campaign=biblist-webapp)
 - [PalynoGrain](https://github.com/Cenius-ai/palynograin-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/palynograin?ref=gh&utm_campaign=palynograin-webapp)
 - [CastleHopp](https://github.com/Cenius-ai/castlehopp-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/castlehopp?ref=gh&utm_campaign=castlehopp-webapp)
