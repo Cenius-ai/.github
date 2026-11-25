@@ -321,6 +321,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+- [Mealgrid Weekly Meal Planner](https://github.com/Cenius-ai/mealgrid-weekly-meal-planner-fastapi) — open-source recipe manager in FastAPI · [remix](https://cenius.ai/marketplace/p/mealgrid-weekly-meal-planner?ref=gh&utm_campaign=mealgrid-weekly-meal-planner-fastapi)
 - [Feedharbor Offline RSS Reader](https://github.com/Cenius-ai/feedharbor-offline-rss-reader-flask) — open-source blog platform in Flask · [remix](https://cenius.ai/marketplace/p/feedharbor-offline-rss-reader?ref=gh&utm_campaign=feedharbor-offline-rss-reader-flask)
 - [Ladle Kitchen Cookbook](https://github.com/Cenius-ai/ladle-kitchen-cookbook-django) — open-source recipe manager in Django · [remix](https://cenius.ai/marketplace/p/ladle-kitchen-cookbook?ref=gh&utm_campaign=ladle-kitchen-cookbook-django)
 - [Harbor](https://github.com/Cenius-ai/harbor-webapp) — open-source blog platform in Full-stack app · [remix](https://cenius.ai/marketplace/p/harbor?ref=gh&utm_campaign=harbor-webapp)
