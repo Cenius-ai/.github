@@ -425,6 +425,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [CleatStomp](https://github.com/Cenius-ai/cleatstomp-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/cleatstomp?ref=gh&utm_campaign=cleatstomp-webapp)
 - [BasaltLedger](https://github.com/Cenius-ai/basaltledger-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/basaltledger?ref=gh&utm_campaign=basaltledger-webapp)
 - [Tarpitch](https://github.com/Cenius-ai/tarpitch-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/tarpitch?ref=gh&utm_campaign=tarpitch-webapp)
 - [Coggly](https://github.com/Cenius-ai/coggly-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/coggly?ref=gh&utm_campaign=coggly-webapp)
