@@ -205,6 +205,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Kafkalens Topic Browser](https://github.com/Cenius-ai/kafkalens-topic-browser-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/kafkalens-topic-browser?ref=gh&utm_campaign=kafkalens-topic-browser-webapp)
 - [Datacheck Quality Monitor](https://github.com/Cenius-ai/datacheck-quality-monitor-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/datacheck-quality-monitor?ref=gh&utm_campaign=datacheck-quality-monitor-webapp)
 - [Shiftboard Support Queue Analytics](https://github.com/Cenius-ai/shiftboard-support-queue-analytics-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/shiftboard-support-queue-analytics?ref=gh&utm_campaign=shiftboard-support-queue-analytics-webapp)
 - [Pipewatch Airflow DAG Run Monitor](https://github.com/Cenius-ai/pipewatch-airflow-dag-run-monitor-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/pipewatch-airflow-dag-run-monitor?ref=gh&utm_campaign=pipewatch-airflow-dag-run-monitor-webapp)
