@@ -425,6 +425,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [LestGauge](https://github.com/Cenius-ai/lestgauge-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/lestgauge?ref=gh&utm_campaign=lestgauge-webapp)
 - [CamLobe](https://github.com/Cenius-ai/camlobe-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/camlobe?ref=gh&utm_campaign=camlobe-webapp)
 - [GraftWhip](https://github.com/Cenius-ai/graftwhip-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/graftwhip?ref=gh&utm_campaign=graftwhip-webapp)
 - [CleatStomp](https://github.com/Cenius-ai/cleatstomp-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/cleatstomp?ref=gh&utm_campaign=cleatstomp-webapp)
