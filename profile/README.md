@@ -207,6 +207,7 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+- [Huddlecast Async Standup](https://github.com/Cenius-ai/huddlecast-async-standup-nodejs) — open-source monitoring dashboard in Node.js · [remix](https://cenius.ai/marketplace/p/huddlecast-async-standup?ref=gh&utm_campaign=huddlecast-async-standup-nodejs)
 - [Kafkalens Topic Browser](https://github.com/Cenius-ai/kafkalens-topic-browser-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/kafkalens-topic-browser?ref=gh&utm_campaign=kafkalens-topic-browser-webapp)
 - [Datacheck Quality Monitor](https://github.com/Cenius-ai/datacheck-quality-monitor-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/datacheck-quality-monitor?ref=gh&utm_campaign=datacheck-quality-monitor-webapp)
 - [Shiftboard Support Queue Analytics](https://github.com/Cenius-ai/shiftboard-support-queue-analytics-webapp) — open-source monitoring dashboard in Full-stack app · [remix](https://cenius.ai/marketplace/p/shiftboard-support-queue-analytics?ref=gh&utm_campaign=shiftboard-support-queue-analytics-webapp)
@@ -428,6 +429,7 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
+- [KubbsTally](https://github.com/Cenius-ai/kubbstally-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/kubbstally?ref=gh&utm_campaign=kubbstally-webapp)
 - [SloydBench](https://github.com/Cenius-ai/sloydbench-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/sloydbench?ref=gh&utm_campaign=sloydbench-webapp)
 - [LestGauge](https://github.com/Cenius-ai/lestgauge-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/lestgauge?ref=gh&utm_campaign=lestgauge-webapp)
 - [CamLobe](https://github.com/Cenius-ai/camlobe-webapp) — open-source command-line tool in Full-stack app · [remix](https://cenius.ai/marketplace/p/camlobe?ref=gh&utm_campaign=camlobe-webapp)
