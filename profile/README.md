@@ -127,6 +127,7 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+- [Applytrack Job Hunt Tracker](https://github.com/Cenius-ai/applytrack-job-hunt-tracker-nodejs) — open-source kanban board in Node.js · [remix](https://cenius.ai/marketplace/p/applytrack-job-hunt-tracker?ref=gh&utm_campaign=applytrack-job-hunt-tracker-nodejs)
 - [Metashelf Data Catalog](https://github.com/Cenius-ai/metashelf-data-catalog-vlang) — open-source knowledge base app in V · [remix](https://cenius.ai/marketplace/p/metashelf-data-catalog?ref=gh&utm_campaign=metashelf-data-catalog-vlang)
 - [Lineagemap Model Docs](https://github.com/Cenius-ai/lineagemap-model-docs-vlang) — open-source knowledge base app in V · [remix](https://cenius.ai/marketplace/p/lineagemap-model-docs?ref=gh&utm_campaign=lineagemap-model-docs-vlang)
 - [Teamretro Sprint Retrospective Board](https://github.com/Cenius-ai/teamretro-sprint-retrospective-board-nodejs) — open-source kanban board in Node.js · [remix](https://cenius.ai/marketplace/p/teamretro-sprint-retrospective-board?ref=gh&utm_campaign=teamretro-sprint-retrospective-board-nodejs)
